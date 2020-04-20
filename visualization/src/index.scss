@@ -9,6 +9,10 @@ svg {
 }
 
 .path {
-  stroke:rgba(#000, 0.12);
+  stroke:rgba(rgb(7, 134, 151), 0.12);
   stroke-width:1px;
+}
+
+svg.selected .path {
+  stroke:rgba(rgb(7, 134, 151), 0.8);
 }

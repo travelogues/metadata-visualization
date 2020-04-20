@@ -15,6 +15,10 @@ import { drawPath } from './d3/Path';
 
 class App {
 
+  constructor(elem) {
+    this.elem = elem;
+  }
+
   loadData = () => {
     return axios.get('TravelogueD16.json').then(response => {
       this.people = uniquePeople(response.data);
@@ -25,32 +29,52 @@ class App {
     });    
   }
 
-  render = elem => {
-    const svg = d3.select(elem)
+  onMouseOver = d => {
+    const records = this.timeline.getRecords(d.year);
+    this.updatePaths(records);
+  }
+
+  onMouseOut = d => {
+    this.updatePaths();
+  }
+
+  render = selectedPaths => {
+    const svg = d3.select(this.elem)
       .append('svg')
         .attr('width', WIDTH)
         .attr('height', HEIGHT);
 
-    const dateScale = renderWorksByDate(this.timeline, svg);
-    const peopleScale = renderPeopleScale(this.people, svg);
-    const placeScale = renderPublicationPlaces(this.places, svg);
-    const regionScale = renderMarkerRegions(this.markerRegions, svg);
+    this.dateScale = renderWorksByDate(this.timeline, svg, this.onMouseOver, this.onMouseOut);
+    this.peopleScale = renderPeopleScale(this.people, svg);
+    this.placeScale = renderPublicationPlaces(this.places, svg);
+    this.regionScale = renderMarkerRegions(this.markerRegions, svg);
 
-    this.records.forEach(r => {
+    this.svg = svg;
+    this.updatePaths(selectedPaths);
+  }
+  
+  // Horrible - clean up later
+  updatePaths = selectedPaths => {
+    // Clean slate
+    d3.select(this.elem).selectAll('line').remove();
+
+    d3.select('svg').attr('class', `${selectedPaths ? 'selected' : 'foo'}`)
+
+    const records = selectedPaths ? selectedPaths : this.records;
+
+    records.forEach(r => {
       const xCoords = [
-        dateScale(r.date),
-        r.people.map(p => peopleScale(p)),
-        placeScale(r.place_of_publication),
-        r.marker_regions.map(r => regionScale(r))
+        this.dateScale(r.date),
+        r.people.map(p => this.peopleScale(p)),
+        this.placeScale(r.place_of_publication),
+        r.marker_regions.map(r => this.regionScale(r))
       ]
 
-      drawPath(xCoords, svg);
+      drawPath(xCoords, this.svg);
     });
   }
 
 }
 
-const app = new App();
-app.loadData().then(() => {
-  app.render(document.getElementById('app'));
-});
+const app = new App(document.getElementById('app'));
+app.loadData().then(() => app.render());

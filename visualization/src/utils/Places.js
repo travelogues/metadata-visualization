@@ -3,6 +3,7 @@ export const uniquePublicationPlaces = records => {
   
   const unique = [...new Set(all)]; 
   unique.sort();
+  unique.reverse();
   
   return unique;
 }
