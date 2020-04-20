@@ -62,7 +62,7 @@ class App {
 
     const records = selectedPaths ? selectedPaths : this.records;
 
-    records.forEach(r => {
+    records.forEach((r, idx) => {
       const xCoords = [
         this.dateScale(r.date),
         r.people.map(p => this.peopleScale(p)),
@@ -70,7 +70,10 @@ class App {
         r.marker_regions.map(r => this.regionScale(r))
       ]
 
-      drawPath(xCoords, this.svg);
+      if (selectedPaths)
+        drawPath(xCoords, this.svg, r.barcode, idx);
+      else 
+        drawPath(xCoords, this.svg, r.barcode);
     });
   }
 

@@ -3,7 +3,7 @@ import * as d3 from 'd3';
 const Y_COORDS = [ 46, 100, 250, 370 ];
 
 
-export const drawPath = (xCoords, svg) => {
+export const drawPath = (xCoords, svg, barcode) => {
 
   const start = { x: xCoords[0], y: Y_COORDS[0] };
 
@@ -20,7 +20,8 @@ export const drawPath = (xCoords, svg) => {
       .attr('x1', l[0].x)
       .attr('y1', l[0].y)
       .attr('x2', l[1].x)
-      .attr('y2', l[1].y);
+      .attr('y2', l[1].y)
+      .attr('data-barcode', barcode)
   });
 
   // Publishers -> place

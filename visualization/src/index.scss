@@ -5,14 +5,14 @@ svg {
 
 .works-per-year {
   stroke-width:0;
-  fill:rgba(#984ea3, 0.9);
+  fill:rgba(#8e0da1, 0.8);
 }
 
 .path {
-  stroke:rgba(rgb(7, 134, 151), 0.12);
+  stroke:rgba(rgb(21, 41, 97), 0.2);
   stroke-width:1px;
 }
 
 svg.selected .path {
-  stroke:rgba(rgb(7, 134, 151), 0.8);
+  stroke:rgba(rgb(21, 41, 97), 0.8);
 }
