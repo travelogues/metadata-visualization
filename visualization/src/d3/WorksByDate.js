@@ -3,7 +3,6 @@ import * as d3 from 'd3';
 import { WIDTH } from '../Const';
 
 export const renderWorksByDate = (timeline, svg) => {
-
   const scale = d3.scaleLinear()
     .domain(timeline.getInterval())
     .range([0, WIDTH])
@@ -22,4 +21,6 @@ export const renderWorksByDate = (timeline, svg) => {
       .attr('r', d => 2 + d.count * 2)
       .attr('cx', d => scale(d.year))
       .attr('cy', 20);
+      
+  return scale;
 }

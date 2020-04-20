@@ -11,6 +11,7 @@ import { renderPublicationPlaces } from './d3/PublicationPlaces';
 import { WIDTH, HEIGHT } from './Const';
 
 import './index.scss';
+import { drawPath } from './d3/Path';
 
 class App {
 
@@ -20,6 +21,7 @@ class App {
       this.places = uniquePublicationPlaces(response.data);
       this.markerRegions = uniqueMarkerRegions(response.data);
       this.timeline = new Timeline(response.data);
+      this.records = response.data;
     });    
   }
 
@@ -29,11 +31,21 @@ class App {
         .attr('width', WIDTH)
         .attr('height', HEIGHT);
 
+    const dateScale = renderWorksByDate(this.timeline, svg);
+    const peopleScale = renderPeopleScale(this.people, svg);
+    const placeScale = renderPublicationPlaces(this.places, svg);
+    const regionScale = renderMarkerRegions(this.markerRegions, svg);
 
-    renderWorksByDate(this.timeline, svg);
-    renderMarkerRegions(this.markerRegions, svg);
-    renderPeopleScale(this.people, svg);
-    renderPublicationPlaces(this.places, svg);
+    this.records.forEach(r => {
+      const xCoords = [
+        dateScale(r.date),
+        r.people.map(p => peopleScale(p)),
+        placeScale(r.place_of_publication),
+        r.marker_regions.map(r => regionScale(r))
+      ]
+
+      drawPath(xCoords, svg);
+    });
   }
 
 }

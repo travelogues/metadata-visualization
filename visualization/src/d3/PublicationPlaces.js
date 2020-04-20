@@ -3,7 +3,6 @@ import * as d3 from 'd3';
 import { WIDTH } from '../Const';
 
 export const renderPublicationPlaces = (places, svg) => {
-
   const scale = d3.scalePoint()
     .domain(places)
     .range([0, WIDTH]);
@@ -17,4 +16,6 @@ export const renderPublicationPlaces = (places, svg) => {
       .attr('x', 9)
       .attr('transform', 'rotate(60)')
       .style('text-anchor', 'start');
+
+  return scale;
 }
