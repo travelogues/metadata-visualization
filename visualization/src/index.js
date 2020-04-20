@@ -1,11 +1,14 @@
 import axios from 'axios';
+import * as d3 from 'd3';
 import { uniquePeople } from './utils/People';
 import { uniquePublicationPlaces, uniqueMarkerRegions } from './utils/Places';
 import Timeline from './Timeline';
-import * as d3 from 'd3';
+import { renderMarkerRegions } from './d3/MarkerRegions';
+import { renderWorksByDate } from './d3/WorksByDate';
+import { renderPeopleScale } from './d3/People';
+import { renderPublicationPlaces } from './d3/PublicationPlaces';
 
-const WIDTH = 920;
-const HEIGHT = 200;
+import { WIDTH, HEIGHT } from './Const';
 
 import './index.scss';
 
@@ -26,24 +29,11 @@ class App {
         .attr('width', WIDTH)
         .attr('height', HEIGHT);
 
-    const scale = d3.scaleLinear()
-      .domain(this.timeline.getInterval())
-      .range([0, WIDTH])
-      .nice();
 
-    const axis = d3.axisBottom(scale).tickFormat(n => n)
-    svg.append('g')
-      .attr('transform', 'translate(0, 45)')
-      .call(axis);
-
-    svg.selectAll('.dot')
-      .data(this.timeline.getCounts())
-      .enter()
-        .append('circle')
-        .attr('class', 'works-per-year')
-        .attr('r', d => 2 + d.count * 2)
-        .attr('cx', d => scale(d.year))
-        .attr('cy', 20)
+    renderWorksByDate(this.timeline, svg);
+    renderMarkerRegions(this.markerRegions, svg);
+    renderPeopleScale(this.people, svg);
+    renderPublicationPlaces(this.places, svg);
   }
 
 }
