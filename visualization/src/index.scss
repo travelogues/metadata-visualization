@@ -1,18 +1,40 @@
+html, body {
+  background-color:#000;
+  padding:0;
+  margin:0;
+}
+
+body {
+  padding:30px;
+}
+
 svg {
   overflow:visible;
   shape-rendering:geometricPrecision;
 }
 
+g {
+ 
+  path {
+    stroke:#fff;
+  }
+
+  text{
+    fill:rgba(#fff, 0.8);
+  }
+
+}
+
 .works-per-year {
   stroke-width:0;
-  fill:rgba(#8e0da1, 0.8);
+  fill:rgba(#34ff4f, 0.8);
 }
 
 .path {
-  stroke:rgba(rgb(21, 41, 97), 0.2);
+  stroke:rgba(rgb(203, 255, 183), 0.1);
   stroke-width:1px;
 }
 
 svg.selected .path {
-  stroke:rgba(rgb(21, 41, 97), 0.8);
+  stroke:rgba(red, 0.8);
 }
