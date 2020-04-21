@@ -7,7 +7,7 @@ export const renderPublicationPlaces = (places, svg) => {
     .domain(places)
     .range([0, WIDTH]);
 
-  const axis = d3.axisBottom(scale).tickFormat(n => n)
+  const axis = d3.axisBottom(scale).tickFormat(n => n);
   svg.append('g')
     .attr('transform', 'translate(0, 190)')
     .call(axis)
@@ -18,4 +18,21 @@ export const renderPublicationPlaces = (places, svg) => {
       .style('text-anchor', 'start');
 
   return scale;
+}
+
+export const renderNERLocations = (locations, svg) => {
+  const scale = d3.scalePoint()
+    .domain(locations)
+    .range([0, WIDTH]);
+
+  const axis = d3.axisBottom(scale).tickFormat(n => n);
+  svg.append('g')
+    .attr('transform', 'translate(0, 460)')
+    .call(axis)
+    .selectAll('text')
+      .attr('y', 0)
+      .attr('x', 9)
+      .attr('transform', 'rotate(60)')
+      .style('text-anchor', 'start')
+      .style('font-size', '8px');
 }

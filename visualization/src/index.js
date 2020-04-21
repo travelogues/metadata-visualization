@@ -1,12 +1,12 @@
 import axios from 'axios';
 import * as d3 from 'd3';
-import { uniquePeople } from './utils/People';
-import { uniquePublicationPlaces, uniqueMarkerRegions } from './utils/Places';
+import { uniquePeople, uniqueNERPersons } from './utils/People';
+import { uniquePublicationPlaces, uniqueMarkerRegions, uniqueNERLocations } from './utils/Places';
 import Timeline from './Timeline';
 import { renderMarkerRegions } from './d3/MarkerRegions';
 import { renderWorksByDate } from './d3/WorksByDate';
-import { renderPeopleScale } from './d3/People';
-import { renderPublicationPlaces } from './d3/PublicationPlaces';
+import { renderPeopleScale, renderNERPeople } from './d3/People';
+import { renderPublicationPlaces, renderNERLocations } from './d3/PublicationPlaces';
 
 import { WIDTH, HEIGHT } from './Const';
 
@@ -25,6 +25,8 @@ class App {
       this.places = uniquePublicationPlaces(response.data);
       this.markerRegions = uniqueMarkerRegions(response.data);
       this.timeline = new Timeline(response.data);
+      this.nerPeople = uniqueNERPersons(response.data);
+      this.nerLocations = uniqueNERLocations(response.data);
       this.records = response.data;
     });    
   }
@@ -48,6 +50,8 @@ class App {
     this.peopleScale = renderPeopleScale(this.people, svg);
     this.placeScale = renderPublicationPlaces(this.places, svg);
     this.regionScale = renderMarkerRegions(this.markerRegions, svg);
+    // this.nerPeopleScale = renderNERPeople(this.nerPeople, svg);
+    // this.nerLocationsScale = renderNERLocations(this.nerLocations, svg);
 
     this.svg = svg;
     this.updatePaths(selectedPaths);
