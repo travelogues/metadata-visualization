@@ -64,10 +64,10 @@ class App {
 
     records.forEach((r, idx) => {
       const xCoords = [
+        r.marker_regions.map(r => this.regionScale(r)),
         this.dateScale(r.date),
-        r.people.map(p => this.peopleScale(p)),
         this.placeScale(r.place_of_publication),
-        r.marker_regions.map(r => this.regionScale(r))
+        r.people.map(p => this.peopleScale(p))
       ]
 
       if (selectedPaths)

@@ -33,8 +33,9 @@ g {
 .path {
   stroke:rgba(rgb(203, 255, 183), 0.1);
   stroke-width:1px;
+  pointer-events:none;
 }
 
 svg.selected .path {
-  stroke:rgba(rgb(128, 158, 255), 0.4);
+  stroke:rgba(rgb(203, 255, 183), 0.5);
 }

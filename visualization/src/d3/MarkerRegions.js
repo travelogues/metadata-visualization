@@ -9,7 +9,7 @@ export const renderMarkerRegions = (regions, svg) => {
 
   const axis = d3.axisBottom(scale).tickFormat(n => n)
   svg.append('g')
-    .attr('transform', 'translate(0, 370)')
+    .attr('transform', 'translate(0, 20)')
     .call(axis);
 
   return scale;

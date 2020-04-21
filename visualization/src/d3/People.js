@@ -9,7 +9,7 @@ export const renderPeopleScale = (people, svg) => {
 
   const axis = d3.axisBottom(scale).tickFormat(n => n)
   svg.append('g')
-    .attr('transform', 'translate(0, 100)')
+    .attr('transform', 'translate(0, 310)')
     .call(axis)
     .selectAll('text')
       .attr('y', 0)

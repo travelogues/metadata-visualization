@@ -10,7 +10,7 @@ export const renderWorksByDate = (timeline, svg, mouseOver, mouseOut) => {
 
   const axis = d3.axisBottom(scale).tickFormat(n => n)
   svg.append('g')
-    .attr('transform', 'translate(0, 45)')
+    .attr('transform', 'translate(0, 100)')
     .call(axis);
 
   svg.selectAll('.dot')
@@ -20,7 +20,7 @@ export const renderWorksByDate = (timeline, svg, mouseOver, mouseOut) => {
       .attr('class', 'works-per-year')
       .attr('r', d => 2 + d.count * 2)
       .attr('cx', d => scale(d.year))
-      .attr('cy', 20)
+      .attr('cy', 100)
       .on('mouseover', mouseOver)
       .on('mouseout', mouseOut);
 

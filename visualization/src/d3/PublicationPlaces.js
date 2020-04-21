@@ -9,7 +9,7 @@ export const renderPublicationPlaces = (places, svg) => {
 
   const axis = d3.axisBottom(scale).tickFormat(n => n)
   svg.append('g')
-    .attr('transform', 'translate(0, 250)')
+    .attr('transform', 'translate(0, 190)')
     .call(axis)
     .selectAll('text')
       .attr('y', 0)
