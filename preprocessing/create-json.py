@@ -3,7 +3,28 @@ import json
 import re
 
 INPUT_FILE = '../data/TravelogueD16_filtered.csv'
+NER_RESULTS = '../data/TravelogueD16_filtered_entities.csv'
 OUTPUT_FILE = '../visualization/public/TravelogueD16.json'
+
+def load_entities():
+  with open(NER_RESULTS) as infile:
+    reader = csv.reader(infile)
+    next(reader)
+
+    def split(entities):
+      if (len(entities.strip()) == 0):
+        return []
+      else:
+        return entities.split(';')
+    
+    entity_dict = {}
+    for row in reader:
+      entity_dict[row[0]] = {
+        'locations': split(row[1]),
+        'people': split(row[2])
+      }
+
+    return entity_dict
 
 def parse_gnd_field(field, default = '[Unknown]'):
   if (field):
@@ -35,6 +56,8 @@ def parse_nullable(field, default, split):
   else:
     return default
 
+entity_dict = load_entities()
+
 with open(INPUT_FILE, 'r') as infile, open(OUTPUT_FILE, 'w') as outfile:
   reader = csv.reader(infile)
 
@@ -62,7 +85,8 @@ with open(INPUT_FILE, 'r') as infile, open(OUTPUT_FILE, 'w') as outfile:
       'date': parse_date(row[6]),
       'marker_regions': parse_markers(row[7]),
       'work_title': row[8],
-      'title_full': row[9]
+      'title_full': row[9],
+      'entities': entity_dict[row[0]]
     })
 
   outfile.write(json.dumps(as_json, indent=2))
