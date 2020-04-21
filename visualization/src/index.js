@@ -58,7 +58,7 @@ class App {
     // Clean slate
     d3.select(this.elem).selectAll('line').remove();
 
-    d3.select('svg').attr('class', `${selectedPaths ? 'selected' : 'foo'}`)
+    d3.select('svg').attr('class', `${selectedPaths ? 'selected' : ''}`)
 
     const records = selectedPaths ? selectedPaths : this.records;
 
@@ -71,9 +71,9 @@ class App {
       ]
 
       if (selectedPaths)
-        drawPath(xCoords, this.svg, r.barcode, idx);
+        drawPath(xCoords, this.svg, r.barcodes, idx);
       else 
-        drawPath(xCoords, this.svg, r.barcode);
+        drawPath(xCoords, this.svg, r.barcodes);
     });
   }
 
