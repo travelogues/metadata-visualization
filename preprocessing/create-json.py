@@ -3,9 +3,9 @@ import json
 import re
 
 INPUT_FILE = '../data/TravelogueD16_filtered.csv'
-OUTPUT_FILE = '../data/TravelogueD16.json'
+OUTPUT_FILE = '../visualization/public/TravelogueD16.json'
 
-def parse_gnd_field(field, default = 'Unknown'):
+def parse_gnd_field(field, default = '[Unknown]'):
   if (field):
     tokens = field.split(';')
     return list(filter(lambda t: t.strip().startswith('(DE-') == False and len(t.strip()) > 0, tokens))
@@ -49,7 +49,7 @@ with open(INPUT_FILE, 'r') as infile, open(OUTPUT_FILE, 'w') as outfile:
     # For convenience
     people = list(set(publishers + printers))
     if (len(people) > 1):
-      people = [ p for p in people if p != 'Unknown' ]
+      people = [ p for p in people if p != '[Unknown]' ]
     
     as_json.append({
       'identifier': row[0],
