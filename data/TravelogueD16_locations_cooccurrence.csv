@@ -1,0 +1,535 @@
+Source,Target
+Türckischen Hoff,Tauber
+Türckischen Hoff,Königshofen
+Türckischen Hoff,Ottomans
+Augspurg,Jar
+Tauber,Türckischen Hoff
+Tauber,Königshofen
+Tauber,Ottomans
+Germanien,Ain Schen New Bůch
+Germanien,Jar
+Germanien,Genua
+Jerusalem,Venedig
+Jerusalem,Venedig Jerusalem
+Jerusalem,Nürnberg
+Jerusalem,Glaubenssachen
+Jerusalem,Bergen Auwen
+Jerusalem,Sinay Alexandria
+Jerusalem,Ceremonien
+Jerusalem,Terrae Sanctae
+Aphrica,China
+Aphrica,Jar
+Aphrica,Goa
+Aphrica,Holchteutsch
+Aphrica,Portugal
+Aphrica,Holland
+Lüttich,Homberg
+Lüttich,Hessen
+Lüttich,Darinn Brasilia
+Lüttich,Brasilien
+Martio,Orientalischen Indien
+Martio,Hochteutsche
+Martio,Martio Alda
+Martio,Orient
+Martio,Oost Indien
+Martio,Hochteutsch
+Martio,Indien
+Orientalischen Indien,Martio
+Orientalischen Indien,Orient
+Orientalischen Indien,Oost Indien
+Orientalischen Indien,Indien
+Teutsche Sprach,Teutsch
+Teutsche Sprach,Rom
+Teutsche Sprach,Portugal
+Hochteutsche,Martio
+Hochteutsche,Martio Alda
+Hochteutsche,Oost Indien
+Hochteutsche,Hochteutsch
+Hochteutsche,Indien
+Venedig,Jerusalem
+Venedig,Venedig Jerusalem
+Venedig,Nürnberg
+Venedig,Aegypten
+Venedig,Leipzig
+Venedig,Sinay Alexandria
+Venedig,Hierusalem
+Venedig,Sinai Alcair Alexandria
+Peru,Jar
+Peru,Arromaia
+Peru,Amapaia
+Peru,Engellandt
+Peru,Guiana
+Peru,Engelland
+Peru,Quito
+Jndia,Amsterdam
+Jndia,Vlm
+Jndia,Jndias
+Jndia,Hochteutsch
+Jndia,Hollande
+Jndia,Holland
+Jndia,Indien
+China,Aphrica
+China,Hollandt
+China,Jar
+China,Texel
+China,HochTeutsch
+China,Obij
+China,Goa
+China,Cathay vnd China
+China,Gilissy
+China,Holchteutsch
+China,gran Reyno de la China
+China,Samatra
+China,Niderländischer
+China,Jndien
+China,Teutsch
+China,China Japon
+China,Portugal
+China,Holland
+China,Virginia
+Americe,Morenlandt
+Americe,Rom
+Ain Schen New Bůch,Germanien
+Ain Schen New Bůch,Jar
+Ain Schen New Bůch,Genua
+Venedig Jerusalem,Jerusalem
+Venedig Jerusalem,Venedig
+Venedig Jerusalem,Nürnberg
+Venedig Jerusalem,Sinay Alexandria
+Nürnberg,Jerusalem
+Nürnberg,Venedig
+Nürnberg,Venedig Jerusalem
+Nürnberg,Sinay Alexandria
+Martio Alda,Martio
+Martio Alda,Hochteutsche
+Martio Alda,Oost Indien
+Martio Alda,Hochteutsch
+Martio Alda,Indien
+Schweden,Jar
+Schweden,Gothien
+Schweden,Rom
+Friaul,Jar
+Friaul,Hochteütsche
+Friaul,Temixtitan
+Friaul,Herrn Herrn Ferdinanden Römischen
+Friaul,Hispanien
+Damascon,Würtzburg
+Wilhelmen,Meissen
+Wilhelmen,Düringen Marggraffen
+Hollandt,China
+Hollandt,Jar
+Hollandt,Texel
+Hollandt,Obij
+Hollandt,Orient
+Hollandt,Israel de Bry Gebrüder
+Hollandt,Gilissy
+Hollandt,Samatra
+Hollandt,Jndien
+Hollandt,Hochteutsch
+Hollandt,Sumatra
+Hollandt,Holland
+Jar,Augspurg
+Jar,Germanien
+Jar,Aphrica
+Jar,Peru
+Jar,China
+Jar,Ain Schen New Bůch
+Jar,Schweden
+Jar,Friaul
+Jar,Hollandt
+Jar,Nordwest
+Jar,Arromaia
+Jar,Amapaia
+Jar,Texel
+Jar,Hochteütsche
+Jar,Obij
+Jar,Goa
+Jar,Cathay vnd China
+Jar,Orient
+Jar,Gilissy
+Jar,Engellandt
+Jar,Holchteutsch
+Jar,Temixtitan
+Jar,Guiana
+Jar,Engelland
+Jar,Gothien
+Jar,Samatra
+Jar,Niderländischer
+Jar,Jndien
+Jar,Christi
+Jar,Rom
+Jar,Quito
+Jar,Herrn Herrn Ferdinanden Römischen
+Jar,Portugal
+Jar,Genua
+Jar,Hispanien
+Jar,Holland
+Jar,Amelbeurn
+Jar,Virginia
+Glaubenssachen,Jerusalem
+Glaubenssachen,Bergen Auwen
+Glaubenssachen,Ceremonien
+Nordwest,Jar
+Nordwest,Engelland
+Königshofen,Türckischen Hoff
+Königshofen,Tauber
+Königshofen,Ottomans
+Arromaia,Peru
+Arromaia,Jar
+Arromaia,Amapaia
+Arromaia,Engellandt
+Arromaia,Guiana
+Arromaia,Engelland
+Arromaia,Quito
+Amapaia,Peru
+Amapaia,Jar
+Amapaia,Arromaia
+Amapaia,Engellandt
+Amapaia,Guiana
+Amapaia,Engelland
+Amapaia,Quito
+Texel,China
+Texel,Hollandt
+Texel,Jar
+Texel,Obij
+Texel,Gilissy
+Texel,Samatra
+Texel,Jndien
+Texel,Holland
+Hochteütsche,Friaul
+Hochteütsche,Jar
+Hochteütsche,Temixtitan
+Hochteütsche,Herrn Herrn Ferdinanden Römischen
+Hochteütsche,Hispanien
+Amsterdam,Jndia
+Amsterdam,Hochteutsch
+Amsterdam,Hollande
+Amsterdam,Holland
+Amsterdam,Indien
+Franckfort am Mayn Anno,Americæ
+Franckfort am Mayn Anno,Florida
+Franckfort am Mayn Anno,Teutsch
+Franckfort am Mayn Anno,Floridam
+Aegypten,Venedig
+Aegypten,Leipzig
+Aegypten,Hierusalem
+Aegypten,Sinai Alcair Alexandria
+Nidda,Homberg
+Nidda,Hessen
+Nidda,Christi
+HochTeutsch,China
+HochTeutsch,gran Reyno de la China
+HochTeutsch,Teutsch
+Obij,China
+Obij,Hollandt
+Obij,Jar
+Obij,Texel
+Obij,Gilissy
+Obij,Samatra
+Obij,Jndien
+Obij,Holland
+Ostereich,Wien
+Goa,Aphrica
+Goa,China
+Goa,Jar
+Goa,Holchteutsch
+Goa,Portugal
+Goa,Holland
+Cathay vnd China,China
+Cathay vnd China,Jar
+Cathay vnd China,Niderländischer
+Americæ,Franckfort am Mayn Anno
+Americæ,Florida
+Americæ,Teutsch
+Americæ,Floridam
+Orient,Martio
+Orient,Orientalischen Indien
+Orient,Hollandt
+Orient,Jar
+Orient,Israel de Bry Gebrüder
+Orient,Oost Indien
+Orient,Christi
+Orient,Hochteutsch
+Orient,Sumatra
+Orient,Holland
+Orient,Indien
+Israel de Bry Gebrüder,Hollandt
+Israel de Bry Gebrüder,Orient
+Israel de Bry Gebrüder,Hochteutsch
+Israel de Bry Gebrüder,Sumatra
+Israel de Bry Gebrüder,Holland
+Gilissy,China
+Gilissy,Hollandt
+Gilissy,Jar
+Gilissy,Texel
+Gilissy,Obij
+Gilissy,Samatra
+Gilissy,Jndien
+Gilissy,Holland
+Meissen,Wilhelmen
+Meissen,Düringen Marggraffen
+Franckfurt am Mayn,Hessen
+Franckfurt am Mayn,Spanien
+Homberg,Lüttich
+Homberg,Nidda
+Homberg,Hessen
+Homberg,Darinn Brasilia
+Homberg,Christi
+Homberg,Brasilien
+Engellandt,Peru
+Engellandt,Jar
+Engellandt,Arromaia
+Engellandt,Amapaia
+Engellandt,Guiana
+Engellandt,Engelland
+Engellandt,Quito
+Wallfart,Schlesien
+Holchteutsch,Aphrica
+Holchteutsch,China
+Holchteutsch,Jar
+Holchteutsch,Goa
+Holchteutsch,Portugal
+Holchteutsch,Holland
+Hessen,Lüttich
+Hessen,Nidda
+Hessen,Franckfurt am Mayn
+Hessen,Homberg
+Hessen,Darinn Brasilia
+Hessen,Christi
+Hessen,Spanien
+Hessen,Brasilien
+Hessen,Homburg
+Oost Indien,Martio
+Oost Indien,Orientalischen Indien
+Oost Indien,Hochteutsche
+Oost Indien,Martio Alda
+Oost Indien,Orient
+Oost Indien,Hochteutsch
+Oost Indien,Indien
+gran Reyno de la China,China
+gran Reyno de la China,HochTeutsch
+gran Reyno de la China,Teutsch
+gran Reyno de la China,Virginia
+Bergen Auwen,Jerusalem
+Bergen Auwen,Glaubenssachen
+Bergen Auwen,Ceremonien
+Vlm,Jndia
+Vlm,Jndias
+Temixtitan,Friaul
+Temixtitan,Jar
+Temixtitan,Hochteütsche
+Temixtitan,Herrn Herrn Ferdinanden Römischen
+Temixtitan,Hispanien
+Wien,Ostereich
+Guiana,Peru
+Guiana,Jar
+Guiana,Arromaia
+Guiana,Amapaia
+Guiana,Engellandt
+Guiana,Engelland
+Guiana,Quito
+Engelland,Peru
+Engelland,Jar
+Engelland,Nordwest
+Engelland,Arromaia
+Engelland,Amapaia
+Engelland,Engellandt
+Engelland,Guiana
+Engelland,Quito
+Engelland,Virginia
+Gothien,Schweden
+Gothien,Jar
+Gothien,Rom
+Samatra,China
+Samatra,Hollandt
+Samatra,Jar
+Samatra,Texel
+Samatra,Obij
+Samatra,Gilissy
+Samatra,Jndien
+Samatra,Holland
+Jndias,Jndia
+Jndias,Vlm
+Schlesien,Wallfart
+Leipzig,Venedig
+Leipzig,Aegypten
+Leipzig,Hierusalem
+Leipzig,Sinai Alcair Alexandria
+Niderländischer,China
+Niderländischer,Jar
+Niderländischer,Cathay vnd China
+Düringen Marggraffen,Wilhelmen
+Düringen Marggraffen,Meissen
+Florida,Franckfort am Mayn Anno
+Florida,Americæ
+Florida,Calis Malis
+Florida,Teutsch
+Florida,Floridam
+Darinn Brasilia,Lüttich
+Darinn Brasilia,Homberg
+Darinn Brasilia,Hessen
+Darinn Brasilia,Brasilien
+Sinay Alexandria,Jerusalem
+Sinay Alexandria,Venedig
+Sinay Alexandria,Venedig Jerusalem
+Sinay Alexandria,Nürnberg
+Calis Malis,Florida
+Jndien,China
+Jndien,Hollandt
+Jndien,Jar
+Jndien,Texel
+Jndien,Obij
+Jndien,Gilissy
+Jndien,Samatra
+Jndien,Holland
+Teutsch,Teutsche Sprach
+Teutsch,China
+Teutsch,Franckfort am Mayn Anno
+Teutsch,HochTeutsch
+Teutsch,Americæ
+Teutsch,gran Reyno de la China
+Teutsch,Florida
+Teutsch,Rom
+Teutsch,Floridam
+Teutsch,Portugal
+Ceremonien,Jerusalem
+Ceremonien,Glaubenssachen
+Ceremonien,Bergen Auwen
+Hierusalem,Venedig
+Hierusalem,Aegypten
+Hierusalem,Leipzig
+Hierusalem,Sinai Alcair Alexandria
+Neyperg,Herberstain Neyperg
+Neyperg,Kärntn Römischer
+Neyperg,Kärnttn
+Morenlandt,Americe
+Morenlandt,Rom
+Herberstain Neyperg,Neyperg
+Herberstain Neyperg,Kärntn Römischer
+Christi,Jar
+Christi,Nidda
+Christi,Orient
+Christi,Homberg
+Christi,Hessen
+Christi,Homburg
+Rom,Teutsche Sprach
+Rom,Americe
+Rom,Schweden
+Rom,Jar
+Rom,Gothien
+Rom,Teutsch
+Rom,Morenlandt
+Rom,Portugal
+Hochteutsch,Martio
+Hochteutsch,Hochteutsche
+Hochteutsch,Jndia
+Hochteutsch,Martio Alda
+Hochteutsch,Hollandt
+Hochteutsch,Amsterdam
+Hochteutsch,Orient
+Hochteutsch,Israel de Bry Gebrüder
+Hochteutsch,Oost Indien
+Hochteutsch,Sumatra
+Hochteutsch,Hollande
+Hochteutsch,Holland
+Hochteutsch,Indien
+Quito,Peru
+Quito,Jar
+Quito,Arromaia
+Quito,Amapaia
+Quito,Engellandt
+Quito,Guiana
+Quito,Engelland
+Sumatra,Hollandt
+Sumatra,Orient
+Sumatra,Israel de Bry Gebrüder
+Sumatra,Hochteutsch
+Sumatra,Holland
+Floridam,Franckfort am Mayn Anno
+Floridam,Americæ
+Floridam,Florida
+Floridam,Teutsch
+Herrn Herrn Ferdinanden Römischen,Friaul
+Herrn Herrn Ferdinanden Römischen,Jar
+Herrn Herrn Ferdinanden Römischen,Hochteütsche
+Herrn Herrn Ferdinanden Römischen,Temixtitan
+Herrn Herrn Ferdinanden Römischen,Hispanien
+Würtzburg,Damascon
+China Japon,China
+Portugal,Aphrica
+Portugal,Teutsche Sprach
+Portugal,China
+Portugal,Jar
+Portugal,Goa
+Portugal,Holchteutsch
+Portugal,Teutsch
+Portugal,Rom
+Portugal,Holland
+Ottomans,Türckischen Hoff
+Ottomans,Tauber
+Ottomans,Königshofen
+Spanien,Franckfurt am Mayn
+Spanien,Hessen
+Kärntn Römischer,Neyperg
+Kärntn Römischer,Herberstain Neyperg
+Genua,Germanien
+Genua,Ain Schen New Bůch
+Genua,Jar
+Hollande,Jndia
+Hollande,Amsterdam
+Hollande,Hochteutsch
+Hollande,Holland
+Hollande,Indien
+Sinai Alcair Alexandria,Venedig
+Sinai Alcair Alexandria,Aegypten
+Sinai Alcair Alexandria,Leipzig
+Sinai Alcair Alexandria,Hierusalem
+Hispanien,Friaul
+Hispanien,Jar
+Hispanien,Hochteütsche
+Hispanien,Temixtitan
+Hispanien,Herrn Herrn Ferdinanden Römischen
+Kärnttn,Neyperg
+Holland,Aphrica
+Holland,Jndia
+Holland,China
+Holland,Hollandt
+Holland,Jar
+Holland,Texel
+Holland,Amsterdam
+Holland,Obij
+Holland,Goa
+Holland,Orient
+Holland,Israel de Bry Gebrüder
+Holland,Gilissy
+Holland,Holchteutsch
+Holland,Samatra
+Holland,Jndien
+Holland,Hochteutsch
+Holland,Sumatra
+Holland,Portugal
+Holland,Hollande
+Holland,Indien
+Amelbeurn,Jar
+Indien,Martio
+Indien,Orientalischen Indien
+Indien,Hochteutsche
+Indien,Jndia
+Indien,Martio Alda
+Indien,Amsterdam
+Indien,Orient
+Indien,Oost Indien
+Indien,Hochteutsch
+Indien,Hollande
+Indien,Holland
+Brasilien,Lüttich
+Brasilien,Homberg
+Brasilien,Hessen
+Brasilien,Darinn Brasilia
+Homburg,Hessen
+Homburg,Christi
+Virginia,China
+Virginia,Jar
+Virginia,gran Reyno de la China
+Virginia,Engelland
+Terrae Sanctae,Jerusalem
