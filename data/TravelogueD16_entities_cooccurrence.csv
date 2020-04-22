@@ -1,0 +1,1414 @@
+Source,Target
+Goa@LOC,Holland@LOC
+Goa@LOC,Aphrica@LOC
+Goa@LOC,Jaren@PER
+Goa@LOC,Hans Dieterich@PER
+Goa@LOC,Portugal@LOC
+Goa@LOC,China@LOC
+Goa@LOC,Hans Jsrael@PER
+Goa@LOC,Holchteutsch@LOC
+Goa@LOC,Jetzo@PER
+Goa@LOC,Joan Hugo@PER
+Goa@LOC,Jar@LOC
+Neyperg@LOC,Kärnttn@LOC
+Aegypten@LOC,Johan@PER
+Aegypten@LOC,Kurtzer@PER
+Aegypten@LOC,Leipzig@LOC
+Aegypten@LOC,Venedig@LOC
+Aegypten@LOC,Sinai Alcair Alexandria@LOC
+Aegypten@LOC,Hierusalem@LOC
+bey Pleymeuten Cartsag@PER,S. Domingo@PER
+bey Pleymeuten Cartsag@PER,Franciscus Dracus@PER
+bey Pleymeuten Cartsag@PER,Calis Malis@LOC
+bey Pleymeuten Cartsag@PER,Franciscus Dracus Redivivvs@PER
+bey Pleymeuten Cartsag@PER,Kurtze@PER
+bey Pleymeuten Cartsag@PER,Jnsul Cuba@PER
+bey Pleymeuten Cartsag@PER,Florida@LOC
+Zwo@PER,Cartas de relación de la conquista de la Nueva España@PER
+Zwo@PER,Friaul@LOC
+Zwo@PER,Hispanien@LOC
+Zwo@PER,Peter Sauorgnan@PER
+Zwo@PER,Herrn Herrn Ferdinanden Römischen@LOC
+Zwo@PER,Hispanischer Sprach von Cortesio@PER
+Zwo@PER,Tittel@PER
+Zwo@PER,Darzů@PER
+Zwo@PER,Carlos V.@PER
+Zwo@PER,Xysto Betuleio@PER
+Zwo@PER,Jar@LOC
+Zwo@PER,Temixtitan@LOC
+Zwo@PER,Ferdinandi Cortesii@PER
+Zwo@PER,Andrea Diethero@PER
+Zwo@PER,Carolvm@PER
+Zwo@PER,Hochteütsche@LOC
+Atabalibam@PER,Benzo von Meylandt@PER
+Atabalibam@PER,Dieterich@PER
+Jerusalem@LOC,bißhero@PER
+Jerusalem@LOC,Horeb Sinay@PER
+Jerusalem@LOC,Bergen Auwen@LOC
+Jerusalem@LOC,vnd Heyland Christus@PER
+Jerusalem@LOC,Ceremonien@LOC
+Jerusalem@LOC,Terrae Sanctae@LOC
+Jerusalem@LOC,Felix Fabri@PER
+Jerusalem@LOC,Glaubenssachen@LOC
+Samatra@LOC,Holland@LOC
+Samatra@LOC,Texel@LOC
+Samatra@LOC,Gilissy@LOC
+Samatra@LOC,Jndien@LOC
+Samatra@LOC,Laurentz Jnsel@PER
+Samatra@LOC,Conrad Löw@PER
+Samatra@LOC,China@LOC
+Samatra@LOC,Noua Zemla@PER
+Samatra@LOC,Obij@LOC
+Samatra@LOC,Gantz@PER
+Samatra@LOC,Jar@LOC
+Samatra@LOC,Jnsel Bally@PER
+Samatra@LOC,Hollandt@LOC
+Samatra@LOC,Nägelein@PER
+Martio@LOC,Oost Indien@LOC
+Martio@LOC,Orientalischen Indien@LOC
+Thomam Hariot@PER,Virginia@LOC
+Thomam Hariot@PER,Christ@PER
+Thomam Hariot@PER,Engelland@LOC
+Thomam Hariot@PER,H. Walter Raleigh Ritter@PER
+Thomam Hariot@PER,Reichard Greinuile@PER
+Thomam Hariot@PER,Elisabeth Königin@PER
+Thomam Hariot@PER,Jar@LOC
+Holland@LOC,Texel@LOC
+Holland@LOC,Aphrica@LOC
+Holland@LOC,Gilissy@LOC
+Holland@LOC,Jaren@PER
+Holland@LOC,Jndien@LOC
+Holland@LOC,Laurentz Jnsel@PER
+Holland@LOC,Hans Dieterich@PER
+Holland@LOC,Conrad Löw@PER
+Holland@LOC,Portugal@LOC
+Holland@LOC,China@LOC
+Holland@LOC,Hans Jsrael@PER
+Holland@LOC,Holchteutsch@LOC
+Holland@LOC,Jetzo@PER
+Holland@LOC,Joan Hugo@PER
+Holland@LOC,Noua Zemla@PER
+Holland@LOC,Obij@LOC
+Holland@LOC,Gantz@PER
+Holland@LOC,Jar@LOC
+Holland@LOC,Jnsel Bally@PER
+Holland@LOC,Hollandt@LOC
+Holland@LOC,Nägelein@PER
+Elendt Jamer@PER,Türckischen Keysers@PER
+Elendt Jamer@PER,Rath@PER
+Elendt Jamer@PER,Mahomeths@PER
+Elendt Jamer@PER,Türckischen Hoff@LOC
+Elendt Jamer@PER,Schmächlichem Endt@PER
+Elendt Jamer@PER,Königshofen@LOC
+Elendt Jamer@PER,Tauber@LOC
+Elendt Jamer@PER,Noth@PER
+Elendt Jamer@PER,Ottomans@LOC
+Elendt Jamer@PER,V. Ferdinandt@PER
+Elendt Jamer@PER,Policey Gerichtlichem Proceß@PER
+Elendt Jamer@PER,Maximilian@PER
+S. Domingo@PER,Franciscus Dracus@PER
+S. Domingo@PER,Calis Malis@LOC
+S. Domingo@PER,Franciscus Dracus Redivivvs@PER
+S. Domingo@PER,Kurtze@PER
+S. Domingo@PER,Jnsul Cuba@PER
+S. Domingo@PER,Florida@LOC
+Türckischen Keysers@PER,Rath@PER
+Türckischen Keysers@PER,Mahomeths@PER
+Türckischen Keysers@PER,Türckischen Hoff@LOC
+Türckischen Keysers@PER,Schmächlichem Endt@PER
+Türckischen Keysers@PER,Königshofen@LOC
+Türckischen Keysers@PER,Tauber@LOC
+Türckischen Keysers@PER,Noth@PER
+Türckischen Keysers@PER,Ottomans@LOC
+Türckischen Keysers@PER,V. Ferdinandt@PER
+Türckischen Keysers@PER,Policey Gerichtlichem Proceß@PER
+Türckischen Keysers@PER,Maximilian@PER
+Albrechten Hertzogen@PER,Meissen@LOC
+Albrechten Hertzogen@PER,Düringen Marggraffen@LOC
+Albrechten Hertzogen@PER,Hansen von Mergenthal@PER
+Albrechten Hertzogen@PER,Wilhelmen@LOC
+Albrechten Hertzogen@PER,Dabey@PER
+Albrechten Hertzogen@PER,Jetzund@PER
+N. Nicolai Bürtig@PER,Franckreich@PER
+N. Nicolai Bürtig@PER,Frid@PER
+N. Nicolai Bürtig@PER,Von de Raisz@PER
+Dietz Ziegenhain@PER,Hans Staden@PER
+Dietz Ziegenhain@PER,Eychman Ordinarij Professoris Medici@PER
+Dietz Ziegenhain@PER,Dryandri@PER
+Dietz Ziegenhain@PER,H. Philipsen Landtgraff@PER
+Dietz Ziegenhain@PER,Homberg@LOC
+Dietz Ziegenhain@PER,Menschfresser Leuthen@PER
+Dietz Ziegenhain@PER,Nidda@LOC
+Dietz Ziegenhain@PER,Christi@LOC
+Dietz Ziegenhain@PER,D. Joh@PER
+Dietz Ziegenhain@PER,Hessen@LOC
+Dietz Ziegenhain@PER,Dedicirt@PER
+Palestina@LOC,Melchior Lussy Ritter Landamman@PER
+Palestina@LOC,Jetzund@PER
+Palestina@LOC,Christo@PER
+Franciscus Dracus@PER,Calis Malis@LOC
+Franciscus Dracus@PER,Franciscus Dracus Redivivvs@PER
+Franciscus Dracus@PER,Kurtze@PER
+Franciscus Dracus@PER,Jnsul Cuba@PER
+Franciscus Dracus@PER,Florida@LOC
+Dauid Vngnadn Freyherrn@PER,M. Franciscvm Omichivm@PER
+Dauid Vngnadn Freyherrn@PER,Ostereich@LOC
+Dauid Vngnadn Freyherrn@PER,Darinn@PER
+Dauid Vngnadn Freyherrn@PER,Wien@LOC
+Dauid Vngnadn Freyherrn@PER,S. G.@PER
+Texel@LOC,Gilissy@LOC
+Texel@LOC,Jndien@LOC
+Texel@LOC,Laurentz Jnsel@PER
+Texel@LOC,Conrad Löw@PER
+Texel@LOC,China@LOC
+Texel@LOC,Noua Zemla@PER
+Texel@LOC,Obij@LOC
+Texel@LOC,Gantz@PER
+Texel@LOC,Jar@LOC
+Texel@LOC,Jnsel Bally@PER
+Texel@LOC,Hollandt@LOC
+Texel@LOC,Nägelein@PER
+Cartas de relación de la conquista de la Nueva España@PER,Friaul@LOC
+Cartas de relación de la conquista de la Nueva España@PER,Hispanien@LOC
+Cartas de relación de la conquista de la Nueva España@PER,Peter Sauorgnan@PER
+Cartas de relación de la conquista de la Nueva España@PER,Herrn Herrn Ferdinanden Römischen@LOC
+Cartas de relación de la conquista de la Nueva España@PER,Hispanischer Sprach von Cortesio@PER
+Cartas de relación de la conquista de la Nueva España@PER,Tittel@PER
+Cartas de relación de la conquista de la Nueva España@PER,Darzů@PER
+Cartas de relación de la conquista de la Nueva España@PER,Carlos V.@PER
+Cartas de relación de la conquista de la Nueva España@PER,Xysto Betuleio@PER
+Cartas de relación de la conquista de la Nueva España@PER,Jar@LOC
+Cartas de relación de la conquista de la Nueva España@PER,Temixtitan@LOC
+Cartas de relación de la conquista de la Nueva España@PER,Ferdinandi Cortesii@PER
+Cartas de relación de la conquista de la Nueva España@PER,Andrea Diethero@PER
+Cartas de relación de la conquista de la Nueva España@PER,Carolvm@PER
+Cartas de relación de la conquista de la Nueva España@PER,Hochteütsche@LOC
+Beheim Khü@PER,May@PER
+Beheim Khü@PER,Herberstain Neyperg@LOC
+Beheim Khü@PER,Kärntn Römischer@LOC
+Friaul@LOC,Hispanien@LOC
+Friaul@LOC,Peter Sauorgnan@PER
+Friaul@LOC,Herrn Herrn Ferdinanden Römischen@LOC
+Friaul@LOC,Hispanischer Sprach von Cortesio@PER
+Friaul@LOC,Tittel@PER
+Friaul@LOC,Darzů@PER
+Friaul@LOC,Carlos V.@PER
+Friaul@LOC,Xysto Betuleio@PER
+Friaul@LOC,Jar@LOC
+Friaul@LOC,Temixtitan@LOC
+Friaul@LOC,Ferdinandi Cortesii@PER
+Friaul@LOC,Andrea Diethero@PER
+Friaul@LOC,Carolvm@PER
+Friaul@LOC,Hochteütsche@LOC
+H. Guorguesio@PER,Franckfort am Mayn Anno@LOC
+H. Guorguesio@PER,C. C. A. Vnd@PER
+H. Guorguesio@PER,H. Oseam Halen@PER
+H. Guorguesio@PER,Teutsch@LOC
+H. Guorguesio@PER,Jacob le Moyne@PER
+H. Guorguesio@PER,Floridam@LOC
+H. Guorguesio@PER,H. Ribald@PER
+H. Guorguesio@PER,Dieterich@PER
+H. Guorguesio@PER,Americæ@LOC
+Aphrica@LOC,Jaren@PER
+Aphrica@LOC,Hans Dieterich@PER
+Aphrica@LOC,Portugal@LOC
+Aphrica@LOC,China@LOC
+Aphrica@LOC,Hans Jsrael@PER
+Aphrica@LOC,Holchteutsch@LOC
+Aphrica@LOC,Jetzo@PER
+Aphrica@LOC,Joan Hugo@PER
+Aphrica@LOC,Jar@LOC
+Hollande@LOC,Indien@LOC
+Hollande@LOC,Mauritius@PER
+Hollande@LOC,Hochteutsch@LOC
+Hollande@LOC,Amsterdam@LOC
+Hollande@LOC,Hollandia@PER
+Hollande@LOC,Conrad Lew@PER
+Hollande@LOC,Jndia@LOC
+bißhero@PER,Bergen Auwen@LOC
+bißhero@PER,vnd Heyland Christus@PER
+bißhero@PER,Ceremonien@LOC
+bißhero@PER,Glaubenssachen@LOC
+Johann Staden@PER,Ioannis Lerij@PER
+Johann Staden@PER,Brasilien@LOC
+Johann Staden@PER,Dieterich Bry@PER
+Johann Staden@PER,Homberg@LOC
+Johann Staden@PER,Darinn Brasilia@LOC
+Johann Staden@PER,Lüttich@LOC
+Johann Staden@PER,Hessen@LOC
+Ioannis Lerij@PER,Brasilien@LOC
+Ioannis Lerij@PER,Dieterich Bry@PER
+Ioannis Lerij@PER,Homberg@LOC
+Ioannis Lerij@PER,Darinn Brasilia@LOC
+Ioannis Lerij@PER,Lüttich@LOC
+Ioannis Lerij@PER,Hessen@LOC
+Hans Staden@PER,Eychman Ordinarij Professoris Medici@PER
+Hans Staden@PER,Dryandri@PER
+Hans Staden@PER,H. Philipsen Landtgraff@PER
+Hans Staden@PER,Homberg@LOC
+Hans Staden@PER,Menschfresser Leuthen@PER
+Hans Staden@PER,Nidda@LOC
+Hans Staden@PER,Vnd@PER
+Hans Staden@PER,Homburg@LOC
+Hans Staden@PER,Christi@LOC
+Hans Staden@PER,D. Joh@PER
+Hans Staden@PER,Hessen@LOC
+Hans Staden@PER,Dedicirt@PER
+Medici@PER,Mesopotamiam@LOC
+Medici@PER,Raiss@PER
+Johan Thůcher@PER,Sinay Alexandria@LOC
+Johan Thůcher@PER,Burger@PER
+Johan Thůcher@PER,Nürnberg@LOC
+Johan Thůcher@PER,Venedig Jerusalem@LOC
+Johann@PER,Weyl@PER
+Johann@PER,Olaj Magni@PER
+Johann@PER,Kurtzer@PER
+Johann@PER,Rom@LOC
+Johann@PER,Olavm Magnvm@PER
+Johann@PER,Gothien@LOC
+Johann@PER,Leipzig@LOC
+Johann@PER,Vnd@PER
+Johann@PER,Venedig@LOC
+Johann@PER,Johann Jacoben@PER
+Johann@PER,Sinai Alcair Alexandria@LOC
+Johann@PER,Jar@LOC
+Johann@PER,Hierusalem@LOC
+Johann@PER,Schweden@LOC
+Rö@LOC,Augspurg@LOC
+Rö@LOC,Kayser@PER
+Rö@LOC,Paul Pesel@PER
+Rö@LOC,Raiß@PER
+Rö@LOC,Jar@LOC
+Rö@LOC,Kayser Karls@PER
+Franckfurt am Mayn@LOC,Moritzen@PER
+Franckfurt am Mayn@LOC,Ioannis Benzonis von Meylandt@PER
+Franckfurt am Mayn@LOC,Spanien@LOC
+Franckfurt am Mayn@LOC,Dieterich@PER
+Franckfurt am Mayn@LOC,Hessen@LOC
+P. Petri Martonez@PER,China Japon@LOC
+Baiatzeth vnd@LOC,Jtem@PER
+Baiatzeth vnd@LOC,Heinrich Müller@PER
+Ferdinando@PER,Julij@PER
+Ferdinando@PER,Christoph Scheurl@PER
+Ferdinando@PER,Barbarossa@PER
+Ferdinando@PER,Römischen Küng den XXIII@LOC
+Ferdinando@PER,Karl V.@PER
+Augerius Gislenius Busbeck@PER,Soleiman@PER
+Augerius Gislenius Busbeck@PER,Rath@PER
+Augerius Gislenius Busbeck@PER,Keyser Ferdinandi@PER
+Augerius Gislenius Busbeck@PER,Carle Graff@PER
+Augerius Gislenius Busbeck@PER,Gran Ritterlich@LOC
+Johan@PER,Virginia@LOC
+Johan@PER,Americe@LOC
+Johan@PER,Brunst@PER
+Johan@PER,Kurtzer@PER
+Johan@PER,Rom@LOC
+Johan@PER,China@LOC
+Johan@PER,cosas@PER
+Johan@PER,João@PER
+Johan@PER,Leipzig@LOC
+Johan@PER,gran Reyno de la China@LOC
+Johan@PER,Venedig@LOC
+Johan@PER,Matthaevm Dresservm D.@PER
+Johan@PER,Sinai Alcair Alexandria@LOC
+Johan@PER,Morenlandt@LOC
+Johan@PER,Francisco Álvares@PER
+Johan@PER,Hierusalem@LOC
+Johan@PER,Juan González de Mendoza@PER
+Johan@PER,Völcker@PER
+Iohan Havckens@PER,Engellandt Leibs Guardi@PER
+Iohan Havckens@PER,Frantzen Draeck@PER
+Iohan Havckens@PER,Teutscher Meil@PER
+Iohan Havckens@PER,Thomas Candisch@PER
+Iohan Havckens@PER,Macuieguarai@PER
+Iohan Havckens@PER,Walthern Ralegh@PER
+Iohan Havckens@PER,Avgvstinvm Cassiodorvm Reinivm@PER
+Iohan Havckens@PER,Lorentz Keymis@PER
+Iohan Havckens@PER,Vnd@PER
+Iohan Havckens@PER,Engellandt@LOC
+Iohan Havckens@PER,Amapaia@LOC
+Iohan Havckens@PER,Frantzen Prettie@PER
+Iohan Havckens@PER,Quito@LOC
+Iohan Havckens@PER,Guiana@LOC
+Iohan Havckens@PER,Jar@LOC
+Iohan Havckens@PER,Peru@LOC
+Iohan Havckens@PER,Arromaia@LOC
+Genua@LOC,Philippo Printze@PER
+Genua@LOC,Ain Schen New Bůch@LOC
+Genua@LOC,Jar@LOC
+Genua@LOC,Germanien@LOC
+Genua@LOC,Hans Heusl@PER
+Joann Huygens@PER,Indiae Orientalis@PER
+Joann Huygens@PER,Orient@LOC
+Joann Huygens@PER,Theodor vnd@PER
+Joann Huygens@PER,Hochteutsch@LOC
+Joann Huygens@PER,Hollandt@PER
+Joann Huygens@PER,Sumatra@LOC
+Joann Huygens@PER,Hollandt@LOC
+Joann Huygens@PER,Völcker@PER
+Joann Huygens@PER,Israel de Bry Gebrüder@LOC
+Gilissy@LOC,Jndien@LOC
+Gilissy@LOC,Laurentz Jnsel@PER
+Gilissy@LOC,Conrad Löw@PER
+Gilissy@LOC,China@LOC
+Gilissy@LOC,Noua Zemla@PER
+Gilissy@LOC,Obij@LOC
+Gilissy@LOC,Gantz@PER
+Gilissy@LOC,Jar@LOC
+Gilissy@LOC,Jnsel Bally@PER
+Gilissy@LOC,Hollandt@LOC
+Gilissy@LOC,Nägelein@PER
+Weyl@PER,Olaj Magni@PER
+Weyl@PER,Rom@LOC
+Weyl@PER,Olavm Magnvm@PER
+Weyl@PER,Gothien@LOC
+Weyl@PER,Vnd@PER
+Weyl@PER,Johann Jacoben@PER
+Weyl@PER,Jar@LOC
+Weyl@PER,Schweden@LOC
+Engellandt Leibs Guardi@PER,Frantzen Draeck@PER
+Engellandt Leibs Guardi@PER,Teutscher Meil@PER
+Engellandt Leibs Guardi@PER,Thomas Candisch@PER
+Engellandt Leibs Guardi@PER,Macuieguarai@PER
+Engellandt Leibs Guardi@PER,Walthern Ralegh@PER
+Engellandt Leibs Guardi@PER,Avgvstinvm Cassiodorvm Reinivm@PER
+Engellandt Leibs Guardi@PER,Lorentz Keymis@PER
+Engellandt Leibs Guardi@PER,Vnd@PER
+Engellandt Leibs Guardi@PER,Engellandt@LOC
+Engellandt Leibs Guardi@PER,Amapaia@LOC
+Engellandt Leibs Guardi@PER,Frantzen Prettie@PER
+Engellandt Leibs Guardi@PER,Quito@LOC
+Engellandt Leibs Guardi@PER,Guiana@LOC
+Engellandt Leibs Guardi@PER,Jar@LOC
+Engellandt Leibs Guardi@PER,Peru@LOC
+Engellandt Leibs Guardi@PER,Arromaia@LOC
+Olaj Magni@PER,Rom@LOC
+Olaj Magni@PER,Olavm Magnvm@PER
+Olaj Magni@PER,Gothien@LOC
+Olaj Magni@PER,Vnd@PER
+Olaj Magni@PER,Johann Jacoben@PER
+Olaj Magni@PER,Jar@LOC
+Olaj Magni@PER,Schweden@LOC
+Brasilien@LOC,Dieterich Bry@PER
+Brasilien@LOC,Homberg@LOC
+Brasilien@LOC,Darinn Brasilia@LOC
+Brasilien@LOC,Lüttich@LOC
+Brasilien@LOC,Hessen@LOC
+Dieterich Bry@PER,Homberg@LOC
+Dieterich Bry@PER,Darinn Brasilia@LOC
+Dieterich Bry@PER,Lüttich@LOC
+Dieterich Bry@PER,Hessen@LOC
+de Fresne@PER,Jacob@PER
+de Fresne@PER,Jetzundt@PER
+de Fresne@PER,De la Nove Jn Frantzoesischer@PER
+Franckreich@PER,Frid@PER
+Franckreich@PER,Von de Raisz@PER
+Frantzen Draeck@PER,Teutscher Meil@PER
+Frantzen Draeck@PER,Thomas Candisch@PER
+Frantzen Draeck@PER,Macuieguarai@PER
+Frantzen Draeck@PER,Walthern Ralegh@PER
+Frantzen Draeck@PER,Avgvstinvm Cassiodorvm Reinivm@PER
+Frantzen Draeck@PER,Lorentz Keymis@PER
+Frantzen Draeck@PER,Vnd@PER
+Frantzen Draeck@PER,Engellandt@LOC
+Frantzen Draeck@PER,Amapaia@LOC
+Frantzen Draeck@PER,Frantzen Prettie@PER
+Frantzen Draeck@PER,Quito@LOC
+Frantzen Draeck@PER,Guiana@LOC
+Frantzen Draeck@PER,Jar@LOC
+Frantzen Draeck@PER,Peru@LOC
+Frantzen Draeck@PER,Arromaia@LOC
+Hispanien@LOC,Peter Sauorgnan@PER
+Hispanien@LOC,Herrn Herrn Ferdinanden Römischen@LOC
+Hispanien@LOC,Hispanischer Sprach von Cortesio@PER
+Hispanien@LOC,Tittel@PER
+Hispanien@LOC,Darzů@PER
+Hispanien@LOC,Carlos V.@PER
+Hispanien@LOC,Xysto Betuleio@PER
+Hispanien@LOC,Jar@LOC
+Hispanien@LOC,Temixtitan@LOC
+Hispanien@LOC,Ferdinandi Cortesii@PER
+Hispanien@LOC,Andrea Diethero@PER
+Hispanien@LOC,Carolvm@PER
+Hispanien@LOC,Hochteütsche@LOC
+Eychman Ordinarij Professoris Medici@PER,Dryandri@PER
+Eychman Ordinarij Professoris Medici@PER,H. Philipsen Landtgraff@PER
+Eychman Ordinarij Professoris Medici@PER,Homberg@LOC
+Eychman Ordinarij Professoris Medici@PER,Menschfresser Leuthen@PER
+Eychman Ordinarij Professoris Medici@PER,Nidda@LOC
+Eychman Ordinarij Professoris Medici@PER,Vnd@PER
+Eychman Ordinarij Professoris Medici@PER,Homburg@LOC
+Eychman Ordinarij Professoris Medici@PER,Christi@LOC
+Eychman Ordinarij Professoris Medici@PER,D. Joh@PER
+Eychman Ordinarij Professoris Medici@PER,Hessen@LOC
+Eychman Ordinarij Professoris Medici@PER,Dedicirt@PER
+Dryandri@PER,H. Philipsen Landtgraff@PER
+Dryandri@PER,Homberg@LOC
+Dryandri@PER,Menschfresser Leuthen@PER
+Dryandri@PER,Nidda@LOC
+Dryandri@PER,Vnd@PER
+Dryandri@PER,Homburg@LOC
+Dryandri@PER,Christi@LOC
+Dryandri@PER,D. Joh@PER
+Dryandri@PER,Hessen@LOC
+Dryandri@PER,Dedicirt@PER
+Virginia@LOC,China@LOC
+Virginia@LOC,cosas@PER
+Virginia@LOC,gran Reyno de la China@LOC
+Virginia@LOC,Christ@PER
+Virginia@LOC,Engelland@LOC
+Virginia@LOC,H. Walter Raleigh Ritter@PER
+Virginia@LOC,Reichard Greinuile@PER
+Virginia@LOC,Matthaevm Dresservm D.@PER
+Virginia@LOC,Elisabeth Königin@PER
+Virginia@LOC,Jar@LOC
+Virginia@LOC,Juan González de Mendoza@PER
+Emanuel@PER,Portugal@LOC
+Emanuel@PER,Balthasar@PER
+Emanuel@PER,Mundus novus@PER
+Jaren@PER,Hans Dieterich@PER
+Jaren@PER,Portugal@LOC
+Jaren@PER,China@LOC
+Jaren@PER,Hans Jsrael@PER
+Jaren@PER,Holchteutsch@LOC
+Jaren@PER,Jetzo@PER
+Jaren@PER,Joan Hugo@PER
+Jaren@PER,Jar@LOC
+Philippo Printze@PER,Ain Schen New Bůch@LOC
+Philippo Printze@PER,Jar@LOC
+Philippo Printze@PER,Germanien@LOC
+Philippo Printze@PER,Hans Heusl@PER
+Americe@LOC,Brunst@PER
+Americe@LOC,Rom@LOC
+Americe@LOC,João@PER
+Americe@LOC,Chronicen@PER
+Americe@LOC,Morenlandt@LOC
+Americe@LOC,Johanns@PER
+Americe@LOC,Francisco Álvares@PER
+Americe@LOC,Völcker@PER
+Indiae Orientalis@PER,Orient@LOC
+Indiae Orientalis@PER,Theodor vnd@PER
+Indiae Orientalis@PER,Hochteutsch@LOC
+Indiae Orientalis@PER,Hollandt@PER
+Indiae Orientalis@PER,Sumatra@LOC
+Indiae Orientalis@PER,Hollandt@LOC
+Indiae Orientalis@PER,Völcker@PER
+Indiae Orientalis@PER,Israel de Bry Gebrüder@LOC
+Soleiman@PER,Rath@PER
+Soleiman@PER,Keyser Ferdinandi@PER
+Soleiman@PER,Carle Graff@PER
+Soleiman@PER,Gran Ritterlich@LOC
+Jndien@LOC,Carta de Francisco Javier S. J.@PER
+Jndien@LOC,Laurentz Jnsel@PER
+Jndien@LOC,Conrad Löw@PER
+Jndien@LOC,China@LOC
+Jndien@LOC,Jgnatium von Layola@PER
+Jndien@LOC,Noua Zemla@PER
+Jndien@LOC,Obij@LOC
+Jndien@LOC,Francisci Xauier@PER
+Jndien@LOC,Gantz@PER
+Jndien@LOC,Jar@LOC
+Jndien@LOC,Jnsel Bally@PER
+Jndien@LOC,Hollandt@LOC
+Jndien@LOC,Jesu Christi@PER
+Jndien@LOC,Nägelein@PER
+Carta de Francisco Javier S. J.@PER,Jgnatium von Layola@PER
+Carta de Francisco Javier S. J.@PER,Francisci Xauier@PER
+Carta de Francisco Javier S. J.@PER,Jesu Christi@PER
+Horeb Sinay@PER,Terrae Sanctae@LOC
+Horeb Sinay@PER,Felix Fabri@PER
+Laurentz Jnsel@PER,Conrad Löw@PER
+Laurentz Jnsel@PER,China@LOC
+Laurentz Jnsel@PER,Noua Zemla@PER
+Laurentz Jnsel@PER,Obij@LOC
+Laurentz Jnsel@PER,Gantz@PER
+Laurentz Jnsel@PER,Jar@LOC
+Laurentz Jnsel@PER,Jnsel Bally@PER
+Laurentz Jnsel@PER,Hollandt@LOC
+Laurentz Jnsel@PER,Nägelein@PER
+Moritzen@PER,Ioannis Benzonis von Meylandt@PER
+Moritzen@PER,Spanien@LOC
+Moritzen@PER,Dieterich@PER
+Moritzen@PER,Hessen@LOC
+Rath@PER,Keyser Ferdinandi@PER
+Rath@PER,Mahomeths@PER
+Rath@PER,Türckischen Hoff@LOC
+Rath@PER,Carle Graff@PER
+Rath@PER,Schmächlichem Endt@PER
+Rath@PER,Königshofen@LOC
+Rath@PER,Tauber@LOC
+Rath@PER,Noth@PER
+Rath@PER,Ottomans@LOC
+Rath@PER,V. Ferdinandt@PER
+Rath@PER,Policey Gerichtlichem Proceß@PER
+Rath@PER,Gran Ritterlich@LOC
+Rath@PER,Maximilian@PER
+Künigklicher Maye@PER,Obernburg@LOC
+Künigklicher Maye@PER,Benedicten Curipeschitz@PER
+Teutsche Sprach@LOC,Rom@LOC
+Teutsche Sprach@LOC,Portugal@LOC
+Teutsche Sprach@LOC,Raiß@PER
+Teutsche Sprach@LOC,Japon@PER
+Keyser Ferdinandi@PER,Carle Graff@PER
+Keyser Ferdinandi@PER,Gran Ritterlich@LOC
+M. Franciscvm Omichivm@PER,Ostereich@LOC
+M. Franciscvm Omichivm@PER,Darinn@PER
+M. Franciscvm Omichivm@PER,Wien@LOC
+M. Franciscvm Omichivm@PER,S. G.@PER
+Hans Dieterich@PER,Portugal@LOC
+Hans Dieterich@PER,China@LOC
+Hans Dieterich@PER,Hans Jsrael@PER
+Hans Dieterich@PER,Holchteutsch@LOC
+Hans Dieterich@PER,Jetzo@PER
+Hans Dieterich@PER,Joan Hugo@PER
+Hans Dieterich@PER,Jar@LOC
+May@PER,Kayser Soleyman@PER
+May@PER,Constantinopel@LOC
+May@PER,Herberstain Neyperg@LOC
+May@PER,Kärntn Römischer@LOC
+May@PER,Benedikt Kuripešić@PER
+Hans Strigel@PER,Stephan von Gumpenberg Friderich von Wolffskel vnnd Hans von Rameraw@PER
+Hans Strigel@PER,Damascon@LOC
+Hans Strigel@PER,Würtzburg@LOC
+Hans Strigel@PER,Johann Eyselsaner@PER
+Hans Strigel@PER,Sanct Paulus@PER
+Conrad Löw@PER,China@LOC
+Conrad Löw@PER,Noua Zemla@PER
+Conrad Löw@PER,Obij@LOC
+Conrad Löw@PER,Gantz@PER
+Conrad Löw@PER,Jar@LOC
+Conrad Löw@PER,Jnsel Bally@PER
+Conrad Löw@PER,Hollandt@LOC
+Conrad Löw@PER,Nägelein@PER
+Peter Sauorgnan@PER,Herrn Herrn Ferdinanden Römischen@LOC
+Peter Sauorgnan@PER,Hispanischer Sprach von Cortesio@PER
+Peter Sauorgnan@PER,Tittel@PER
+Peter Sauorgnan@PER,Darzů@PER
+Peter Sauorgnan@PER,Carlos V.@PER
+Peter Sauorgnan@PER,Xysto Betuleio@PER
+Peter Sauorgnan@PER,Jar@LOC
+Peter Sauorgnan@PER,Temixtitan@LOC
+Peter Sauorgnan@PER,Ferdinandi Cortesii@PER
+Peter Sauorgnan@PER,Andrea Diethero@PER
+Peter Sauorgnan@PER,Carolvm@PER
+Peter Sauorgnan@PER,Hochteütsche@LOC
+Teutscher Meil@PER,Thomas Candisch@PER
+Teutscher Meil@PER,Macuieguarai@PER
+Teutscher Meil@PER,Walthern Ralegh@PER
+Teutscher Meil@PER,Avgvstinvm Cassiodorvm Reinivm@PER
+Teutscher Meil@PER,Lorentz Keymis@PER
+Teutscher Meil@PER,Vnd@PER
+Teutscher Meil@PER,Engellandt@LOC
+Teutscher Meil@PER,Amapaia@LOC
+Teutscher Meil@PER,Frantzen Prettie@PER
+Teutscher Meil@PER,Quito@LOC
+Teutscher Meil@PER,Guiana@LOC
+Teutscher Meil@PER,Jar@LOC
+Teutscher Meil@PER,Peru@LOC
+Teutscher Meil@PER,Arromaia@LOC
+Ioannis Benzonis von Meylandt@PER,Spanien@LOC
+Ioannis Benzonis von Meylandt@PER,Dieterich@PER
+Ioannis Benzonis von Meylandt@PER,Hessen@LOC
+Franckfort am Mayn Anno@LOC,C. C. A. Vnd@PER
+Franckfort am Mayn Anno@LOC,H. Oseam Halen@PER
+Franckfort am Mayn Anno@LOC,Teutsch@LOC
+Franckfort am Mayn Anno@LOC,Jacob le Moyne@PER
+Franckfort am Mayn Anno@LOC,Floridam@LOC
+Franckfort am Mayn Anno@LOC,H. Ribald@PER
+Franckfort am Mayn Anno@LOC,Dieterich@PER
+Franckfort am Mayn Anno@LOC,Americæ@LOC
+Iesv@PER,Portugalesischer@PER
+Iesv@PER,Ioannem Georgium@PER
+Iesv@PER,Orient@LOC
+Iesv@PER,Jar@LOC
+Iesv@PER,Constantzischen Rath@PER
+Iesv@PER,Kurtze Verzeichnuß Vnd@PER
+Iesv@PER,Christi@LOC
+Iesv@PER,Ioannem Petrum Maffeium@PER
+C. C. A. Vnd@PER,H. Oseam Halen@PER
+C. C. A. Vnd@PER,Teutsch@LOC
+C. C. A. Vnd@PER,Jacob le Moyne@PER
+C. C. A. Vnd@PER,Floridam@LOC
+C. C. A. Vnd@PER,H. Ribald@PER
+C. C. A. Vnd@PER,Dieterich@PER
+C. C. A. Vnd@PER,Americæ@LOC
+Schmidel@PER,Schmidel von Straubing von Anno@PER
+Schmidel@PER,Levinvm Hvlsivm@PER
+Schmidel@PER,Americam@LOC
+Baiazeth vnd@LOC,Jtem@PER
+Baiazeth vnd@LOC,Heinrich Müller@PER
+Stephan von Gumpenberg Friderich von Wolffskel vnnd Hans von Rameraw@PER,Damascon@LOC
+Stephan von Gumpenberg Friderich von Wolffskel vnnd Hans von Rameraw@PER,Würtzburg@LOC
+Stephan von Gumpenberg Friderich von Wolffskel vnnd Hans von Rameraw@PER,Johann Eyselsaner@PER
+Stephan von Gumpenberg Friderich von Wolffskel vnnd Hans von Rameraw@PER,Sanct Paulus@PER
+Joannem Herold@PER,H. Bartholome Georgewyts@PER
+Calis Malis@LOC,Franciscus Dracus Redivivvs@PER
+Calis Malis@LOC,Kurtze@PER
+Calis Malis@LOC,Jnsul Cuba@PER
+Calis Malis@LOC,Florida@LOC
+Dieterich von Bry@PER,Vlrici Schmidts@PER
+Jacob@PER,Jetzundt@PER
+Jacob@PER,De la Nove Jn Frantzoesischer@PER
+Thomas Candisch@PER,Macuieguarai@PER
+Thomas Candisch@PER,Walthern Ralegh@PER
+Thomas Candisch@PER,Avgvstinvm Cassiodorvm Reinivm@PER
+Thomas Candisch@PER,Lorentz Keymis@PER
+Thomas Candisch@PER,Vnd@PER
+Thomas Candisch@PER,Engellandt@LOC
+Thomas Candisch@PER,Amapaia@LOC
+Thomas Candisch@PER,Frantzen Prettie@PER
+Thomas Candisch@PER,Quito@LOC
+Thomas Candisch@PER,Guiana@LOC
+Thomas Candisch@PER,Jar@LOC
+Thomas Candisch@PER,Peru@LOC
+Thomas Candisch@PER,Arromaia@LOC
+Herrn Herrn Ferdinanden Römischen@LOC,Hispanischer Sprach von Cortesio@PER
+Herrn Herrn Ferdinanden Römischen@LOC,Tittel@PER
+Herrn Herrn Ferdinanden Römischen@LOC,Darzů@PER
+Herrn Herrn Ferdinanden Römischen@LOC,Carlos V.@PER
+Herrn Herrn Ferdinanden Römischen@LOC,Xysto Betuleio@PER
+Herrn Herrn Ferdinanden Römischen@LOC,Jar@LOC
+Herrn Herrn Ferdinanden Römischen@LOC,Temixtitan@LOC
+Herrn Herrn Ferdinanden Römischen@LOC,Ferdinandi Cortesii@PER
+Herrn Herrn Ferdinanden Römischen@LOC,Andrea Diethero@PER
+Herrn Herrn Ferdinanden Römischen@LOC,Carolvm@PER
+Herrn Herrn Ferdinanden Römischen@LOC,Hochteütsche@LOC
+Franciscus Dracus Redivivvs@PER,Kurtze@PER
+Franciscus Dracus Redivivvs@PER,Jnsul Cuba@PER
+Franciscus Dracus Redivivvs@PER,Florida@LOC
+Gerhart de Ver@PER,Lappiam@PER
+Gerhart de Ver@PER,Cathay vnd China@LOC
+Gerhart de Ver@PER,Jar@LOC
+Gerhart de Ver@PER,Niderländischer@LOC
+Brunst@PER,Rom@LOC
+Brunst@PER,João@PER
+Brunst@PER,Chronicen@PER
+Brunst@PER,Morenlandt@LOC
+Brunst@PER,Johanns@PER
+Brunst@PER,Francisco Álvares@PER
+Brunst@PER,Völcker@PER
+H. Philipsen Landtgraff@PER,Homberg@LOC
+H. Philipsen Landtgraff@PER,Menschfresser Leuthen@PER
+H. Philipsen Landtgraff@PER,Nidda@LOC
+H. Philipsen Landtgraff@PER,Christi@LOC
+H. Philipsen Landtgraff@PER,D. Joh@PER
+H. Philipsen Landtgraff@PER,Hessen@LOC
+H. Philipsen Landtgraff@PER,Dedicirt@PER
+Obernburg@LOC,Benedicten Curipeschitz@PER
+Indien@LOC,Mauritius@PER
+Indien@LOC,Hochteutsch@LOC
+Indien@LOC,Amsterdam@LOC
+Indien@LOC,Hollandia@PER
+Indien@LOC,Conrad Lew@PER
+Indien@LOC,Jndia@LOC
+Anna@PER,Wilhelmen Hertzogen@PER
+Anna@PER,Gülich Cleue@PER
+Anna@PER,Maria Leonora@PER
+Anna@PER,Fürstenthumb Newburg@LOC
+Kurtzer@PER,Leipzig@LOC
+Kurtzer@PER,Venedig@LOC
+Kurtzer@PER,Sinai Alcair Alexandria@LOC
+Kurtzer@PER,Hierusalem@LOC
+Sinay Alexandria@LOC,Burger@PER
+Sinay Alexandria@LOC,Nürnberg@LOC
+Sinay Alexandria@LOC,Venedig Jerusalem@LOC
+Hispanischer Sprach von Cortesio@PER,Tittel@PER
+Hispanischer Sprach von Cortesio@PER,Darzů@PER
+Hispanischer Sprach von Cortesio@PER,Carlos V.@PER
+Hispanischer Sprach von Cortesio@PER,Xysto Betuleio@PER
+Hispanischer Sprach von Cortesio@PER,Jar@LOC
+Hispanischer Sprach von Cortesio@PER,Temixtitan@LOC
+Hispanischer Sprach von Cortesio@PER,Ferdinandi Cortesii@PER
+Hispanischer Sprach von Cortesio@PER,Andrea Diethero@PER
+Hispanischer Sprach von Cortesio@PER,Carolvm@PER
+Hispanischer Sprach von Cortesio@PER,Hochteütsche@LOC
+Bergen Auwen@LOC,vnd Heyland Christus@PER
+Bergen Auwen@LOC,Ceremonien@LOC
+Bergen Auwen@LOC,Glaubenssachen@LOC
+Burger@PER,Nürnberg@LOC
+Burger@PER,Venedig Jerusalem@LOC
+Lappiam@PER,Cathay vnd China@LOC
+Lappiam@PER,Jar@LOC
+Lappiam@PER,Niderländischer@LOC
+vnd Heyland Christus@PER,Ceremonien@LOC
+vnd Heyland Christus@PER,Glaubenssachen@LOC
+Portugalesischer@PER,Ioannem Georgium@PER
+Portugalesischer@PER,Orient@LOC
+Portugalesischer@PER,Jar@LOC
+Portugalesischer@PER,Constantzischen Rath@PER
+Portugalesischer@PER,Kurtze Verzeichnuß Vnd@PER
+Portugalesischer@PER,Christi@LOC
+Portugalesischer@PER,Ioannem Petrum Maffeium@PER
+Johann Kellner@PER,China@LOC
+Johann Kellner@PER,cosas@PER
+Johann Kellner@PER,gran Reyno de la China@LOC
+Johann Kellner@PER,Kurtze@PER
+Johann Kellner@PER,Goldt@PER
+Johann Kellner@PER,Bey@PER
+Johann Kellner@PER,Juan González de Mendoza@PER
+Johann Kellner@PER,HochTeutsch@LOC
+Rom@LOC,Portugal@LOC
+Rom@LOC,Olavm Magnvm@PER
+Rom@LOC,João@PER
+Rom@LOC,Chronicen@PER
+Rom@LOC,Gothien@LOC
+Rom@LOC,Vnd@PER
+Rom@LOC,Johann Jacoben@PER
+Rom@LOC,Morenlandt@LOC
+Rom@LOC,Raiß@PER
+Rom@LOC,Johanns@PER
+Rom@LOC,Francisco Álvares@PER
+Rom@LOC,Jar@LOC
+Rom@LOC,Schweden@LOC
+Rom@LOC,Völcker@PER
+Rom@LOC,Japon@PER
+Ceremonien@LOC,Glaubenssachen@LOC
+Schmidel von Straubing von Anno@PER,Levinvm Hvlsivm@PER
+Schmidel von Straubing von Anno@PER,Americam@LOC
+Julij@PER,Christoph Scheurl@PER
+Julij@PER,Barbarossa@PER
+Julij@PER,Römischen Künig@LOC
+Julij@PER,Römischen Küng den XXIII@LOC
+Julij@PER,Künigclich Maiestat jres@PER
+Julij@PER,Karl V.@PER
+Mahomeths@PER,Türckischen Hoff@LOC
+Mahomeths@PER,Schmächlichem Endt@PER
+Mahomeths@PER,Königshofen@LOC
+Mahomeths@PER,Tauber@LOC
+Mahomeths@PER,Noth@PER
+Mahomeths@PER,Ottomans@LOC
+Mahomeths@PER,V. Ferdinandt@PER
+Mahomeths@PER,Policey Gerichtlichem Proceß@PER
+Mahomeths@PER,Maximilian@PER
+Benzo von Meylandt@PER,Dieterich@PER
+jar Christi@PER,Amelbeurn@LOC
+jar Christi@PER,Pandectes Türckischer@PER
+jar Christi@PER,Tugendt Vntugendt@PER
+jar Christi@PER,Christi@PER
+jar Christi@PER,Jeronymus Beck von Leopoldstorff@PER
+jar Christi@PER,Jar@LOC
+jar Christi@PER,Hansen Lewenklaw@PER
+jar Christi@PER,Suleiman Chan vnd@PER
+jar Christi@PER,Constantinopol@PER
+jar Christi@PER,Chronic@PER
+jar Christi@PER,Osman Chan@PER
+Türckischen Hoff@LOC,Schmächlichem Endt@PER
+Türckischen Hoff@LOC,Königshofen@LOC
+Türckischen Hoff@LOC,Tauber@LOC
+Türckischen Hoff@LOC,Noth@PER
+Türckischen Hoff@LOC,Ottomans@LOC
+Türckischen Hoff@LOC,V. Ferdinandt@PER
+Türckischen Hoff@LOC,Policey Gerichtlichem Proceß@PER
+Türckischen Hoff@LOC,Maximilian@PER
+Damascon@LOC,Würtzburg@LOC
+Damascon@LOC,Johann Eyselsaner@PER
+Damascon@LOC,Sanct Paulus@PER
+Amelbeurn@LOC,Pandectes Türckischer@PER
+Amelbeurn@LOC,Osmanischen Stammens@PER
+Amelbeurn@LOC,Tugendt Vntugendt@PER
+Amelbeurn@LOC,Christi@PER
+Amelbeurn@LOC,Jeronymus Beck von Leopoldstorff@PER
+Amelbeurn@LOC,Jar@LOC
+Amelbeurn@LOC,Hansen Lewenklaw@PER
+Amelbeurn@LOC,Suleiman Chan vnd@PER
+Amelbeurn@LOC,Constantinopol@PER
+Amelbeurn@LOC,Chronic@PER
+Amelbeurn@LOC,Osman Chan@PER
+Amelbeurn@LOC,Jar Christi@PER
+Portugal@LOC,China@LOC
+Portugal@LOC,Hans Jsrael@PER
+Portugal@LOC,Holchteutsch@LOC
+Portugal@LOC,Jetzo@PER
+Portugal@LOC,Joan Hugo@PER
+Portugal@LOC,Raiß@PER
+Portugal@LOC,Mundus novus@PER
+Portugal@LOC,Jar@LOC
+Portugal@LOC,Japon@PER
+Augspurg@LOC,Kayser@PER
+Augspurg@LOC,Paul Pesel@PER
+Augspurg@LOC,Raiß@PER
+Augspurg@LOC,Jar@LOC
+Augspurg@LOC,Kayser Karls@PER
+Carle Graff@PER,Gran Ritterlich@LOC
+Cathay vnd China@LOC,Jar@LOC
+Cathay vnd China@LOC,Niderländischer@LOC
+Homberg@LOC,Menschfresser Leuthen@PER
+Homberg@LOC,Nidda@LOC
+Homberg@LOC,Darinn Brasilia@LOC
+Homberg@LOC,Lüttich@LOC
+Homberg@LOC,Christi@LOC
+Homberg@LOC,D. Joh@PER
+Homberg@LOC,Hessen@LOC
+Homberg@LOC,Dedicirt@PER
+Mauritius@PER,Hochteutsch@LOC
+Mauritius@PER,Amsterdam@LOC
+Mauritius@PER,Hollandia@PER
+Mauritius@PER,Conrad Lew@PER
+Mauritius@PER,Jndia@LOC
+Ostereich@LOC,Darinn@PER
+Ostereich@LOC,Wien@LOC
+Ostereich@LOC,S. G.@PER
+Pandectes Türckischer@PER,Tugendt Vntugendt@PER
+Pandectes Türckischer@PER,Christi@PER
+Pandectes Türckischer@PER,Jeronymus Beck von Leopoldstorff@PER
+Pandectes Türckischer@PER,Jar@LOC
+Pandectes Türckischer@PER,Hansen Lewenklaw@PER
+Pandectes Türckischer@PER,Suleiman Chan vnd@PER
+Pandectes Türckischer@PER,Constantinopol@PER
+Pandectes Türckischer@PER,Chronic@PER
+Pandectes Türckischer@PER,Osman Chan@PER
+Kayser@PER,Paul Pesel@PER
+Kayser@PER,Raiß@PER
+Kayser@PER,Jar@LOC
+Kayser@PER,Kayser Karls@PER
+China@LOC,cosas@PER
+China@LOC,Hans Jsrael@PER
+China@LOC,Holchteutsch@LOC
+China@LOC,Jetzo@PER
+China@LOC,Joan Hugo@PER
+China@LOC,gran Reyno de la China@LOC
+China@LOC,Kurtze@PER
+China@LOC,Matthaevm Dresservm D.@PER
+China@LOC,Noua Zemla@PER
+China@LOC,Goldt@PER
+China@LOC,Obij@LOC
+China@LOC,Gantz@PER
+China@LOC,Jar@LOC
+China@LOC,Jnsel Bally@PER
+China@LOC,Bey@PER
+China@LOC,Juan González de Mendoza@PER
+China@LOC,Hollandt@LOC
+China@LOC,Nägelein@PER
+China@LOC,HochTeutsch@LOC
+Olavm Magnvm@PER,Gothien@LOC
+Olavm Magnvm@PER,Vnd@PER
+Olavm Magnvm@PER,Johann Jacoben@PER
+Olavm Magnvm@PER,Jar@LOC
+Olavm Magnvm@PER,Schweden@LOC
+cosas@PER,gran Reyno de la China@LOC
+cosas@PER,Kurtze@PER
+cosas@PER,Matthaevm Dresservm D.@PER
+cosas@PER,Goldt@PER
+cosas@PER,Bey@PER
+cosas@PER,Juan González de Mendoza@PER
+cosas@PER,HochTeutsch@LOC
+Macuieguarai@PER,Walthern Ralegh@PER
+Macuieguarai@PER,Avgvstinvm Cassiodorvm Reinivm@PER
+Macuieguarai@PER,Lorentz Keymis@PER
+Macuieguarai@PER,Vnd@PER
+Macuieguarai@PER,Engellandt@LOC
+Macuieguarai@PER,Amapaia@LOC
+Macuieguarai@PER,Frantzen Prettie@PER
+Macuieguarai@PER,Quito@LOC
+Macuieguarai@PER,Guiana@LOC
+Macuieguarai@PER,Jar@LOC
+Macuieguarai@PER,Peru@LOC
+Macuieguarai@PER,Arromaia@LOC
+João@PER,Chronicen@PER
+João@PER,Morenlandt@LOC
+João@PER,Johanns@PER
+João@PER,Francisco Álvares@PER
+João@PER,Völcker@PER
+Ioannem Georgium@PER,Orient@LOC
+Ioannem Georgium@PER,Jar@LOC
+Ioannem Georgium@PER,Constantzischen Rath@PER
+Ioannem Georgium@PER,Kurtze Verzeichnuß Vnd@PER
+Ioannem Georgium@PER,Christi@LOC
+Ioannem Georgium@PER,Ioannem Petrum Maffeium@PER
+Kayser Soleyman@PER,Constantinopel@LOC
+Kayser Soleyman@PER,Benedikt Kuripešić@PER
+Schmächlichem Endt@PER,Königshofen@LOC
+Schmächlichem Endt@PER,Tauber@LOC
+Schmächlichem Endt@PER,Noth@PER
+Schmächlichem Endt@PER,Ottomans@LOC
+Schmächlichem Endt@PER,V. Ferdinandt@PER
+Schmächlichem Endt@PER,Policey Gerichtlichem Proceß@PER
+Schmächlichem Endt@PER,Maximilian@PER
+Menschfresser Leuthen@PER,Nidda@LOC
+Menschfresser Leuthen@PER,Christi@LOC
+Menschfresser Leuthen@PER,D. Joh@PER
+Menschfresser Leuthen@PER,Hessen@LOC
+Menschfresser Leuthen@PER,Dedicirt@PER
+Meissen@LOC,Düringen Marggraffen@LOC
+Meissen@LOC,Hansen von Mergenthal@PER
+Meissen@LOC,Wilhelmen@LOC
+Meissen@LOC,Dabey@PER
+Meissen@LOC,Jetzund@PER
+Walthern Ralegh@PER,Avgvstinvm Cassiodorvm Reinivm@PER
+Walthern Ralegh@PER,Lorentz Keymis@PER
+Walthern Ralegh@PER,Vnd@PER
+Walthern Ralegh@PER,Engellandt@LOC
+Walthern Ralegh@PER,Amapaia@LOC
+Walthern Ralegh@PER,Frantzen Prettie@PER
+Walthern Ralegh@PER,Quito@LOC
+Walthern Ralegh@PER,Guiana@LOC
+Walthern Ralegh@PER,Jar@LOC
+Walthern Ralegh@PER,Peru@LOC
+Walthern Ralegh@PER,Arromaia@LOC
+Oost Indien@LOC,Kurtze@PER
+Oost Indien@LOC,Orientalischen Indien@LOC
+Oost Indien@LOC,Martio Alda@LOC
+Oost Indien@LOC,Hochteutsche@LOC
+Osmanischen Stammens@PER,Tugendt Vntugendt@PER
+Osmanischen Stammens@PER,Jeronymus Beck von Leopoldstorff@PER
+Osmanischen Stammens@PER,Jar@LOC
+Osmanischen Stammens@PER,Hansen Lewenklaw@PER
+Osmanischen Stammens@PER,Suleiman Chan vnd@PER
+Osmanischen Stammens@PER,Constantinopol@PER
+Osmanischen Stammens@PER,Chronic@PER
+Osmanischen Stammens@PER,Osman Chan@PER
+Osmanischen Stammens@PER,Jar Christi@PER
+Levinvm Hvlsivm@PER,Americam@LOC
+Jtem@PER,Heinrich Müller@PER
+Hans Jsrael@PER,Holchteutsch@LOC
+Hans Jsrael@PER,Jetzo@PER
+Hans Jsrael@PER,Joan Hugo@PER
+Hans Jsrael@PER,Hans Dietherich@PER
+Hans Jsrael@PER,Jar@LOC
+Hans Jsrael@PER,Eduart Lopez@PER
+Hans Jsrael@PER,Congo@PER
+Hans Jsrael@PER,Avgvstinvm Cassiodorvm@PER
+Wallfart@LOC,Schlesien@LOC
+Wallfart@LOC,Melchior von Seydlitz@PER
+Terrae Sanctae@LOC,Felix Fabri@PER
+Nidda@LOC,Christi@LOC
+Nidda@LOC,D. Joh@PER
+Nidda@LOC,Hessen@LOC
+Nidda@LOC,Dedicirt@PER
+Chronicen@PER,Johanns@PER
+Chronicen@PER,Völcker@PER
+Nürnberg@LOC,Venedig Jerusalem@LOC
+Vlm@LOC,Historia Niclaus Federmanns@PER
+Vlm@LOC,Jndias@LOC
+H. Oseam Halen@PER,Teutsch@LOC
+H. Oseam Halen@PER,Jacob le Moyne@PER
+H. Oseam Halen@PER,Floridam@LOC
+H. Oseam Halen@PER,H. Ribald@PER
+H. Oseam Halen@PER,Dieterich@PER
+H. Oseam Halen@PER,Americæ@LOC
+Mesopotamiam@LOC,Raiss@PER
+Gothien@LOC,Vnd@PER
+Gothien@LOC,Johann Jacoben@PER
+Gothien@LOC,Jar@LOC
+Gothien@LOC,Schweden@LOC
+Persia@PER,Arabia Persia Jndia vnd Ethiopia@PER
+Persia@PER,Suria@LOC
+Persia@PER,Egypto Syria@PER
+Persia@PER,Ludowico Vartomans@PER
+Persia@PER,Bolonia@PER
+Philippi Melanthonis@PER,Christi@PER
+Philippi Melanthonis@PER,Bartholomeum Georgiuitz Vnd@PER
+Avgvstinvm Cassiodorvm Reinivm@PER,Lorentz Keymis@PER
+Avgvstinvm Cassiodorvm Reinivm@PER,Vnd@PER
+Avgvstinvm Cassiodorvm Reinivm@PER,Engellandt@LOC
+Avgvstinvm Cassiodorvm Reinivm@PER,Amapaia@LOC
+Avgvstinvm Cassiodorvm Reinivm@PER,Frantzen Prettie@PER
+Avgvstinvm Cassiodorvm Reinivm@PER,Quito@LOC
+Avgvstinvm Cassiodorvm Reinivm@PER,Guiana@LOC
+Avgvstinvm Cassiodorvm Reinivm@PER,Jar@LOC
+Avgvstinvm Cassiodorvm Reinivm@PER,Peru@LOC
+Avgvstinvm Cassiodorvm Reinivm@PER,Arromaia@LOC
+Orient@LOC,Theodor vnd@PER
+Orient@LOC,Hochteutsch@LOC
+Orient@LOC,Hollandt@PER
+Orient@LOC,Sumatra@LOC
+Orient@LOC,Jar@LOC
+Orient@LOC,Constantzischen Rath@PER
+Orient@LOC,Kurtze Verzeichnuß Vnd@PER
+Orient@LOC,Christi@LOC
+Orient@LOC,Hollandt@LOC
+Orient@LOC,Völcker@PER
+Orient@LOC,Israel de Bry Gebrüder@LOC
+Orient@LOC,Ioannem Petrum Maffeium@PER
+Arabia Persia Jndia vnd Ethiopia@PER,Suria@LOC
+Arabia Persia Jndia vnd Ethiopia@PER,Egypto Syria@PER
+Arabia Persia Jndia vnd Ethiopia@PER,Ludowico Vartomans@PER
+Arabia Persia Jndia vnd Ethiopia@PER,Bolonia@PER
+Leipzig@LOC,Venedig@LOC
+Leipzig@LOC,Sinai Alcair Alexandria@LOC
+Leipzig@LOC,Hierusalem@LOC
+Tittel@PER,Darzů@PER
+Tittel@PER,Carlos V.@PER
+Tittel@PER,Xysto Betuleio@PER
+Tittel@PER,Jar@LOC
+Tittel@PER,Temixtitan@LOC
+Tittel@PER,Ferdinandi Cortesii@PER
+Tittel@PER,Andrea Diethero@PER
+Tittel@PER,Carolvm@PER
+Tittel@PER,Hochteütsche@LOC
+Königshofen@LOC,Tauber@LOC
+Königshofen@LOC,Noth@PER
+Königshofen@LOC,Ottomans@LOC
+Königshofen@LOC,V. Ferdinandt@PER
+Königshofen@LOC,Policey Gerichtlichem Proceß@PER
+Königshofen@LOC,Maximilian@PER
+Holchteutsch@LOC,Jetzo@PER
+Holchteutsch@LOC,Joan Hugo@PER
+Holchteutsch@LOC,Jar@LOC
+Constantinopel@LOC,Benedikt Kuripešić@PER
+Lorentz Keymis@PER,Vnd@PER
+Lorentz Keymis@PER,Engellandt@LOC
+Lorentz Keymis@PER,Amapaia@LOC
+Lorentz Keymis@PER,Frantzen Prettie@PER
+Lorentz Keymis@PER,Quito@LOC
+Lorentz Keymis@PER,Guiana@LOC
+Lorentz Keymis@PER,Jar@LOC
+Lorentz Keymis@PER,Peru@LOC
+Lorentz Keymis@PER,Arromaia@LOC
+Theodor vnd@PER,Hochteutsch@LOC
+Theodor vnd@PER,Hollandt@PER
+Theodor vnd@PER,Sumatra@LOC
+Theodor vnd@PER,Hollandt@LOC
+Theodor vnd@PER,Völcker@PER
+Theodor vnd@PER,Israel de Bry Gebrüder@LOC
+Tauber@LOC,Noth@PER
+Tauber@LOC,Ottomans@LOC
+Tauber@LOC,V. Ferdinandt@PER
+Tauber@LOC,Policey Gerichtlichem Proceß@PER
+Tauber@LOC,Maximilian@PER
+Teutsch@LOC,Jacob le Moyne@PER
+Teutsch@LOC,Floridam@LOC
+Teutsch@LOC,H. Ribald@PER
+Teutsch@LOC,Dieterich@PER
+Teutsch@LOC,Americæ@LOC
+Jetzo@PER,Joan Hugo@PER
+Jetzo@PER,Jar@LOC
+Hochteutsch@LOC,Amsterdam@LOC
+Hochteutsch@LOC,Hollandia@PER
+Hochteutsch@LOC,Hollandt@PER
+Hochteutsch@LOC,Sumatra@LOC
+Hochteutsch@LOC,Conrad Lew@PER
+Hochteutsch@LOC,Hollandt@LOC
+Hochteutsch@LOC,Völcker@PER
+Hochteutsch@LOC,Jndia@LOC
+Hochteutsch@LOC,Israel de Bry Gebrüder@LOC
+Joan Hugo@PER,Jar@LOC
+Darinn@PER,Wien@LOC
+Darinn@PER,S. G.@PER
+Suria@LOC,Egypto Syria@PER
+Suria@LOC,Ludowico Vartomans@PER
+Suria@LOC,Bolonia@PER
+Vnd@PER,Engellandt@LOC
+Vnd@PER,Homburg@LOC
+Vnd@PER,Johann Jacoben@PER
+Vnd@PER,Amapaia@LOC
+Vnd@PER,Frantzen Prettie@PER
+Vnd@PER,Quito@LOC
+Vnd@PER,Guiana@LOC
+Vnd@PER,Jar@LOC
+Vnd@PER,Peru@LOC
+Vnd@PER,Schweden@LOC
+Vnd@PER,Christi@LOC
+Vnd@PER,Arromaia@LOC
+Vnd@PER,Hessen@LOC
+gran Reyno de la China@LOC,Kurtze@PER
+gran Reyno de la China@LOC,Matthaevm Dresservm D.@PER
+gran Reyno de la China@LOC,Goldt@PER
+gran Reyno de la China@LOC,Bey@PER
+gran Reyno de la China@LOC,Juan González de Mendoza@PER
+gran Reyno de la China@LOC,HochTeutsch@LOC
+Noth@PER,Ottomans@LOC
+Noth@PER,V. Ferdinandt@PER
+Noth@PER,Policey Gerichtlichem Proceß@PER
+Noth@PER,Maximilian@PER
+Engellandt@LOC,Amapaia@LOC
+Engellandt@LOC,Frantzen Prettie@PER
+Engellandt@LOC,Quito@LOC
+Engellandt@LOC,Guiana@LOC
+Engellandt@LOC,Jar@LOC
+Engellandt@LOC,Peru@LOC
+Engellandt@LOC,Arromaia@LOC
+Kurtze@PER,Jnsul Cuba@PER
+Kurtze@PER,Goldt@PER
+Kurtze@PER,Florida@LOC
+Kurtze@PER,Bey@PER
+Kurtze@PER,Martio Alda@LOC
+Kurtze@PER,Juan González de Mendoza@PER
+Kurtze@PER,Hochteutsche@LOC
+Kurtze@PER,HochTeutsch@LOC
+Amsterdam@LOC,Hollandia@PER
+Amsterdam@LOC,Conrad Lew@PER
+Amsterdam@LOC,Jndia@LOC
+Hollandia@PER,Conrad Lew@PER
+Hollandia@PER,Jndia@LOC
+Benedetto Ramberti@PER,Ottomani@PER
+Christoph Scheurl@PER,Barbarossa@PER
+Christoph Scheurl@PER,Römischen Künig@LOC
+Christoph Scheurl@PER,Römischen Küng den XXIII@LOC
+Christoph Scheurl@PER,Künigclich Maiestat jres@PER
+Christoph Scheurl@PER,Karl V.@PER
+Würtzburg@LOC,Johann Eyselsaner@PER
+Würtzburg@LOC,Sanct Paulus@PER
+Jacob le Moyne@PER,Floridam@LOC
+Jacob le Moyne@PER,H. Ribald@PER
+Jacob le Moyne@PER,Dieterich@PER
+Jacob le Moyne@PER,Americæ@LOC
+Nordwest@LOC,Engelland@LOC
+Nordwest@LOC,Martini Forbißher@PER
+Nordwest@LOC,Jar@LOC
+Christ@PER,Engelland@LOC
+Christ@PER,H. Walter Raleigh Ritter@PER
+Christ@PER,Reichard Greinuile@PER
+Christ@PER,Elisabeth Königin@PER
+Christ@PER,Jar@LOC
+Venedig@LOC,Sinai Alcair Alexandria@LOC
+Venedig@LOC,Hierusalem@LOC
+Engelland@LOC,H. Walter Raleigh Ritter@PER
+Engelland@LOC,Reichard Greinuile@PER
+Engelland@LOC,Elisabeth Königin@PER
+Engelland@LOC,Martini Forbißher@PER
+Engelland@LOC,Jar@LOC
+H. Walter Raleigh Ritter@PER,Reichard Greinuile@PER
+H. Walter Raleigh Ritter@PER,Elisabeth Königin@PER
+H. Walter Raleigh Ritter@PER,Jar@LOC
+Tugendt Vntugendt@PER,Christi@PER
+Tugendt Vntugendt@PER,Jeronymus Beck von Leopoldstorff@PER
+Tugendt Vntugendt@PER,Jar@LOC
+Tugendt Vntugendt@PER,Hansen Lewenklaw@PER
+Tugendt Vntugendt@PER,Suleiman Chan vnd@PER
+Tugendt Vntugendt@PER,Constantinopol@PER
+Tugendt Vntugendt@PER,Chronic@PER
+Tugendt Vntugendt@PER,Osman Chan@PER
+Tugendt Vntugendt@PER,Jar Christi@PER
+Reichard Greinuile@PER,Elisabeth Königin@PER
+Reichard Greinuile@PER,Jar@LOC
+Jgnatium von Layola@PER,Francisci Xauier@PER
+Jgnatium von Layola@PER,Jesu Christi@PER
+Düringen Marggraffen@LOC,Hansen von Mergenthal@PER
+Düringen Marggraffen@LOC,Wilhelmen@LOC
+Düringen Marggraffen@LOC,Dabey@PER
+Düringen Marggraffen@LOC,Jetzund@PER
+Christi@PER,Jeronymus Beck von Leopoldstorff@PER
+Christi@PER,Jar@LOC
+Christi@PER,Hansen Lewenklaw@PER
+Christi@PER,Bartholomeum Georgiuitz Vnd@PER
+Christi@PER,Suleiman Chan vnd@PER
+Christi@PER,Constantinopol@PER
+Christi@PER,Chronic@PER
+Christi@PER,Osman Chan@PER
+Hansen von Mergenthal@PER,Wilhelmen@LOC
+Hansen von Mergenthal@PER,Dabey@PER
+Hansen von Mergenthal@PER,Jetzund@PER
+Egypto Syria@PER,Ludowico Vartomans@PER
+Egypto Syria@PER,Bolonia@PER
+Homburg@LOC,Christi@LOC
+Homburg@LOC,Hessen@LOC
+Frid@PER,Von de Raisz@PER
+Matthaevm Dresservm D.@PER,Juan González de Mendoza@PER
+Ludowico Vartomans@PER,Bolonia@PER
+Johann Jacoben@PER,Jar@LOC
+Johann Jacoben@PER,Schweden@LOC
+Ain Schen New Bůch@LOC,Jar@LOC
+Ain Schen New Bůch@LOC,Germanien@LOC
+Ain Schen New Bůch@LOC,Hans Heusl@PER
+Schlesien@LOC,Melchior von Seydlitz@PER
+Paul Pesel@PER,Raiß@PER
+Paul Pesel@PER,Jar@LOC
+Paul Pesel@PER,Kayser Karls@PER
+Darzů@PER,Carlos V.@PER
+Darzů@PER,Xysto Betuleio@PER
+Darzů@PER,Jar@LOC
+Darzů@PER,Temixtitan@LOC
+Darzů@PER,Ferdinandi Cortesii@PER
+Darzů@PER,Andrea Diethero@PER
+Darzů@PER,Carolvm@PER
+Darzů@PER,Hochteütsche@LOC
+Darinn Brasilia@LOC,Lüttich@LOC
+Darinn Brasilia@LOC,Hessen@LOC
+Carlos V.@PER,Xysto Betuleio@PER
+Carlos V.@PER,Jar@LOC
+Carlos V.@PER,Temixtitan@LOC
+Carlos V.@PER,Ferdinandi Cortesii@PER
+Carlos V.@PER,Andrea Diethero@PER
+Carlos V.@PER,Carolvm@PER
+Carlos V.@PER,Hochteütsche@LOC
+Sinai Alcair Alexandria@LOC,Hierusalem@LOC
+Wilhelmen Hertzogen@PER,Gülich Cleue@PER
+Wilhelmen Hertzogen@PER,Maria Leonora@PER
+Wilhelmen Hertzogen@PER,Fürstenthumb Newburg@LOC
+Hollandt@PER,Sumatra@LOC
+Hollandt@PER,Hollandt@LOC
+Hollandt@PER,Völcker@PER
+Hollandt@PER,Israel de Bry Gebrüder@LOC
+Lüttich@LOC,Hessen@LOC
+Noua Zemla@PER,Obij@LOC
+Noua Zemla@PER,Gantz@PER
+Noua Zemla@PER,Jar@LOC
+Noua Zemla@PER,Jnsel Bally@PER
+Noua Zemla@PER,Hollandt@LOC
+Noua Zemla@PER,Nägelein@PER
+Jnsul Cuba@PER,Florida@LOC
+Amapaia@LOC,Frantzen Prettie@PER
+Amapaia@LOC,Quito@LOC
+Amapaia@LOC,Guiana@LOC
+Amapaia@LOC,Jar@LOC
+Amapaia@LOC,Peru@LOC
+Amapaia@LOC,Arromaia@LOC
+Gülich Cleue@PER,Maria Leonora@PER
+Gülich Cleue@PER,Fürstenthumb Newburg@LOC
+Morenlandt@LOC,Francisco Álvares@PER
+Morenlandt@LOC,Völcker@PER
+Jetzundt@PER,De la Nove Jn Frantzoesischer@PER
+Frantzen Prettie@PER,Quito@LOC
+Frantzen Prettie@PER,Guiana@LOC
+Frantzen Prettie@PER,Jar@LOC
+Frantzen Prettie@PER,Peru@LOC
+Frantzen Prettie@PER,Arromaia@LOC
+Sumatra@LOC,Hollandt@LOC
+Sumatra@LOC,Völcker@PER
+Sumatra@LOC,Israel de Bry Gebrüder@LOC
+Goldt@PER,Bey@PER
+Goldt@PER,Juan González de Mendoza@PER
+Goldt@PER,HochTeutsch@LOC
+Hans Dietherich@PER,Eduart Lopez@PER
+Hans Dietherich@PER,Congo@PER
+Hans Dietherich@PER,Avgvstinvm Cassiodorvm@PER
+Conrad Lew@PER,Jndia@LOC
+Raiß@PER,Jar@LOC
+Raiß@PER,Kayser Karls@PER
+Raiß@PER,Japon@PER
+Spanien@LOC,Dieterich@PER
+Spanien@LOC,Hessen@LOC
+Quito@LOC,Guiana@LOC
+Quito@LOC,Jar@LOC
+Quito@LOC,Peru@LOC
+Quito@LOC,Arromaia@LOC
+Jeronymus Beck von Leopoldstorff@PER,Jar@LOC
+Jeronymus Beck von Leopoldstorff@PER,Hansen Lewenklaw@PER
+Jeronymus Beck von Leopoldstorff@PER,Suleiman Chan vnd@PER
+Jeronymus Beck von Leopoldstorff@PER,Constantinopol@PER
+Jeronymus Beck von Leopoldstorff@PER,Chronic@PER
+Jeronymus Beck von Leopoldstorff@PER,Osman Chan@PER
+Jeronymus Beck von Leopoldstorff@PER,Jar Christi@PER
+Johanns@PER,Völcker@PER
+Wilhelmen@LOC,Dabey@PER
+Wilhelmen@LOC,Jetzund@PER
+Obij@LOC,Gantz@PER
+Obij@LOC,Jar@LOC
+Obij@LOC,Jnsel Bally@PER
+Obij@LOC,Hollandt@LOC
+Obij@LOC,Nägelein@PER
+Floridam@LOC,H. Ribald@PER
+Floridam@LOC,Dieterich@PER
+Floridam@LOC,Americæ@LOC
+Francisco Álvares@PER,Völcker@PER
+Guiana@LOC,Jar@LOC
+Guiana@LOC,Peru@LOC
+Guiana@LOC,Arromaia@LOC
+H. Ribald@PER,Dieterich@PER
+H. Ribald@PER,Americæ@LOC
+Ottomans@LOC,V. Ferdinandt@PER
+Ottomans@LOC,Policey Gerichtlichem Proceß@PER
+Ottomans@LOC,Maximilian@PER
+Xysto Betuleio@PER,Jar@LOC
+Xysto Betuleio@PER,Temixtitan@LOC
+Xysto Betuleio@PER,Ferdinandi Cortesii@PER
+Xysto Betuleio@PER,Andrea Diethero@PER
+Xysto Betuleio@PER,Carolvm@PER
+Xysto Betuleio@PER,Hochteütsche@LOC
+Francisci Xauier@PER,Jesu Christi@PER
+Elisabeth Königin@PER,Jar@LOC
+Martini Forbißher@PER,Jar@LOC
+Gantz@PER,Jar@LOC
+Gantz@PER,Jnsel Bally@PER
+Gantz@PER,Hollandt@LOC
+Gantz@PER,Nägelein@PER
+Jar@LOC,Jnsel Bally@PER
+Jar@LOC,Hansen Lewenklaw@PER
+Jar@LOC,Peru@LOC
+Jar@LOC,Kayser Karls@PER
+Jar@LOC,Constantzischen Rath@PER
+Jar@LOC,Germanien@LOC
+Jar@LOC,Kurtze Verzeichnuß Vnd@PER
+Jar@LOC,Temixtitan@LOC
+Jar@LOC,Ferdinandi Cortesii@PER
+Jar@LOC,Suleiman Chan vnd@PER
+Jar@LOC,Andrea Diethero@PER
+Jar@LOC,Constantinopol@PER
+Jar@LOC,Carolvm@PER
+Jar@LOC,Schweden@LOC
+Jar@LOC,Christi@LOC
+Jar@LOC,Chronic@PER
+Jar@LOC,Hochteütsche@LOC
+Jar@LOC,Hans Heusl@PER
+Jar@LOC,Hollandt@LOC
+Jar@LOC,Osman Chan@PER
+Jar@LOC,Jar Christi@PER
+Jar@LOC,Arromaia@LOC
+Jar@LOC,Nägelein@PER
+Jar@LOC,Niderländischer@LOC
+Jar@LOC,Ioannem Petrum Maffeium@PER
+Jnsel Bally@PER,Hollandt@LOC
+Jnsel Bally@PER,Nägelein@PER
+Hansen Lewenklaw@PER,Suleiman Chan vnd@PER
+Hansen Lewenklaw@PER,Constantinopol@PER
+Hansen Lewenklaw@PER,Chronic@PER
+Hansen Lewenklaw@PER,Osman Chan@PER
+Hansen Lewenklaw@PER,Jar Christi@PER
+Maria Leonora@PER,Fürstenthumb Newburg@LOC
+Barbarossa@PER,Römischen Künig@LOC
+Barbarossa@PER,Römischen Küng den XXIII@LOC
+Barbarossa@PER,Künigclich Maiestat jres@PER
+Barbarossa@PER,Karl V.@PER
+Historia Niclaus Federmanns@PER,Jndias@LOC
+Peru@LOC,Arromaia@LOC
+Wien@LOC,S. G.@PER
+Constantzischen Rath@PER,Kurtze Verzeichnuß Vnd@PER
+Constantzischen Rath@PER,Christi@LOC
+Constantzischen Rath@PER,Ioannem Petrum Maffeium@PER
+Herberstain Neyperg@LOC,Kärntn Römischer@LOC
+Bey@PER,Juan González de Mendoza@PER
+Bey@PER,HochTeutsch@LOC
+Martio Alda@LOC,Hochteutsche@LOC
+V. Ferdinandt@PER,Policey Gerichtlichem Proceß@PER
+V. Ferdinandt@PER,Maximilian@PER
+Germanien@LOC,Hans Heusl@PER
+Kurtze Verzeichnuß Vnd@PER,Christi@LOC
+Kurtze Verzeichnuß Vnd@PER,Ioannem Petrum Maffeium@PER
+Eduart Lopez@PER,Congo@PER
+Eduart Lopez@PER,Avgvstinvm Cassiodorvm@PER
+Melchior Lussy Ritter Landamman@PER,Jetzund@PER
+Melchior Lussy Ritter Landamman@PER,Christo@PER
+Temixtitan@LOC,Ferdinandi Cortesii@PER
+Temixtitan@LOC,Andrea Diethero@PER
+Temixtitan@LOC,Carolvm@PER
+Temixtitan@LOC,Hochteütsche@LOC
+Congo@PER,Avgvstinvm Cassiodorvm@PER
+Ferdinandi Cortesii@PER,Andrea Diethero@PER
+Ferdinandi Cortesii@PER,Carolvm@PER
+Ferdinandi Cortesii@PER,Hochteütsche@LOC
+Suleiman Chan vnd@PER,Constantinopol@PER
+Suleiman Chan vnd@PER,Chronic@PER
+Suleiman Chan vnd@PER,Osman Chan@PER
+Suleiman Chan vnd@PER,Jar Christi@PER
+Andrea Diethero@PER,Carolvm@PER
+Andrea Diethero@PER,Hochteütsche@LOC
+Constantinopol@PER,Chronic@PER
+Constantinopol@PER,Osman Chan@PER
+Constantinopol@PER,Jar Christi@PER
+Carolvm@PER,Hochteütsche@LOC
+Christi@LOC,D. Joh@PER
+Christi@LOC,Hessen@LOC
+Christi@LOC,Ioannem Petrum Maffeium@PER
+Christi@LOC,Dedicirt@PER
+Dabey@PER,Jetzund@PER
+Chronic@PER,Osman Chan@PER
+Chronic@PER,Jar Christi@PER
+Policey Gerichtlichem Proceß@PER,Maximilian@PER
+Dieterich@PER,Americæ@LOC
+Dieterich@PER,Hessen@LOC
+Juan González de Mendoza@PER,HochTeutsch@LOC
+Johann Eyselsaner@PER,Sanct Paulus@PER
+Hollandt@LOC,Völcker@PER
+Hollandt@LOC,Nägelein@PER
+Hollandt@LOC,Israel de Bry Gebrüder@LOC
+Römischen Künig@LOC,Künigclich Maiestat jres@PER
+Römischen Künig@LOC,Karl V.@PER
+Jetzund@PER,Christo@PER
+Osman Chan@PER,Jar Christi@PER
+Völcker@PER,Israel de Bry Gebrüder@LOC
+D. Joh@PER,Hessen@LOC
+D. Joh@PER,Dedicirt@PER
+Hessen@LOC,Dedicirt@PER
+Römischen Küng den XXIII@LOC,Karl V.@PER
+Künigclich Maiestat jres@PER,Karl V.@PER

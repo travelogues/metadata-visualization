@@ -1,0 +1,1677 @@
+[
+  {
+    "id": "Goa@LOC",
+    "label": "Goa",
+    "type": "LOC"
+  },
+  {
+    "id": "Neyperg@LOC",
+    "label": "Neyperg",
+    "type": "LOC"
+  },
+  {
+    "id": "Aegypten@LOC",
+    "label": "Aegypten",
+    "type": "LOC"
+  },
+  {
+    "id": "bey Pleymeuten Cartsag@PER",
+    "label": "bey Pleymeuten Cartsag",
+    "type": "PER"
+  },
+  {
+    "id": "Zwo@PER",
+    "label": "Zwo",
+    "type": "PER"
+  },
+  {
+    "id": "Atabalibam@PER",
+    "label": "Atabalibam",
+    "type": "PER"
+  },
+  {
+    "id": "Jerusalem@LOC",
+    "label": "Jerusalem",
+    "type": "LOC"
+  },
+  {
+    "id": "Samatra@LOC",
+    "label": "Samatra",
+    "type": "LOC"
+  },
+  {
+    "id": "Martio@LOC",
+    "label": "Martio",
+    "type": "LOC"
+  },
+  {
+    "id": "Thomam Hariot@PER",
+    "label": "Thomam Hariot",
+    "type": "PER"
+  },
+  {
+    "id": "Holland@LOC",
+    "label": "Holland",
+    "type": "LOC"
+  },
+  {
+    "id": "Elendt Jamer@PER",
+    "label": "Elendt Jamer",
+    "type": "PER"
+  },
+  {
+    "id": "S. Domingo@PER",
+    "label": "S. Domingo",
+    "type": "PER"
+  },
+  {
+    "id": "T\u00fcrckischen Keysers@PER",
+    "label": "T\u00fcrckischen Keysers",
+    "type": "PER"
+  },
+  {
+    "id": "Albrechten Hertzogen@PER",
+    "label": "Albrechten Hertzogen",
+    "type": "PER"
+  },
+  {
+    "id": "N. Nicolai B\u00fcrtig@PER",
+    "label": "N. Nicolai B\u00fcrtig",
+    "type": "PER"
+  },
+  {
+    "id": "Dietz Ziegenhain@PER",
+    "label": "Dietz Ziegenhain",
+    "type": "PER"
+  },
+  {
+    "id": "Palestina@LOC",
+    "label": "Palestina",
+    "type": "LOC"
+  },
+  {
+    "id": "Franciscus Dracus@PER",
+    "label": "Franciscus Dracus",
+    "type": "PER"
+  },
+  {
+    "id": "Dauid Vngnadn Freyherrn@PER",
+    "label": "Dauid Vngnadn Freyherrn",
+    "type": "PER"
+  },
+  {
+    "id": "Texel@LOC",
+    "label": "Texel",
+    "type": "LOC"
+  },
+  {
+    "id": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "label": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a",
+    "type": "PER"
+  },
+  {
+    "id": "Beheim Kh\u00fc@PER",
+    "label": "Beheim Kh\u00fc",
+    "type": "PER"
+  },
+  {
+    "id": "Friaul@LOC",
+    "label": "Friaul",
+    "type": "LOC"
+  },
+  {
+    "id": "H. Guorguesio@PER",
+    "label": "H. Guorguesio",
+    "type": "PER"
+  },
+  {
+    "id": "Aphrica@LOC",
+    "label": "Aphrica",
+    "type": "LOC"
+  },
+  {
+    "id": "Hollande@LOC",
+    "label": "Hollande",
+    "type": "LOC"
+  },
+  {
+    "id": "bi\u00dfhero@PER",
+    "label": "bi\u00dfhero",
+    "type": "PER"
+  },
+  {
+    "id": "Johann Staden@PER",
+    "label": "Johann Staden",
+    "type": "PER"
+  },
+  {
+    "id": "Ioannis Lerij@PER",
+    "label": "Ioannis Lerij",
+    "type": "PER"
+  },
+  {
+    "id": "Hans Staden@PER",
+    "label": "Hans Staden",
+    "type": "PER"
+  },
+  {
+    "id": "Medici@PER",
+    "label": "Medici",
+    "type": "PER"
+  },
+  {
+    "id": "Johan Th\u016fcher@PER",
+    "label": "Johan Th\u016fcher",
+    "type": "PER"
+  },
+  {
+    "id": "Johann@PER",
+    "label": "Johann",
+    "type": "PER"
+  },
+  {
+    "id": "R\u00f6@LOC",
+    "label": "R\u00f6",
+    "type": "LOC"
+  },
+  {
+    "id": "Franckfurt am Mayn@LOC",
+    "label": "Franckfurt am Mayn",
+    "type": "LOC"
+  },
+  {
+    "id": "P. Petri Martonez@PER",
+    "label": "P. Petri Martonez",
+    "type": "PER"
+  },
+  {
+    "id": "Baiatzeth vnd@LOC",
+    "label": "Baiatzeth vnd",
+    "type": "LOC"
+  },
+  {
+    "id": "Ferdinando@PER",
+    "label": "Ferdinando",
+    "type": "PER"
+  },
+  {
+    "id": "Augerius Gislenius Busbeck@PER",
+    "label": "Augerius Gislenius Busbeck",
+    "type": "PER"
+  },
+  {
+    "id": "Copia@PER",
+    "label": "Copia",
+    "type": "PER"
+  },
+  {
+    "id": "Johan@PER",
+    "label": "Johan",
+    "type": "PER"
+  },
+  {
+    "id": "Iohan Havckens@PER",
+    "label": "Iohan Havckens",
+    "type": "PER"
+  },
+  {
+    "id": "Genua@LOC",
+    "label": "Genua",
+    "type": "LOC"
+  },
+  {
+    "id": "Joann Huygens@PER",
+    "label": "Joann Huygens",
+    "type": "PER"
+  },
+  {
+    "id": "Gilissy@LOC",
+    "label": "Gilissy",
+    "type": "LOC"
+  },
+  {
+    "id": "Weyl@PER",
+    "label": "Weyl",
+    "type": "PER"
+  },
+  {
+    "id": "Engellandt Leibs Guardi@PER",
+    "label": "Engellandt Leibs Guardi",
+    "type": "PER"
+  },
+  {
+    "id": "Olaj Magni@PER",
+    "label": "Olaj Magni",
+    "type": "PER"
+  },
+  {
+    "id": "Brasilien@LOC",
+    "label": "Brasilien",
+    "type": "LOC"
+  },
+  {
+    "id": "Dieterich Bry@PER",
+    "label": "Dieterich Bry",
+    "type": "PER"
+  },
+  {
+    "id": "de Fresne@PER",
+    "label": "de Fresne",
+    "type": "PER"
+  },
+  {
+    "id": "Franckreich@PER",
+    "label": "Franckreich",
+    "type": "PER"
+  },
+  {
+    "id": "Frantzen Draeck@PER",
+    "label": "Frantzen Draeck",
+    "type": "PER"
+  },
+  {
+    "id": "Hispanien@LOC",
+    "label": "Hispanien",
+    "type": "LOC"
+  },
+  {
+    "id": "Eychman Ordinarij Professoris Medici@PER",
+    "label": "Eychman Ordinarij Professoris Medici",
+    "type": "PER"
+  },
+  {
+    "id": "Dryandri@PER",
+    "label": "Dryandri",
+    "type": "PER"
+  },
+  {
+    "id": "Virginia@LOC",
+    "label": "Virginia",
+    "type": "LOC"
+  },
+  {
+    "id": "Emanuel@PER",
+    "label": "Emanuel",
+    "type": "PER"
+  },
+  {
+    "id": "Jaren@PER",
+    "label": "Jaren",
+    "type": "PER"
+  },
+  {
+    "id": "Philippo Printze@PER",
+    "label": "Philippo Printze",
+    "type": "PER"
+  },
+  {
+    "id": "Americe@LOC",
+    "label": "Americe",
+    "type": "LOC"
+  },
+  {
+    "id": "Indiae Orientalis@PER",
+    "label": "Indiae Orientalis",
+    "type": "PER"
+  },
+  {
+    "id": "Soleiman@PER",
+    "label": "Soleiman",
+    "type": "PER"
+  },
+  {
+    "id": "Jndien@LOC",
+    "label": "Jndien",
+    "type": "LOC"
+  },
+  {
+    "id": "Carta de Francisco Javier S. J.@PER",
+    "label": "Carta de Francisco Javier S. J.",
+    "type": "PER"
+  },
+  {
+    "id": "Horeb Sinay@PER",
+    "label": "Horeb Sinay",
+    "type": "PER"
+  },
+  {
+    "id": "Laurentz Jnsel@PER",
+    "label": "Laurentz Jnsel",
+    "type": "PER"
+  },
+  {
+    "id": "Moritzen@PER",
+    "label": "Moritzen",
+    "type": "PER"
+  },
+  {
+    "id": "Rath@PER",
+    "label": "Rath",
+    "type": "PER"
+  },
+  {
+    "id": "K\u00fcnigklicher Maye@PER",
+    "label": "K\u00fcnigklicher Maye",
+    "type": "PER"
+  },
+  {
+    "id": "Teutsche Sprach@LOC",
+    "label": "Teutsche Sprach",
+    "type": "LOC"
+  },
+  {
+    "id": "Keyser Ferdinandi@PER",
+    "label": "Keyser Ferdinandi",
+    "type": "PER"
+  },
+  {
+    "id": "M. Franciscvm Omichivm@PER",
+    "label": "M. Franciscvm Omichivm",
+    "type": "PER"
+  },
+  {
+    "id": "Hans Dieterich@PER",
+    "label": "Hans Dieterich",
+    "type": "PER"
+  },
+  {
+    "id": "May@PER",
+    "label": "May",
+    "type": "PER"
+  },
+  {
+    "id": "T\u00fcrkei@LOC",
+    "label": "T\u00fcrkei",
+    "type": "LOC"
+  },
+  {
+    "id": "Hans Strigel@PER",
+    "label": "Hans Strigel",
+    "type": "PER"
+  },
+  {
+    "id": "Conrad L\u00f6w@PER",
+    "label": "Conrad L\u00f6w",
+    "type": "PER"
+  },
+  {
+    "id": "Peter Sauorgnan@PER",
+    "label": "Peter Sauorgnan",
+    "type": "PER"
+  },
+  {
+    "id": "K\u00e4rnttn@LOC",
+    "label": "K\u00e4rnttn",
+    "type": "LOC"
+  },
+  {
+    "id": "Teutscher Meil@PER",
+    "label": "Teutscher Meil",
+    "type": "PER"
+  },
+  {
+    "id": "Ioannis Benzonis von Meylandt@PER",
+    "label": "Ioannis Benzonis von Meylandt",
+    "type": "PER"
+  },
+  {
+    "id": "Franckfort am Mayn Anno@LOC",
+    "label": "Franckfort am Mayn Anno",
+    "type": "LOC"
+  },
+  {
+    "id": "Iesv@PER",
+    "label": "Iesv",
+    "type": "PER"
+  },
+  {
+    "id": "C. C. A. Vnd@PER",
+    "label": "C. C. A. Vnd",
+    "type": "PER"
+  },
+  {
+    "id": "Schmidel@PER",
+    "label": "Schmidel",
+    "type": "PER"
+  },
+  {
+    "id": "Baiazeth vnd@LOC",
+    "label": "Baiazeth vnd",
+    "type": "LOC"
+  },
+  {
+    "id": "Stephan von Gumpenberg Friderich von Wolffskel vnnd Hans von Rameraw@PER",
+    "label": "Stephan von Gumpenberg Friderich von Wolffskel vnnd Hans von Rameraw",
+    "type": "PER"
+  },
+  {
+    "id": "Joannem Herold@PER",
+    "label": "Joannem Herold",
+    "type": "PER"
+  },
+  {
+    "id": "Calis Malis@LOC",
+    "label": "Calis Malis",
+    "type": "LOC"
+  },
+  {
+    "id": "Dieterich von Bry@PER",
+    "label": "Dieterich von Bry",
+    "type": "PER"
+  },
+  {
+    "id": "Jacob@PER",
+    "label": "Jacob",
+    "type": "PER"
+  },
+  {
+    "id": "Thomas Candisch@PER",
+    "label": "Thomas Candisch",
+    "type": "PER"
+  },
+  {
+    "id": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "label": "Herrn Herrn Ferdinanden R\u00f6mischen",
+    "type": "LOC"
+  },
+  {
+    "id": "Franciscus Dracus Redivivvs@PER",
+    "label": "Franciscus Dracus Redivivvs",
+    "type": "PER"
+  },
+  {
+    "id": "Gerhart de Ver@PER",
+    "label": "Gerhart de Ver",
+    "type": "PER"
+  },
+  {
+    "id": "Brunst@PER",
+    "label": "Brunst",
+    "type": "PER"
+  },
+  {
+    "id": "H. Philipsen Landtgraff@PER",
+    "label": "H. Philipsen Landtgraff",
+    "type": "PER"
+  },
+  {
+    "id": "Obernburg@LOC",
+    "label": "Obernburg",
+    "type": "LOC"
+  },
+  {
+    "id": "Indien@LOC",
+    "label": "Indien",
+    "type": "LOC"
+  },
+  {
+    "id": "Anna@PER",
+    "label": "Anna",
+    "type": "PER"
+  },
+  {
+    "id": "Kurtzer@PER",
+    "label": "Kurtzer",
+    "type": "PER"
+  },
+  {
+    "id": "Sinay Alexandria@LOC",
+    "label": "Sinay Alexandria",
+    "type": "LOC"
+  },
+  {
+    "id": "Hispanischer Sprach von Cortesio@PER",
+    "label": "Hispanischer Sprach von Cortesio",
+    "type": "PER"
+  },
+  {
+    "id": "Bergen Auwen@LOC",
+    "label": "Bergen Auwen",
+    "type": "LOC"
+  },
+  {
+    "id": "Burger@PER",
+    "label": "Burger",
+    "type": "PER"
+  },
+  {
+    "id": "Lappiam@PER",
+    "label": "Lappiam",
+    "type": "PER"
+  },
+  {
+    "id": "vnd Heyland Christus@PER",
+    "label": "vnd Heyland Christus",
+    "type": "PER"
+  },
+  {
+    "id": "Portugalesischer@PER",
+    "label": "Portugalesischer",
+    "type": "PER"
+  },
+  {
+    "id": "Johann Kellner@PER",
+    "label": "Johann Kellner",
+    "type": "PER"
+  },
+  {
+    "id": "Rom@LOC",
+    "label": "Rom",
+    "type": "LOC"
+  },
+  {
+    "id": "Ceremonien@LOC",
+    "label": "Ceremonien",
+    "type": "LOC"
+  },
+  {
+    "id": "Schmidel von Straubing von Anno@PER",
+    "label": "Schmidel von Straubing von Anno",
+    "type": "PER"
+  },
+  {
+    "id": "Julij@PER",
+    "label": "Julij",
+    "type": "PER"
+  },
+  {
+    "id": "Mahomeths@PER",
+    "label": "Mahomeths",
+    "type": "PER"
+  },
+  {
+    "id": "Benzo von Meylandt@PER",
+    "label": "Benzo von Meylandt",
+    "type": "PER"
+  },
+  {
+    "id": "jar Christi@PER",
+    "label": "jar Christi",
+    "type": "PER"
+  },
+  {
+    "id": "T\u00fcrckischen Hoff@LOC",
+    "label": "T\u00fcrckischen Hoff",
+    "type": "LOC"
+  },
+  {
+    "id": "Damascon@LOC",
+    "label": "Damascon",
+    "type": "LOC"
+  },
+  {
+    "id": "Benedicten Curipeschitz@PER",
+    "label": "Benedicten Curipeschitz",
+    "type": "PER"
+  },
+  {
+    "id": "Amelbeurn@LOC",
+    "label": "Amelbeurn",
+    "type": "LOC"
+  },
+  {
+    "id": "Portugal@LOC",
+    "label": "Portugal",
+    "type": "LOC"
+  },
+  {
+    "id": "Augspurg@LOC",
+    "label": "Augspurg",
+    "type": "LOC"
+  },
+  {
+    "id": "Carle Graff@PER",
+    "label": "Carle Graff",
+    "type": "PER"
+  },
+  {
+    "id": "Cathay vnd China@LOC",
+    "label": "Cathay vnd China",
+    "type": "LOC"
+  },
+  {
+    "id": "Homberg@LOC",
+    "label": "Homberg",
+    "type": "LOC"
+  },
+  {
+    "id": "Mauritius@PER",
+    "label": "Mauritius",
+    "type": "PER"
+  },
+  {
+    "id": "Ostereich@LOC",
+    "label": "Ostereich",
+    "type": "LOC"
+  },
+  {
+    "id": "Pandectes T\u00fcrckischer@PER",
+    "label": "Pandectes T\u00fcrckischer",
+    "type": "PER"
+  },
+  {
+    "id": "Kayser@PER",
+    "label": "Kayser",
+    "type": "PER"
+  },
+  {
+    "id": "China@LOC",
+    "label": "China",
+    "type": "LOC"
+  },
+  {
+    "id": "Olavm Magnvm@PER",
+    "label": "Olavm Magnvm",
+    "type": "PER"
+  },
+  {
+    "id": "cosas@PER",
+    "label": "cosas",
+    "type": "PER"
+  },
+  {
+    "id": "Macuieguarai@PER",
+    "label": "Macuieguarai",
+    "type": "PER"
+  },
+  {
+    "id": "Jo\u00e3o@PER",
+    "label": "Jo\u00e3o",
+    "type": "PER"
+  },
+  {
+    "id": "Ioannem Georgium@PER",
+    "label": "Ioannem Georgium",
+    "type": "PER"
+  },
+  {
+    "id": "Kayser Soleyman@PER",
+    "label": "Kayser Soleyman",
+    "type": "PER"
+  },
+  {
+    "id": "Schm\u00e4chlichem Endt@PER",
+    "label": "Schm\u00e4chlichem Endt",
+    "type": "PER"
+  },
+  {
+    "id": "Menschfresser Leuthen@PER",
+    "label": "Menschfresser Leuthen",
+    "type": "PER"
+  },
+  {
+    "id": "Meissen@LOC",
+    "label": "Meissen",
+    "type": "LOC"
+  },
+  {
+    "id": "Walthern Ralegh@PER",
+    "label": "Walthern Ralegh",
+    "type": "PER"
+  },
+  {
+    "id": "Oost Indien@LOC",
+    "label": "Oost Indien",
+    "type": "LOC"
+  },
+  {
+    "id": "Albert Krantz@PER",
+    "label": "Albert Krantz",
+    "type": "PER"
+  },
+  {
+    "id": "Osmanischen Stammens@PER",
+    "label": "Osmanischen Stammens",
+    "type": "PER"
+  },
+  {
+    "id": "Levinvm Hvlsivm@PER",
+    "label": "Levinvm Hvlsivm",
+    "type": "PER"
+  },
+  {
+    "id": "Jtem@PER",
+    "label": "Jtem",
+    "type": "PER"
+  },
+  {
+    "id": "Hans Jsrael@PER",
+    "label": "Hans Jsrael",
+    "type": "PER"
+  },
+  {
+    "id": "Wallfart@LOC",
+    "label": "Wallfart",
+    "type": "LOC"
+  },
+  {
+    "id": "Terrae Sanctae@LOC",
+    "label": "Terrae Sanctae",
+    "type": "LOC"
+  },
+  {
+    "id": "Nidda@LOC",
+    "label": "Nidda",
+    "type": "LOC"
+  },
+  {
+    "id": "Chronicen@PER",
+    "label": "Chronicen",
+    "type": "PER"
+  },
+  {
+    "id": "N\u00fcrnberg@LOC",
+    "label": "N\u00fcrnberg",
+    "type": "LOC"
+  },
+  {
+    "id": "Vlm@LOC",
+    "label": "Vlm",
+    "type": "LOC"
+  },
+  {
+    "id": "H. Oseam Halen@PER",
+    "label": "H. Oseam Halen",
+    "type": "PER"
+  },
+  {
+    "id": "Mesopotamiam@LOC",
+    "label": "Mesopotamiam",
+    "type": "LOC"
+  },
+  {
+    "id": "Gothien@LOC",
+    "label": "Gothien",
+    "type": "LOC"
+  },
+  {
+    "id": "Persia@PER",
+    "label": "Persia",
+    "type": "PER"
+  },
+  {
+    "id": "Philippi Melanthonis@PER",
+    "label": "Philippi Melanthonis",
+    "type": "PER"
+  },
+  {
+    "id": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "label": "Avgvstinvm Cassiodorvm Reinivm",
+    "type": "PER"
+  },
+  {
+    "id": "Orient@LOC",
+    "label": "Orient",
+    "type": "LOC"
+  },
+  {
+    "id": "Arabia Persia Jndia vnd Ethiopia@PER",
+    "label": "Arabia Persia Jndia vnd Ethiopia",
+    "type": "PER"
+  },
+  {
+    "id": "Leipzig@LOC",
+    "label": "Leipzig",
+    "type": "LOC"
+  },
+  {
+    "id": "Tittel@PER",
+    "label": "Tittel",
+    "type": "PER"
+  },
+  {
+    "id": "K\u00f6nigshofen@LOC",
+    "label": "K\u00f6nigshofen",
+    "type": "LOC"
+  },
+  {
+    "id": "Holchteutsch@LOC",
+    "label": "Holchteutsch",
+    "type": "LOC"
+  },
+  {
+    "id": "Constantinopel@LOC",
+    "label": "Constantinopel",
+    "type": "LOC"
+  },
+  {
+    "id": "Francisci Draci@PER",
+    "label": "Francisci Draci",
+    "type": "PER"
+  },
+  {
+    "id": "Lorentz Keymis@PER",
+    "label": "Lorentz Keymis",
+    "type": "PER"
+  },
+  {
+    "id": "Theodor vnd@PER",
+    "label": "Theodor vnd",
+    "type": "PER"
+  },
+  {
+    "id": "Tauber@LOC",
+    "label": "Tauber",
+    "type": "LOC"
+  },
+  {
+    "id": "Teutsch@LOC",
+    "label": "Teutsch",
+    "type": "LOC"
+  },
+  {
+    "id": "Jetzo@PER",
+    "label": "Jetzo",
+    "type": "PER"
+  },
+  {
+    "id": "Hochteutsch@LOC",
+    "label": "Hochteutsch",
+    "type": "LOC"
+  },
+  {
+    "id": "Joan Hugo@PER",
+    "label": "Joan Hugo",
+    "type": "PER"
+  },
+  {
+    "id": "Darinn@PER",
+    "label": "Darinn",
+    "type": "PER"
+  },
+  {
+    "id": "Suria@LOC",
+    "label": "Suria",
+    "type": "LOC"
+  },
+  {
+    "id": "Vnd@PER",
+    "label": "Vnd",
+    "type": "PER"
+  },
+  {
+    "id": "gran Reyno de la China@LOC",
+    "label": "gran Reyno de la China",
+    "type": "LOC"
+  },
+  {
+    "id": "Noth@PER",
+    "label": "Noth",
+    "type": "PER"
+  },
+  {
+    "id": "Engellandt@LOC",
+    "label": "Engellandt",
+    "type": "LOC"
+  },
+  {
+    "id": "Vlrici Schmidts@PER",
+    "label": "Vlrici Schmidts",
+    "type": "PER"
+  },
+  {
+    "id": "Kurtze@PER",
+    "label": "Kurtze",
+    "type": "PER"
+  },
+  {
+    "id": "Carl R\u00f6mischen@PER",
+    "label": "Carl R\u00f6mischen",
+    "type": "PER"
+  },
+  {
+    "id": "M\u00fcnchen@LOC",
+    "label": "M\u00fcnchen",
+    "type": "LOC"
+  },
+  {
+    "id": "Amsterdam@LOC",
+    "label": "Amsterdam",
+    "type": "LOC"
+  },
+  {
+    "id": "Hollandia@PER",
+    "label": "Hollandia",
+    "type": "PER"
+  },
+  {
+    "id": "Benedetto Ramberti@PER",
+    "label": "Benedetto Ramberti",
+    "type": "PER"
+  },
+  {
+    "id": "Christoph Scheurl@PER",
+    "label": "Christoph Scheurl",
+    "type": "PER"
+  },
+  {
+    "id": "W\u00fcrtzburg@LOC",
+    "label": "W\u00fcrtzburg",
+    "type": "LOC"
+  },
+  {
+    "id": "Jacob le Moyne@PER",
+    "label": "Jacob le Moyne",
+    "type": "PER"
+  },
+  {
+    "id": "China Japon@LOC",
+    "label": "China Japon",
+    "type": "LOC"
+  },
+  {
+    "id": "Nordwest@LOC",
+    "label": "Nordwest",
+    "type": "LOC"
+  },
+  {
+    "id": "Christ@PER",
+    "label": "Christ",
+    "type": "PER"
+  },
+  {
+    "id": "Venedig@LOC",
+    "label": "Venedig",
+    "type": "LOC"
+  },
+  {
+    "id": "Engelland@LOC",
+    "label": "Engelland",
+    "type": "LOC"
+  },
+  {
+    "id": "H. Walter Raleigh Ritter@PER",
+    "label": "H. Walter Raleigh Ritter",
+    "type": "PER"
+  },
+  {
+    "id": "Tugendt Vntugendt@PER",
+    "label": "Tugendt Vntugendt",
+    "type": "PER"
+  },
+  {
+    "id": "Orientalischen Indien@LOC",
+    "label": "Orientalischen Indien",
+    "type": "LOC"
+  },
+  {
+    "id": "Reichard Greinuile@PER",
+    "label": "Reichard Greinuile",
+    "type": "PER"
+  },
+  {
+    "id": "Jgnatium von Layola@PER",
+    "label": "Jgnatium von Layola",
+    "type": "PER"
+  },
+  {
+    "id": "D\u00fcringen Marggraffen@LOC",
+    "label": "D\u00fcringen Marggraffen",
+    "type": "LOC"
+  },
+  {
+    "id": "Christi@PER",
+    "label": "Christi",
+    "type": "PER"
+  },
+  {
+    "id": "Hansen von Mergenthal@PER",
+    "label": "Hansen von Mergenthal",
+    "type": "PER"
+  },
+  {
+    "id": "Egypto Syria@PER",
+    "label": "Egypto Syria",
+    "type": "PER"
+  },
+  {
+    "id": "Homburg@LOC",
+    "label": "Homburg",
+    "type": "LOC"
+  },
+  {
+    "id": "Frid@PER",
+    "label": "Frid",
+    "type": "PER"
+  },
+  {
+    "id": "Matthaevm Dresservm D.@PER",
+    "label": "Matthaevm Dresservm D.",
+    "type": "PER"
+  },
+  {
+    "id": "Balthasar@PER",
+    "label": "Balthasar",
+    "type": "PER"
+  },
+  {
+    "id": "Ludowico Vartomans@PER",
+    "label": "Ludowico Vartomans",
+    "type": "PER"
+  },
+  {
+    "id": "Johann Jacoben@PER",
+    "label": "Johann Jacoben",
+    "type": "PER"
+  },
+  {
+    "id": "Ain Schen New B\u016fch@LOC",
+    "label": "Ain Schen New B\u016fch",
+    "type": "LOC"
+  },
+  {
+    "id": "Schlesien@LOC",
+    "label": "Schlesien",
+    "type": "LOC"
+  },
+  {
+    "id": "Paul Pesel@PER",
+    "label": "Paul Pesel",
+    "type": "PER"
+  },
+  {
+    "id": "Darz\u016f@PER",
+    "label": "Darz\u016f",
+    "type": "PER"
+  },
+  {
+    "id": "Darinn Brasilia@LOC",
+    "label": "Darinn Brasilia",
+    "type": "LOC"
+  },
+  {
+    "id": "Carlos V.@PER",
+    "label": "Carlos V.",
+    "type": "PER"
+  },
+  {
+    "id": "Sinai Alcair Alexandria@LOC",
+    "label": "Sinai Alcair Alexandria",
+    "type": "LOC"
+  },
+  {
+    "id": "Wilhelmen Hertzogen@PER",
+    "label": "Wilhelmen Hertzogen",
+    "type": "PER"
+  },
+  {
+    "id": "Hollandt@PER",
+    "label": "Hollandt",
+    "type": "PER"
+  },
+  {
+    "id": "L\u00fcttich@LOC",
+    "label": "L\u00fcttich",
+    "type": "LOC"
+  },
+  {
+    "id": "Noua Zemla@PER",
+    "label": "Noua Zemla",
+    "type": "PER"
+  },
+  {
+    "id": "Raiss@PER",
+    "label": "Raiss",
+    "type": "PER"
+  },
+  {
+    "id": "Jnsul Cuba@PER",
+    "label": "Jnsul Cuba",
+    "type": "PER"
+  },
+  {
+    "id": "Amapaia@LOC",
+    "label": "Amapaia",
+    "type": "LOC"
+  },
+  {
+    "id": "G\u00fclich Cleue@PER",
+    "label": "G\u00fclich Cleue",
+    "type": "PER"
+  },
+  {
+    "id": "Morenlandt@LOC",
+    "label": "Morenlandt",
+    "type": "LOC"
+  },
+  {
+    "id": "Kayserlich Mayestet@PER",
+    "label": "Kayserlich Mayestet",
+    "type": "PER"
+  },
+  {
+    "id": "Jetzundt@PER",
+    "label": "Jetzundt",
+    "type": "PER"
+  },
+  {
+    "id": "Venedig Jerusalem@LOC",
+    "label": "Venedig Jerusalem",
+    "type": "LOC"
+  },
+  {
+    "id": "Frantzen Prettie@PER",
+    "label": "Frantzen Prettie",
+    "type": "PER"
+  },
+  {
+    "id": "Sumatra@LOC",
+    "label": "Sumatra",
+    "type": "LOC"
+  },
+  {
+    "id": "Goldt@PER",
+    "label": "Goldt",
+    "type": "PER"
+  },
+  {
+    "id": "Hans Dietherich@PER",
+    "label": "Hans Dietherich",
+    "type": "PER"
+  },
+  {
+    "id": "Felix Fabri@PER",
+    "label": "Felix Fabri",
+    "type": "PER"
+  },
+  {
+    "id": "Conrad Lew@PER",
+    "label": "Conrad Lew",
+    "type": "PER"
+  },
+  {
+    "id": "Rai\u00df@PER",
+    "label": "Rai\u00df",
+    "type": "PER"
+  },
+  {
+    "id": "Spanien@LOC",
+    "label": "Spanien",
+    "type": "LOC"
+  },
+  {
+    "id": "Quito@LOC",
+    "label": "Quito",
+    "type": "LOC"
+  },
+  {
+    "id": "Jeronymus Beck von Leopoldstorff@PER",
+    "label": "Jeronymus Beck von Leopoldstorff",
+    "type": "PER"
+  },
+  {
+    "id": "Johanns@PER",
+    "label": "Johanns",
+    "type": "PER"
+  },
+  {
+    "id": "Wilhelmen@LOC",
+    "label": "Wilhelmen",
+    "type": "LOC"
+  },
+  {
+    "id": "Melchior von Seydlitz@PER",
+    "label": "Melchior von Seydlitz",
+    "type": "PER"
+  },
+  {
+    "id": "Obij@LOC",
+    "label": "Obij",
+    "type": "LOC"
+  },
+  {
+    "id": "Floridam@LOC",
+    "label": "Floridam",
+    "type": "LOC"
+  },
+  {
+    "id": "Francisco \u00c1lvares@PER",
+    "label": "Francisco \u00c1lvares",
+    "type": "PER"
+  },
+  {
+    "id": "Heinrich M\u00fcller@PER",
+    "label": "Heinrich M\u00fcller",
+    "type": "PER"
+  },
+  {
+    "id": "Jobst Ruchamer@PER",
+    "label": "Jobst Ruchamer",
+    "type": "PER"
+  },
+  {
+    "id": "Florida@LOC",
+    "label": "Florida",
+    "type": "LOC"
+  },
+  {
+    "id": "Guiana@LOC",
+    "label": "Guiana",
+    "type": "LOC"
+  },
+  {
+    "id": "H. Ribald@PER",
+    "label": "H. Ribald",
+    "type": "PER"
+  },
+  {
+    "id": "Ottomans@LOC",
+    "label": "Ottomans",
+    "type": "LOC"
+  },
+  {
+    "id": "Xysto Betuleio@PER",
+    "label": "Xysto Betuleio",
+    "type": "PER"
+  },
+  {
+    "id": "Francisci Xauier@PER",
+    "label": "Francisci Xauier",
+    "type": "PER"
+  },
+  {
+    "id": "Elisabeth K\u00f6nigin@PER",
+    "label": "Elisabeth K\u00f6nigin",
+    "type": "PER"
+  },
+  {
+    "id": "Martini Forbi\u00dfher@PER",
+    "label": "Martini Forbi\u00dfher",
+    "type": "PER"
+  },
+  {
+    "id": "Mundus novus@PER",
+    "label": "Mundus novus",
+    "type": "PER"
+  },
+  {
+    "id": "Gantz@PER",
+    "label": "Gantz",
+    "type": "PER"
+  },
+  {
+    "id": "Jar@LOC",
+    "label": "Jar",
+    "type": "LOC"
+  },
+  {
+    "id": "Jnsel Bally@PER",
+    "label": "Jnsel Bally",
+    "type": "PER"
+  },
+  {
+    "id": "Hansen Lewenklaw@PER",
+    "label": "Hansen Lewenklaw",
+    "type": "PER"
+  },
+  {
+    "id": "Maria Leonora@PER",
+    "label": "Maria Leonora",
+    "type": "PER"
+  },
+  {
+    "id": "Barbarossa@PER",
+    "label": "Barbarossa",
+    "type": "PER"
+  },
+  {
+    "id": "Historia Niclaus Federmanns@PER",
+    "label": "Historia Niclaus Federmanns",
+    "type": "PER"
+  },
+  {
+    "id": "Peru@LOC",
+    "label": "Peru",
+    "type": "LOC"
+  },
+  {
+    "id": "Bartholomeum Georgiuitz Vnd@PER",
+    "label": "Bartholomeum Georgiuitz Vnd",
+    "type": "PER"
+  },
+  {
+    "id": "Wien@LOC",
+    "label": "Wien",
+    "type": "LOC"
+  },
+  {
+    "id": "S. G.@PER",
+    "label": "S. G.",
+    "type": "PER"
+  },
+  {
+    "id": "Kayser Karls@PER",
+    "label": "Kayser Karls",
+    "type": "PER"
+  },
+  {
+    "id": "Constantzischen Rath@PER",
+    "label": "Constantzischen Rath",
+    "type": "PER"
+  },
+  {
+    "id": "Herberstain Neyperg@LOC",
+    "label": "Herberstain Neyperg",
+    "type": "LOC"
+  },
+  {
+    "id": "Bey@PER",
+    "label": "Bey",
+    "type": "PER"
+  },
+  {
+    "id": "Martio Alda@LOC",
+    "label": "Martio Alda",
+    "type": "LOC"
+  },
+  {
+    "id": "V. Ferdinandt@PER",
+    "label": "V. Ferdinandt",
+    "type": "PER"
+  },
+  {
+    "id": "Germanien@LOC",
+    "label": "Germanien",
+    "type": "LOC"
+  },
+  {
+    "id": "Kurtze Verzeichnu\u00df Vnd@PER",
+    "label": "Kurtze Verzeichnu\u00df Vnd",
+    "type": "PER"
+  },
+  {
+    "id": "Hierusalem@LOC",
+    "label": "Hierusalem",
+    "type": "LOC"
+  },
+  {
+    "id": "Eduart Lopez@PER",
+    "label": "Eduart Lopez",
+    "type": "PER"
+  },
+  {
+    "id": "Melchior Lussy Ritter Landamman@PER",
+    "label": "Melchior Lussy Ritter Landamman",
+    "type": "PER"
+  },
+  {
+    "id": "Temixtitan@LOC",
+    "label": "Temixtitan",
+    "type": "LOC"
+  },
+  {
+    "id": "Congo@PER",
+    "label": "Congo",
+    "type": "PER"
+  },
+  {
+    "id": "Ferdinandi Cortesii@PER",
+    "label": "Ferdinandi Cortesii",
+    "type": "PER"
+  },
+  {
+    "id": "Suleiman Chan vnd@PER",
+    "label": "Suleiman Chan vnd",
+    "type": "PER"
+  },
+  {
+    "id": "Andrea Diethero@PER",
+    "label": "Andrea Diethero",
+    "type": "PER"
+  },
+  {
+    "id": "Constantinopol@PER",
+    "label": "Constantinopol",
+    "type": "PER"
+  },
+  {
+    "id": "Carolvm@PER",
+    "label": "Carolvm",
+    "type": "PER"
+  },
+  {
+    "id": "Schweden@LOC",
+    "label": "Schweden",
+    "type": "LOC"
+  },
+  {
+    "id": "Christi@LOC",
+    "label": "Christi",
+    "type": "LOC"
+  },
+  {
+    "id": "De la Nove Jn Frantzoesischer@PER",
+    "label": "De la Nove Jn Frantzoesischer",
+    "type": "PER"
+  },
+  {
+    "id": "Dabey@PER",
+    "label": "Dabey",
+    "type": "PER"
+  },
+  {
+    "id": "K\u00e4rntn R\u00f6mischer@LOC",
+    "label": "K\u00e4rntn R\u00f6mischer",
+    "type": "LOC"
+  },
+  {
+    "id": "Chronic@PER",
+    "label": "Chronic",
+    "type": "PER"
+  },
+  {
+    "id": "Policey Gerichtlichem Proce\u00df@PER",
+    "label": "Policey Gerichtlichem Proce\u00df",
+    "type": "PER"
+  },
+  {
+    "id": "Hochte\u00fctsche@LOC",
+    "label": "Hochte\u00fctsche",
+    "type": "LOC"
+  },
+  {
+    "id": "Von de Raisz@PER",
+    "label": "Von de Raisz",
+    "type": "PER"
+  },
+  {
+    "id": "Gran Ritterlich@LOC",
+    "label": "Gran Ritterlich",
+    "type": "LOC"
+  },
+  {
+    "id": "Benedikt Kuripe\u0161i\u0107@PER",
+    "label": "Benedikt Kuripe\u0161i\u0107",
+    "type": "PER"
+  },
+  {
+    "id": "Dieterich@PER",
+    "label": "Dieterich",
+    "type": "PER"
+  },
+  {
+    "id": "Juan Gonz\u00e1lez de Mendoza@PER",
+    "label": "Juan Gonz\u00e1lez de Mendoza",
+    "type": "PER"
+  },
+  {
+    "id": "Johann Eyselsaner@PER",
+    "label": "Johann Eyselsaner",
+    "type": "PER"
+  },
+  {
+    "id": "Hans Heusl@PER",
+    "label": "Hans Heusl",
+    "type": "PER"
+  },
+  {
+    "id": "Americ\u00e6@LOC",
+    "label": "Americ\u00e6",
+    "type": "LOC"
+  },
+  {
+    "id": "Maximilian@PER",
+    "label": "Maximilian",
+    "type": "PER"
+  },
+  {
+    "id": "Hollandt@LOC",
+    "label": "Hollandt",
+    "type": "LOC"
+  },
+  {
+    "id": "H. Bartholome Georgewyts@PER",
+    "label": "H. Bartholome Georgewyts",
+    "type": "PER"
+  },
+  {
+    "id": "R\u00f6mischen K\u00fcnig@LOC",
+    "label": "R\u00f6mischen K\u00fcnig",
+    "type": "LOC"
+  },
+  {
+    "id": "Jetzund@PER",
+    "label": "Jetzund",
+    "type": "PER"
+  },
+  {
+    "id": "Jesu Christi@PER",
+    "label": "Jesu Christi",
+    "type": "PER"
+  },
+  {
+    "id": "Osman Chan@PER",
+    "label": "Osman Chan",
+    "type": "PER"
+  },
+  {
+    "id": "Jar Christi@PER",
+    "label": "Jar Christi",
+    "type": "PER"
+  },
+  {
+    "id": "V\u00f6lcker@PER",
+    "label": "V\u00f6lcker",
+    "type": "PER"
+  },
+  {
+    "id": "Japon@PER",
+    "label": "Japon",
+    "type": "PER"
+  },
+  {
+    "id": "Ottomani@PER",
+    "label": "Ottomani",
+    "type": "PER"
+  },
+  {
+    "id": "Avgvstinvm Cassiodorvm@PER",
+    "label": "Avgvstinvm Cassiodorvm",
+    "type": "PER"
+  },
+  {
+    "id": "Hochteutsche@LOC",
+    "label": "Hochteutsche",
+    "type": "LOC"
+  },
+  {
+    "id": "Arromaia@LOC",
+    "label": "Arromaia",
+    "type": "LOC"
+  },
+  {
+    "id": "Jndia@LOC",
+    "label": "Jndia",
+    "type": "LOC"
+  },
+  {
+    "id": "N\u00e4gelein@PER",
+    "label": "N\u00e4gelein",
+    "type": "PER"
+  },
+  {
+    "id": "D. Joh@PER",
+    "label": "D. Joh",
+    "type": "PER"
+  },
+  {
+    "id": "Niderl\u00e4ndischer@LOC",
+    "label": "Niderl\u00e4ndischer",
+    "type": "LOC"
+  },
+  {
+    "id": "Hessen@LOC",
+    "label": "Hessen",
+    "type": "LOC"
+  },
+  {
+    "id": "HochTeutsch@LOC",
+    "label": "HochTeutsch",
+    "type": "LOC"
+  },
+  {
+    "id": "Israel de Bry Gebr\u00fcder@LOC",
+    "label": "Israel de Bry Gebr\u00fcder",
+    "type": "LOC"
+  },
+  {
+    "id": "F\u00fcrstenthumb Newburg@LOC",
+    "label": "F\u00fcrstenthumb Newburg",
+    "type": "LOC"
+  },
+  {
+    "id": "Sanct Paulus@PER",
+    "label": "Sanct Paulus",
+    "type": "PER"
+  },
+  {
+    "id": "Glaubenssachen@LOC",
+    "label": "Glaubenssachen",
+    "type": "LOC"
+  },
+  {
+    "id": "R\u00f6mischen K\u00fcng den XXIII@LOC",
+    "label": "R\u00f6mischen K\u00fcng den XXIII",
+    "type": "LOC"
+  },
+  {
+    "id": "K\u00fcnigclich Maiestat jres@PER",
+    "label": "K\u00fcnigclich Maiestat jres",
+    "type": "PER"
+  },
+  {
+    "id": "Ioannem Petrum Maffeium@PER",
+    "label": "Ioannem Petrum Maffeium",
+    "type": "PER"
+  },
+  {
+    "id": "Bolonia@PER",
+    "label": "Bolonia",
+    "type": "PER"
+  },
+  {
+    "id": "Karl V.@PER",
+    "label": "Karl V.",
+    "type": "PER"
+  },
+  {
+    "id": "Jndias@LOC",
+    "label": "Jndias",
+    "type": "LOC"
+  },
+  {
+    "id": "Dedicirt@PER",
+    "label": "Dedicirt",
+    "type": "PER"
+  },
+  {
+    "id": "Americam@LOC",
+    "label": "Americam",
+    "type": "LOC"
+  },
+  {
+    "id": "Christo@PER",
+    "label": "Christo",
+    "type": "PER"
+  }
+]

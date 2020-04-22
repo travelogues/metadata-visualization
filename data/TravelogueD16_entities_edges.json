@@ -1,0 +1,7067 @@
+[
+  {
+    "source": "Goa@LOC",
+    "target": "Holland@LOC",
+    "value": 1
+  },
+  {
+    "source": "Goa@LOC",
+    "target": "Aphrica@LOC",
+    "value": 1
+  },
+  {
+    "source": "Goa@LOC",
+    "target": "Jaren@PER",
+    "value": 1
+  },
+  {
+    "source": "Goa@LOC",
+    "target": "Hans Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "Goa@LOC",
+    "target": "Portugal@LOC",
+    "value": 1
+  },
+  {
+    "source": "Goa@LOC",
+    "target": "China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Goa@LOC",
+    "target": "Hans Jsrael@PER",
+    "value": 1
+  },
+  {
+    "source": "Goa@LOC",
+    "target": "Holchteutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Goa@LOC",
+    "target": "Jetzo@PER",
+    "value": 1
+  },
+  {
+    "source": "Goa@LOC",
+    "target": "Joan Hugo@PER",
+    "value": 1
+  },
+  {
+    "source": "Goa@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Neyperg@LOC",
+    "target": "K\u00e4rnttn@LOC",
+    "value": 1
+  },
+  {
+    "source": "Aegypten@LOC",
+    "target": "Johan@PER",
+    "value": 1
+  },
+  {
+    "source": "Aegypten@LOC",
+    "target": "Kurtzer@PER",
+    "value": 1
+  },
+  {
+    "source": "Aegypten@LOC",
+    "target": "Leipzig@LOC",
+    "value": 1
+  },
+  {
+    "source": "Aegypten@LOC",
+    "target": "Venedig@LOC",
+    "value": 1
+  },
+  {
+    "source": "Aegypten@LOC",
+    "target": "Sinai Alcair Alexandria@LOC",
+    "value": 1
+  },
+  {
+    "source": "Aegypten@LOC",
+    "target": "Hierusalem@LOC",
+    "value": 1
+  },
+  {
+    "source": "bey Pleymeuten Cartsag@PER",
+    "target": "S. Domingo@PER",
+    "value": 1
+  },
+  {
+    "source": "bey Pleymeuten Cartsag@PER",
+    "target": "Franciscus Dracus@PER",
+    "value": 1
+  },
+  {
+    "source": "bey Pleymeuten Cartsag@PER",
+    "target": "Calis Malis@LOC",
+    "value": 1
+  },
+  {
+    "source": "bey Pleymeuten Cartsag@PER",
+    "target": "Franciscus Dracus Redivivvs@PER",
+    "value": 1
+  },
+  {
+    "source": "bey Pleymeuten Cartsag@PER",
+    "target": "Kurtze@PER",
+    "value": 1
+  },
+  {
+    "source": "bey Pleymeuten Cartsag@PER",
+    "target": "Jnsul Cuba@PER",
+    "value": 1
+  },
+  {
+    "source": "bey Pleymeuten Cartsag@PER",
+    "target": "Florida@LOC",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Friaul@LOC",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Hispanien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Peter Sauorgnan@PER",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Hispanischer Sprach von Cortesio@PER",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Tittel@PER",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Darz\u016f@PER",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Carlos V.@PER",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Xysto Betuleio@PER",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Temixtitan@LOC",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Ferdinandi Cortesii@PER",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Andrea Diethero@PER",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Carolvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Zwo@PER",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Atabalibam@PER",
+    "target": "Benzo von Meylandt@PER",
+    "value": 1
+  },
+  {
+    "source": "Atabalibam@PER",
+    "target": "Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "Jerusalem@LOC",
+    "target": "bi\u00dfhero@PER",
+    "value": 1
+  },
+  {
+    "source": "Jerusalem@LOC",
+    "target": "Horeb Sinay@PER",
+    "value": 1
+  },
+  {
+    "source": "Jerusalem@LOC",
+    "target": "Bergen Auwen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jerusalem@LOC",
+    "target": "vnd Heyland Christus@PER",
+    "value": 1
+  },
+  {
+    "source": "Jerusalem@LOC",
+    "target": "Ceremonien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jerusalem@LOC",
+    "target": "Terrae Sanctae@LOC",
+    "value": 2
+  },
+  {
+    "source": "Jerusalem@LOC",
+    "target": "Felix Fabri@PER",
+    "value": 2
+  },
+  {
+    "source": "Jerusalem@LOC",
+    "target": "Glaubenssachen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Samatra@LOC",
+    "target": "Holland@LOC",
+    "value": 1
+  },
+  {
+    "source": "Samatra@LOC",
+    "target": "Texel@LOC",
+    "value": 1
+  },
+  {
+    "source": "Samatra@LOC",
+    "target": "Gilissy@LOC",
+    "value": 1
+  },
+  {
+    "source": "Samatra@LOC",
+    "target": "Jndien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Samatra@LOC",
+    "target": "Laurentz Jnsel@PER",
+    "value": 1
+  },
+  {
+    "source": "Samatra@LOC",
+    "target": "Conrad L\u00f6w@PER",
+    "value": 1
+  },
+  {
+    "source": "Samatra@LOC",
+    "target": "China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Samatra@LOC",
+    "target": "Noua Zemla@PER",
+    "value": 1
+  },
+  {
+    "source": "Samatra@LOC",
+    "target": "Obij@LOC",
+    "value": 1
+  },
+  {
+    "source": "Samatra@LOC",
+    "target": "Gantz@PER",
+    "value": 1
+  },
+  {
+    "source": "Samatra@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Samatra@LOC",
+    "target": "Jnsel Bally@PER",
+    "value": 1
+  },
+  {
+    "source": "Samatra@LOC",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Samatra@LOC",
+    "target": "N\u00e4gelein@PER",
+    "value": 1
+  },
+  {
+    "source": "Martio@LOC",
+    "target": "Oost Indien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Martio@LOC",
+    "target": "Orientalischen Indien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Thomam Hariot@PER",
+    "target": "Virginia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Thomam Hariot@PER",
+    "target": "Christ@PER",
+    "value": 1
+  },
+  {
+    "source": "Thomam Hariot@PER",
+    "target": "Engelland@LOC",
+    "value": 1
+  },
+  {
+    "source": "Thomam Hariot@PER",
+    "target": "H. Walter Raleigh Ritter@PER",
+    "value": 1
+  },
+  {
+    "source": "Thomam Hariot@PER",
+    "target": "Reichard Greinuile@PER",
+    "value": 1
+  },
+  {
+    "source": "Thomam Hariot@PER",
+    "target": "Elisabeth K\u00f6nigin@PER",
+    "value": 1
+  },
+  {
+    "source": "Thomam Hariot@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Texel@LOC",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Aphrica@LOC",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Gilissy@LOC",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Jaren@PER",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Jndien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Laurentz Jnsel@PER",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Hans Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Conrad L\u00f6w@PER",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Portugal@LOC",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "China@LOC",
+    "value": 2
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Hans Jsrael@PER",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Holchteutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Jetzo@PER",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Joan Hugo@PER",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Noua Zemla@PER",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Obij@LOC",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Gantz@PER",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Jar@LOC",
+    "value": 2
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Jnsel Bally@PER",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Holland@LOC",
+    "target": "N\u00e4gelein@PER",
+    "value": 1
+  },
+  {
+    "source": "Elendt Jamer@PER",
+    "target": "T\u00fcrckischen Keysers@PER",
+    "value": 1
+  },
+  {
+    "source": "Elendt Jamer@PER",
+    "target": "Rath@PER",
+    "value": 1
+  },
+  {
+    "source": "Elendt Jamer@PER",
+    "target": "Mahomeths@PER",
+    "value": 1
+  },
+  {
+    "source": "Elendt Jamer@PER",
+    "target": "T\u00fcrckischen Hoff@LOC",
+    "value": 1
+  },
+  {
+    "source": "Elendt Jamer@PER",
+    "target": "Schm\u00e4chlichem Endt@PER",
+    "value": 1
+  },
+  {
+    "source": "Elendt Jamer@PER",
+    "target": "K\u00f6nigshofen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Elendt Jamer@PER",
+    "target": "Tauber@LOC",
+    "value": 1
+  },
+  {
+    "source": "Elendt Jamer@PER",
+    "target": "Noth@PER",
+    "value": 1
+  },
+  {
+    "source": "Elendt Jamer@PER",
+    "target": "Ottomans@LOC",
+    "value": 1
+  },
+  {
+    "source": "Elendt Jamer@PER",
+    "target": "V. Ferdinandt@PER",
+    "value": 1
+  },
+  {
+    "source": "Elendt Jamer@PER",
+    "target": "Policey Gerichtlichem Proce\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "Elendt Jamer@PER",
+    "target": "Maximilian@PER",
+    "value": 1
+  },
+  {
+    "source": "S. Domingo@PER",
+    "target": "Franciscus Dracus@PER",
+    "value": 1
+  },
+  {
+    "source": "S. Domingo@PER",
+    "target": "Calis Malis@LOC",
+    "value": 1
+  },
+  {
+    "source": "S. Domingo@PER",
+    "target": "Franciscus Dracus Redivivvs@PER",
+    "value": 1
+  },
+  {
+    "source": "S. Domingo@PER",
+    "target": "Kurtze@PER",
+    "value": 1
+  },
+  {
+    "source": "S. Domingo@PER",
+    "target": "Jnsul Cuba@PER",
+    "value": 1
+  },
+  {
+    "source": "S. Domingo@PER",
+    "target": "Florida@LOC",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Keysers@PER",
+    "target": "Rath@PER",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Keysers@PER",
+    "target": "Mahomeths@PER",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Keysers@PER",
+    "target": "T\u00fcrckischen Hoff@LOC",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Keysers@PER",
+    "target": "Schm\u00e4chlichem Endt@PER",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Keysers@PER",
+    "target": "K\u00f6nigshofen@LOC",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Keysers@PER",
+    "target": "Tauber@LOC",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Keysers@PER",
+    "target": "Noth@PER",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Keysers@PER",
+    "target": "Ottomans@LOC",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Keysers@PER",
+    "target": "V. Ferdinandt@PER",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Keysers@PER",
+    "target": "Policey Gerichtlichem Proce\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Keysers@PER",
+    "target": "Maximilian@PER",
+    "value": 1
+  },
+  {
+    "source": "Albrechten Hertzogen@PER",
+    "target": "Meissen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Albrechten Hertzogen@PER",
+    "target": "D\u00fcringen Marggraffen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Albrechten Hertzogen@PER",
+    "target": "Hansen von Mergenthal@PER",
+    "value": 1
+  },
+  {
+    "source": "Albrechten Hertzogen@PER",
+    "target": "Wilhelmen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Albrechten Hertzogen@PER",
+    "target": "Dabey@PER",
+    "value": 1
+  },
+  {
+    "source": "Albrechten Hertzogen@PER",
+    "target": "Jetzund@PER",
+    "value": 1
+  },
+  {
+    "source": "N. Nicolai B\u00fcrtig@PER",
+    "target": "Franckreich@PER",
+    "value": 1
+  },
+  {
+    "source": "N. Nicolai B\u00fcrtig@PER",
+    "target": "Frid@PER",
+    "value": 1
+  },
+  {
+    "source": "N. Nicolai B\u00fcrtig@PER",
+    "target": "Von de Raisz@PER",
+    "value": 1
+  },
+  {
+    "source": "Dietz Ziegenhain@PER",
+    "target": "Hans Staden@PER",
+    "value": 1
+  },
+  {
+    "source": "Dietz Ziegenhain@PER",
+    "target": "Eychman Ordinarij Professoris Medici@PER",
+    "value": 1
+  },
+  {
+    "source": "Dietz Ziegenhain@PER",
+    "target": "Dryandri@PER",
+    "value": 1
+  },
+  {
+    "source": "Dietz Ziegenhain@PER",
+    "target": "H. Philipsen Landtgraff@PER",
+    "value": 1
+  },
+  {
+    "source": "Dietz Ziegenhain@PER",
+    "target": "Homberg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Dietz Ziegenhain@PER",
+    "target": "Menschfresser Leuthen@PER",
+    "value": 1
+  },
+  {
+    "source": "Dietz Ziegenhain@PER",
+    "target": "Nidda@LOC",
+    "value": 1
+  },
+  {
+    "source": "Dietz Ziegenhain@PER",
+    "target": "Christi@LOC",
+    "value": 1
+  },
+  {
+    "source": "Dietz Ziegenhain@PER",
+    "target": "D. Joh@PER",
+    "value": 1
+  },
+  {
+    "source": "Dietz Ziegenhain@PER",
+    "target": "Hessen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Dietz Ziegenhain@PER",
+    "target": "Dedicirt@PER",
+    "value": 1
+  },
+  {
+    "source": "Palestina@LOC",
+    "target": "Melchior Lussy Ritter Landamman@PER",
+    "value": 1
+  },
+  {
+    "source": "Palestina@LOC",
+    "target": "Jetzund@PER",
+    "value": 1
+  },
+  {
+    "source": "Palestina@LOC",
+    "target": "Christo@PER",
+    "value": 1
+  },
+  {
+    "source": "Franciscus Dracus@PER",
+    "target": "Calis Malis@LOC",
+    "value": 1
+  },
+  {
+    "source": "Franciscus Dracus@PER",
+    "target": "Franciscus Dracus Redivivvs@PER",
+    "value": 1
+  },
+  {
+    "source": "Franciscus Dracus@PER",
+    "target": "Kurtze@PER",
+    "value": 1
+  },
+  {
+    "source": "Franciscus Dracus@PER",
+    "target": "Jnsul Cuba@PER",
+    "value": 1
+  },
+  {
+    "source": "Franciscus Dracus@PER",
+    "target": "Florida@LOC",
+    "value": 1
+  },
+  {
+    "source": "Dauid Vngnadn Freyherrn@PER",
+    "target": "M. Franciscvm Omichivm@PER",
+    "value": 1
+  },
+  {
+    "source": "Dauid Vngnadn Freyherrn@PER",
+    "target": "Ostereich@LOC",
+    "value": 1
+  },
+  {
+    "source": "Dauid Vngnadn Freyherrn@PER",
+    "target": "Darinn@PER",
+    "value": 1
+  },
+  {
+    "source": "Dauid Vngnadn Freyherrn@PER",
+    "target": "Wien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Dauid Vngnadn Freyherrn@PER",
+    "target": "S. G.@PER",
+    "value": 1
+  },
+  {
+    "source": "Texel@LOC",
+    "target": "Gilissy@LOC",
+    "value": 1
+  },
+  {
+    "source": "Texel@LOC",
+    "target": "Jndien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Texel@LOC",
+    "target": "Laurentz Jnsel@PER",
+    "value": 1
+  },
+  {
+    "source": "Texel@LOC",
+    "target": "Conrad L\u00f6w@PER",
+    "value": 1
+  },
+  {
+    "source": "Texel@LOC",
+    "target": "China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Texel@LOC",
+    "target": "Noua Zemla@PER",
+    "value": 1
+  },
+  {
+    "source": "Texel@LOC",
+    "target": "Obij@LOC",
+    "value": 1
+  },
+  {
+    "source": "Texel@LOC",
+    "target": "Gantz@PER",
+    "value": 1
+  },
+  {
+    "source": "Texel@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Texel@LOC",
+    "target": "Jnsel Bally@PER",
+    "value": 1
+  },
+  {
+    "source": "Texel@LOC",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Texel@LOC",
+    "target": "N\u00e4gelein@PER",
+    "value": 1
+  },
+  {
+    "source": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "target": "Friaul@LOC",
+    "value": 1
+  },
+  {
+    "source": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "target": "Hispanien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "target": "Peter Sauorgnan@PER",
+    "value": 1
+  },
+  {
+    "source": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "target": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "target": "Hispanischer Sprach von Cortesio@PER",
+    "value": 1
+  },
+  {
+    "source": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "target": "Tittel@PER",
+    "value": 1
+  },
+  {
+    "source": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "target": "Darz\u016f@PER",
+    "value": 1
+  },
+  {
+    "source": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "target": "Carlos V.@PER",
+    "value": 1
+  },
+  {
+    "source": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "target": "Xysto Betuleio@PER",
+    "value": 1
+  },
+  {
+    "source": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "target": "Temixtitan@LOC",
+    "value": 1
+  },
+  {
+    "source": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "target": "Ferdinandi Cortesii@PER",
+    "value": 1
+  },
+  {
+    "source": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "target": "Andrea Diethero@PER",
+    "value": 1
+  },
+  {
+    "source": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "target": "Carolvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Cartas de relaci\u00f3n de la conquista de la Nueva Espa\u00f1a@PER",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Beheim Kh\u00fc@PER",
+    "target": "May@PER",
+    "value": 1
+  },
+  {
+    "source": "Beheim Kh\u00fc@PER",
+    "target": "Herberstain Neyperg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Beheim Kh\u00fc@PER",
+    "target": "K\u00e4rntn R\u00f6mischer@LOC",
+    "value": 1
+  },
+  {
+    "source": "Friaul@LOC",
+    "target": "Hispanien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Friaul@LOC",
+    "target": "Peter Sauorgnan@PER",
+    "value": 1
+  },
+  {
+    "source": "Friaul@LOC",
+    "target": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Friaul@LOC",
+    "target": "Hispanischer Sprach von Cortesio@PER",
+    "value": 1
+  },
+  {
+    "source": "Friaul@LOC",
+    "target": "Tittel@PER",
+    "value": 1
+  },
+  {
+    "source": "Friaul@LOC",
+    "target": "Darz\u016f@PER",
+    "value": 1
+  },
+  {
+    "source": "Friaul@LOC",
+    "target": "Carlos V.@PER",
+    "value": 1
+  },
+  {
+    "source": "Friaul@LOC",
+    "target": "Xysto Betuleio@PER",
+    "value": 1
+  },
+  {
+    "source": "Friaul@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Friaul@LOC",
+    "target": "Temixtitan@LOC",
+    "value": 1
+  },
+  {
+    "source": "Friaul@LOC",
+    "target": "Ferdinandi Cortesii@PER",
+    "value": 1
+  },
+  {
+    "source": "Friaul@LOC",
+    "target": "Andrea Diethero@PER",
+    "value": 1
+  },
+  {
+    "source": "Friaul@LOC",
+    "target": "Carolvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Friaul@LOC",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "H. Guorguesio@PER",
+    "target": "Franckfort am Mayn Anno@LOC",
+    "value": 1
+  },
+  {
+    "source": "H. Guorguesio@PER",
+    "target": "C. C. A. Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "H. Guorguesio@PER",
+    "target": "H. Oseam Halen@PER",
+    "value": 1
+  },
+  {
+    "source": "H. Guorguesio@PER",
+    "target": "Teutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "H. Guorguesio@PER",
+    "target": "Jacob le Moyne@PER",
+    "value": 1
+  },
+  {
+    "source": "H. Guorguesio@PER",
+    "target": "Floridam@LOC",
+    "value": 1
+  },
+  {
+    "source": "H. Guorguesio@PER",
+    "target": "H. Ribald@PER",
+    "value": 1
+  },
+  {
+    "source": "H. Guorguesio@PER",
+    "target": "Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "H. Guorguesio@PER",
+    "target": "Americ\u00e6@LOC",
+    "value": 1
+  },
+  {
+    "source": "Aphrica@LOC",
+    "target": "Jaren@PER",
+    "value": 1
+  },
+  {
+    "source": "Aphrica@LOC",
+    "target": "Hans Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "Aphrica@LOC",
+    "target": "Portugal@LOC",
+    "value": 1
+  },
+  {
+    "source": "Aphrica@LOC",
+    "target": "China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Aphrica@LOC",
+    "target": "Hans Jsrael@PER",
+    "value": 1
+  },
+  {
+    "source": "Aphrica@LOC",
+    "target": "Holchteutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Aphrica@LOC",
+    "target": "Jetzo@PER",
+    "value": 1
+  },
+  {
+    "source": "Aphrica@LOC",
+    "target": "Joan Hugo@PER",
+    "value": 1
+  },
+  {
+    "source": "Aphrica@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hollande@LOC",
+    "target": "Indien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hollande@LOC",
+    "target": "Mauritius@PER",
+    "value": 1
+  },
+  {
+    "source": "Hollande@LOC",
+    "target": "Hochteutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hollande@LOC",
+    "target": "Amsterdam@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hollande@LOC",
+    "target": "Hollandia@PER",
+    "value": 1
+  },
+  {
+    "source": "Hollande@LOC",
+    "target": "Conrad Lew@PER",
+    "value": 1
+  },
+  {
+    "source": "Hollande@LOC",
+    "target": "Jndia@LOC",
+    "value": 1
+  },
+  {
+    "source": "bi\u00dfhero@PER",
+    "target": "Bergen Auwen@LOC",
+    "value": 1
+  },
+  {
+    "source": "bi\u00dfhero@PER",
+    "target": "vnd Heyland Christus@PER",
+    "value": 1
+  },
+  {
+    "source": "bi\u00dfhero@PER",
+    "target": "Ceremonien@LOC",
+    "value": 1
+  },
+  {
+    "source": "bi\u00dfhero@PER",
+    "target": "Glaubenssachen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johann Staden@PER",
+    "target": "Ioannis Lerij@PER",
+    "value": 2
+  },
+  {
+    "source": "Johann Staden@PER",
+    "target": "Brasilien@LOC",
+    "value": 2
+  },
+  {
+    "source": "Johann Staden@PER",
+    "target": "Dieterich Bry@PER",
+    "value": 2
+  },
+  {
+    "source": "Johann Staden@PER",
+    "target": "Homberg@LOC",
+    "value": 2
+  },
+  {
+    "source": "Johann Staden@PER",
+    "target": "Darinn Brasilia@LOC",
+    "value": 2
+  },
+  {
+    "source": "Johann Staden@PER",
+    "target": "L\u00fcttich@LOC",
+    "value": 2
+  },
+  {
+    "source": "Johann Staden@PER",
+    "target": "Hessen@LOC",
+    "value": 2
+  },
+  {
+    "source": "Ioannis Lerij@PER",
+    "target": "Brasilien@LOC",
+    "value": 2
+  },
+  {
+    "source": "Ioannis Lerij@PER",
+    "target": "Dieterich Bry@PER",
+    "value": 2
+  },
+  {
+    "source": "Ioannis Lerij@PER",
+    "target": "Homberg@LOC",
+    "value": 2
+  },
+  {
+    "source": "Ioannis Lerij@PER",
+    "target": "Darinn Brasilia@LOC",
+    "value": 2
+  },
+  {
+    "source": "Ioannis Lerij@PER",
+    "target": "L\u00fcttich@LOC",
+    "value": 2
+  },
+  {
+    "source": "Ioannis Lerij@PER",
+    "target": "Hessen@LOC",
+    "value": 2
+  },
+  {
+    "source": "Hans Staden@PER",
+    "target": "Eychman Ordinarij Professoris Medici@PER",
+    "value": 2
+  },
+  {
+    "source": "Hans Staden@PER",
+    "target": "Dryandri@PER",
+    "value": 2
+  },
+  {
+    "source": "Hans Staden@PER",
+    "target": "H. Philipsen Landtgraff@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Staden@PER",
+    "target": "Homberg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hans Staden@PER",
+    "target": "Menschfresser Leuthen@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Staden@PER",
+    "target": "Nidda@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hans Staden@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Staden@PER",
+    "target": "Homburg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hans Staden@PER",
+    "target": "Christi@LOC",
+    "value": 2
+  },
+  {
+    "source": "Hans Staden@PER",
+    "target": "D. Joh@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Staden@PER",
+    "target": "Hessen@LOC",
+    "value": 2
+  },
+  {
+    "source": "Hans Staden@PER",
+    "target": "Dedicirt@PER",
+    "value": 1
+  },
+  {
+    "source": "Medici@PER",
+    "target": "Mesopotamiam@LOC",
+    "value": 2
+  },
+  {
+    "source": "Medici@PER",
+    "target": "Raiss@PER",
+    "value": 2
+  },
+  {
+    "source": "Johan Th\u016fcher@PER",
+    "target": "Sinay Alexandria@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johan Th\u016fcher@PER",
+    "target": "Burger@PER",
+    "value": 1
+  },
+  {
+    "source": "Johan Th\u016fcher@PER",
+    "target": "N\u00fcrnberg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johan Th\u016fcher@PER",
+    "target": "Venedig Jerusalem@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johann@PER",
+    "target": "Weyl@PER",
+    "value": 1
+  },
+  {
+    "source": "Johann@PER",
+    "target": "Olaj Magni@PER",
+    "value": 1
+  },
+  {
+    "source": "Johann@PER",
+    "target": "Kurtzer@PER",
+    "value": 1
+  },
+  {
+    "source": "Johann@PER",
+    "target": "Rom@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johann@PER",
+    "target": "Olavm Magnvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Johann@PER",
+    "target": "Gothien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johann@PER",
+    "target": "Leipzig@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johann@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Johann@PER",
+    "target": "Venedig@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johann@PER",
+    "target": "Johann Jacoben@PER",
+    "value": 1
+  },
+  {
+    "source": "Johann@PER",
+    "target": "Sinai Alcair Alexandria@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johann@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johann@PER",
+    "target": "Hierusalem@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johann@PER",
+    "target": "Schweden@LOC",
+    "value": 1
+  },
+  {
+    "source": "R\u00f6@LOC",
+    "target": "Augspurg@LOC",
+    "value": 1
+  },
+  {
+    "source": "R\u00f6@LOC",
+    "target": "Kayser@PER",
+    "value": 1
+  },
+  {
+    "source": "R\u00f6@LOC",
+    "target": "Paul Pesel@PER",
+    "value": 1
+  },
+  {
+    "source": "R\u00f6@LOC",
+    "target": "Rai\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "R\u00f6@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "R\u00f6@LOC",
+    "target": "Kayser Karls@PER",
+    "value": 1
+  },
+  {
+    "source": "Franckfurt am Mayn@LOC",
+    "target": "Moritzen@PER",
+    "value": 1
+  },
+  {
+    "source": "Franckfurt am Mayn@LOC",
+    "target": "Ioannis Benzonis von Meylandt@PER",
+    "value": 1
+  },
+  {
+    "source": "Franckfurt am Mayn@LOC",
+    "target": "Spanien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Franckfurt am Mayn@LOC",
+    "target": "Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "Franckfurt am Mayn@LOC",
+    "target": "Hessen@LOC",
+    "value": 1
+  },
+  {
+    "source": "P. Petri Martonez@PER",
+    "target": "China Japon@LOC",
+    "value": 1
+  },
+  {
+    "source": "Baiatzeth vnd@LOC",
+    "target": "Jtem@PER",
+    "value": 1
+  },
+  {
+    "source": "Baiatzeth vnd@LOC",
+    "target": "Heinrich M\u00fcller@PER",
+    "value": 1
+  },
+  {
+    "source": "Ferdinando@PER",
+    "target": "Julij@PER",
+    "value": 1
+  },
+  {
+    "source": "Ferdinando@PER",
+    "target": "Christoph Scheurl@PER",
+    "value": 1
+  },
+  {
+    "source": "Ferdinando@PER",
+    "target": "Barbarossa@PER",
+    "value": 1
+  },
+  {
+    "source": "Ferdinando@PER",
+    "target": "R\u00f6mischen K\u00fcng den XXIII@LOC",
+    "value": 1
+  },
+  {
+    "source": "Ferdinando@PER",
+    "target": "Karl V.@PER",
+    "value": 1
+  },
+  {
+    "source": "Augerius Gislenius Busbeck@PER",
+    "target": "Soleiman@PER",
+    "value": 1
+  },
+  {
+    "source": "Augerius Gislenius Busbeck@PER",
+    "target": "Rath@PER",
+    "value": 1
+  },
+  {
+    "source": "Augerius Gislenius Busbeck@PER",
+    "target": "Keyser Ferdinandi@PER",
+    "value": 1
+  },
+  {
+    "source": "Augerius Gislenius Busbeck@PER",
+    "target": "Carle Graff@PER",
+    "value": 1
+  },
+  {
+    "source": "Augerius Gislenius Busbeck@PER",
+    "target": "Gran Ritterlich@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "Virginia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "Americe@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "Brunst@PER",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "Kurtzer@PER",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "Rom@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "cosas@PER",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "Jo\u00e3o@PER",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "Leipzig@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "gran Reyno de la China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "Venedig@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "Matthaevm Dresservm D.@PER",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "Sinai Alcair Alexandria@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "Morenlandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "Francisco \u00c1lvares@PER",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "Hierusalem@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "Juan Gonz\u00e1lez de Mendoza@PER",
+    "value": 1
+  },
+  {
+    "source": "Johan@PER",
+    "target": "V\u00f6lcker@PER",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Engellandt Leibs Guardi@PER",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Frantzen Draeck@PER",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Teutscher Meil@PER",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Thomas Candisch@PER",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Macuieguarai@PER",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Walthern Ralegh@PER",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Lorentz Keymis@PER",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Engellandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Amapaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Frantzen Prettie@PER",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Quito@LOC",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Guiana@LOC",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Iohan Havckens@PER",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Genua@LOC",
+    "target": "Philippo Printze@PER",
+    "value": 1
+  },
+  {
+    "source": "Genua@LOC",
+    "target": "Ain Schen New B\u016fch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Genua@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Genua@LOC",
+    "target": "Germanien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Genua@LOC",
+    "target": "Hans Heusl@PER",
+    "value": 1
+  },
+  {
+    "source": "Joann Huygens@PER",
+    "target": "Indiae Orientalis@PER",
+    "value": 1
+  },
+  {
+    "source": "Joann Huygens@PER",
+    "target": "Orient@LOC",
+    "value": 1
+  },
+  {
+    "source": "Joann Huygens@PER",
+    "target": "Theodor vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Joann Huygens@PER",
+    "target": "Hochteutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Joann Huygens@PER",
+    "target": "Hollandt@PER",
+    "value": 1
+  },
+  {
+    "source": "Joann Huygens@PER",
+    "target": "Sumatra@LOC",
+    "value": 1
+  },
+  {
+    "source": "Joann Huygens@PER",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Joann Huygens@PER",
+    "target": "V\u00f6lcker@PER",
+    "value": 1
+  },
+  {
+    "source": "Joann Huygens@PER",
+    "target": "Israel de Bry Gebr\u00fcder@LOC",
+    "value": 1
+  },
+  {
+    "source": "Gilissy@LOC",
+    "target": "Jndien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Gilissy@LOC",
+    "target": "Laurentz Jnsel@PER",
+    "value": 1
+  },
+  {
+    "source": "Gilissy@LOC",
+    "target": "Conrad L\u00f6w@PER",
+    "value": 1
+  },
+  {
+    "source": "Gilissy@LOC",
+    "target": "China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Gilissy@LOC",
+    "target": "Noua Zemla@PER",
+    "value": 1
+  },
+  {
+    "source": "Gilissy@LOC",
+    "target": "Obij@LOC",
+    "value": 1
+  },
+  {
+    "source": "Gilissy@LOC",
+    "target": "Gantz@PER",
+    "value": 1
+  },
+  {
+    "source": "Gilissy@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Gilissy@LOC",
+    "target": "Jnsel Bally@PER",
+    "value": 1
+  },
+  {
+    "source": "Gilissy@LOC",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Gilissy@LOC",
+    "target": "N\u00e4gelein@PER",
+    "value": 1
+  },
+  {
+    "source": "Weyl@PER",
+    "target": "Olaj Magni@PER",
+    "value": 1
+  },
+  {
+    "source": "Weyl@PER",
+    "target": "Rom@LOC",
+    "value": 1
+  },
+  {
+    "source": "Weyl@PER",
+    "target": "Olavm Magnvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Weyl@PER",
+    "target": "Gothien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Weyl@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Weyl@PER",
+    "target": "Johann Jacoben@PER",
+    "value": 1
+  },
+  {
+    "source": "Weyl@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Weyl@PER",
+    "target": "Schweden@LOC",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Frantzen Draeck@PER",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Teutscher Meil@PER",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Thomas Candisch@PER",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Macuieguarai@PER",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Walthern Ralegh@PER",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Lorentz Keymis@PER",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Engellandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Amapaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Frantzen Prettie@PER",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Quito@LOC",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Guiana@LOC",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Engellandt Leibs Guardi@PER",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Olaj Magni@PER",
+    "target": "Rom@LOC",
+    "value": 1
+  },
+  {
+    "source": "Olaj Magni@PER",
+    "target": "Olavm Magnvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Olaj Magni@PER",
+    "target": "Gothien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Olaj Magni@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Olaj Magni@PER",
+    "target": "Johann Jacoben@PER",
+    "value": 1
+  },
+  {
+    "source": "Olaj Magni@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Olaj Magni@PER",
+    "target": "Schweden@LOC",
+    "value": 1
+  },
+  {
+    "source": "Brasilien@LOC",
+    "target": "Dieterich Bry@PER",
+    "value": 2
+  },
+  {
+    "source": "Brasilien@LOC",
+    "target": "Homberg@LOC",
+    "value": 2
+  },
+  {
+    "source": "Brasilien@LOC",
+    "target": "Darinn Brasilia@LOC",
+    "value": 2
+  },
+  {
+    "source": "Brasilien@LOC",
+    "target": "L\u00fcttich@LOC",
+    "value": 2
+  },
+  {
+    "source": "Brasilien@LOC",
+    "target": "Hessen@LOC",
+    "value": 2
+  },
+  {
+    "source": "Dieterich Bry@PER",
+    "target": "Homberg@LOC",
+    "value": 2
+  },
+  {
+    "source": "Dieterich Bry@PER",
+    "target": "Darinn Brasilia@LOC",
+    "value": 2
+  },
+  {
+    "source": "Dieterich Bry@PER",
+    "target": "L\u00fcttich@LOC",
+    "value": 2
+  },
+  {
+    "source": "Dieterich Bry@PER",
+    "target": "Hessen@LOC",
+    "value": 2
+  },
+  {
+    "source": "de Fresne@PER",
+    "target": "Jacob@PER",
+    "value": 1
+  },
+  {
+    "source": "de Fresne@PER",
+    "target": "Jetzundt@PER",
+    "value": 1
+  },
+  {
+    "source": "de Fresne@PER",
+    "target": "De la Nove Jn Frantzoesischer@PER",
+    "value": 1
+  },
+  {
+    "source": "Franckreich@PER",
+    "target": "Frid@PER",
+    "value": 1
+  },
+  {
+    "source": "Franckreich@PER",
+    "target": "Von de Raisz@PER",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Draeck@PER",
+    "target": "Teutscher Meil@PER",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Draeck@PER",
+    "target": "Thomas Candisch@PER",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Draeck@PER",
+    "target": "Macuieguarai@PER",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Draeck@PER",
+    "target": "Walthern Ralegh@PER",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Draeck@PER",
+    "target": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Draeck@PER",
+    "target": "Lorentz Keymis@PER",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Draeck@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Draeck@PER",
+    "target": "Engellandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Draeck@PER",
+    "target": "Amapaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Draeck@PER",
+    "target": "Frantzen Prettie@PER",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Draeck@PER",
+    "target": "Quito@LOC",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Draeck@PER",
+    "target": "Guiana@LOC",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Draeck@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Draeck@PER",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Draeck@PER",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hispanien@LOC",
+    "target": "Peter Sauorgnan@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanien@LOC",
+    "target": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hispanien@LOC",
+    "target": "Hispanischer Sprach von Cortesio@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanien@LOC",
+    "target": "Tittel@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanien@LOC",
+    "target": "Darz\u016f@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanien@LOC",
+    "target": "Carlos V.@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanien@LOC",
+    "target": "Xysto Betuleio@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanien@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hispanien@LOC",
+    "target": "Temixtitan@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hispanien@LOC",
+    "target": "Ferdinandi Cortesii@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanien@LOC",
+    "target": "Andrea Diethero@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanien@LOC",
+    "target": "Carolvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanien@LOC",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Eychman Ordinarij Professoris Medici@PER",
+    "target": "Dryandri@PER",
+    "value": 2
+  },
+  {
+    "source": "Eychman Ordinarij Professoris Medici@PER",
+    "target": "H. Philipsen Landtgraff@PER",
+    "value": 1
+  },
+  {
+    "source": "Eychman Ordinarij Professoris Medici@PER",
+    "target": "Homberg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Eychman Ordinarij Professoris Medici@PER",
+    "target": "Menschfresser Leuthen@PER",
+    "value": 1
+  },
+  {
+    "source": "Eychman Ordinarij Professoris Medici@PER",
+    "target": "Nidda@LOC",
+    "value": 1
+  },
+  {
+    "source": "Eychman Ordinarij Professoris Medici@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Eychman Ordinarij Professoris Medici@PER",
+    "target": "Homburg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Eychman Ordinarij Professoris Medici@PER",
+    "target": "Christi@LOC",
+    "value": 2
+  },
+  {
+    "source": "Eychman Ordinarij Professoris Medici@PER",
+    "target": "D. Joh@PER",
+    "value": 1
+  },
+  {
+    "source": "Eychman Ordinarij Professoris Medici@PER",
+    "target": "Hessen@LOC",
+    "value": 2
+  },
+  {
+    "source": "Eychman Ordinarij Professoris Medici@PER",
+    "target": "Dedicirt@PER",
+    "value": 1
+  },
+  {
+    "source": "Dryandri@PER",
+    "target": "H. Philipsen Landtgraff@PER",
+    "value": 1
+  },
+  {
+    "source": "Dryandri@PER",
+    "target": "Homberg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Dryandri@PER",
+    "target": "Menschfresser Leuthen@PER",
+    "value": 1
+  },
+  {
+    "source": "Dryandri@PER",
+    "target": "Nidda@LOC",
+    "value": 1
+  },
+  {
+    "source": "Dryandri@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Dryandri@PER",
+    "target": "Homburg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Dryandri@PER",
+    "target": "Christi@LOC",
+    "value": 2
+  },
+  {
+    "source": "Dryandri@PER",
+    "target": "D. Joh@PER",
+    "value": 1
+  },
+  {
+    "source": "Dryandri@PER",
+    "target": "Hessen@LOC",
+    "value": 2
+  },
+  {
+    "source": "Dryandri@PER",
+    "target": "Dedicirt@PER",
+    "value": 1
+  },
+  {
+    "source": "Virginia@LOC",
+    "target": "China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Virginia@LOC",
+    "target": "cosas@PER",
+    "value": 1
+  },
+  {
+    "source": "Virginia@LOC",
+    "target": "gran Reyno de la China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Virginia@LOC",
+    "target": "Christ@PER",
+    "value": 1
+  },
+  {
+    "source": "Virginia@LOC",
+    "target": "Engelland@LOC",
+    "value": 1
+  },
+  {
+    "source": "Virginia@LOC",
+    "target": "H. Walter Raleigh Ritter@PER",
+    "value": 1
+  },
+  {
+    "source": "Virginia@LOC",
+    "target": "Reichard Greinuile@PER",
+    "value": 1
+  },
+  {
+    "source": "Virginia@LOC",
+    "target": "Matthaevm Dresservm D.@PER",
+    "value": 1
+  },
+  {
+    "source": "Virginia@LOC",
+    "target": "Elisabeth K\u00f6nigin@PER",
+    "value": 1
+  },
+  {
+    "source": "Virginia@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Virginia@LOC",
+    "target": "Juan Gonz\u00e1lez de Mendoza@PER",
+    "value": 1
+  },
+  {
+    "source": "Emanuel@PER",
+    "target": "Portugal@LOC",
+    "value": 1
+  },
+  {
+    "source": "Emanuel@PER",
+    "target": "Balthasar@PER",
+    "value": 1
+  },
+  {
+    "source": "Emanuel@PER",
+    "target": "Mundus novus@PER",
+    "value": 1
+  },
+  {
+    "source": "Jaren@PER",
+    "target": "Hans Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "Jaren@PER",
+    "target": "Portugal@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jaren@PER",
+    "target": "China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jaren@PER",
+    "target": "Hans Jsrael@PER",
+    "value": 1
+  },
+  {
+    "source": "Jaren@PER",
+    "target": "Holchteutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jaren@PER",
+    "target": "Jetzo@PER",
+    "value": 1
+  },
+  {
+    "source": "Jaren@PER",
+    "target": "Joan Hugo@PER",
+    "value": 1
+  },
+  {
+    "source": "Jaren@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Philippo Printze@PER",
+    "target": "Ain Schen New B\u016fch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Philippo Printze@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Philippo Printze@PER",
+    "target": "Germanien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Philippo Printze@PER",
+    "target": "Hans Heusl@PER",
+    "value": 1
+  },
+  {
+    "source": "Americe@LOC",
+    "target": "Brunst@PER",
+    "value": 2
+  },
+  {
+    "source": "Americe@LOC",
+    "target": "Rom@LOC",
+    "value": 2
+  },
+  {
+    "source": "Americe@LOC",
+    "target": "Jo\u00e3o@PER",
+    "value": 2
+  },
+  {
+    "source": "Americe@LOC",
+    "target": "Chronicen@PER",
+    "value": 1
+  },
+  {
+    "source": "Americe@LOC",
+    "target": "Morenlandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Americe@LOC",
+    "target": "Johanns@PER",
+    "value": 1
+  },
+  {
+    "source": "Americe@LOC",
+    "target": "Francisco \u00c1lvares@PER",
+    "value": 1
+  },
+  {
+    "source": "Americe@LOC",
+    "target": "V\u00f6lcker@PER",
+    "value": 2
+  },
+  {
+    "source": "Indiae Orientalis@PER",
+    "target": "Orient@LOC",
+    "value": 1
+  },
+  {
+    "source": "Indiae Orientalis@PER",
+    "target": "Theodor vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Indiae Orientalis@PER",
+    "target": "Hochteutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Indiae Orientalis@PER",
+    "target": "Hollandt@PER",
+    "value": 1
+  },
+  {
+    "source": "Indiae Orientalis@PER",
+    "target": "Sumatra@LOC",
+    "value": 1
+  },
+  {
+    "source": "Indiae Orientalis@PER",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Indiae Orientalis@PER",
+    "target": "V\u00f6lcker@PER",
+    "value": 1
+  },
+  {
+    "source": "Indiae Orientalis@PER",
+    "target": "Israel de Bry Gebr\u00fcder@LOC",
+    "value": 1
+  },
+  {
+    "source": "Soleiman@PER",
+    "target": "Rath@PER",
+    "value": 1
+  },
+  {
+    "source": "Soleiman@PER",
+    "target": "Keyser Ferdinandi@PER",
+    "value": 1
+  },
+  {
+    "source": "Soleiman@PER",
+    "target": "Carle Graff@PER",
+    "value": 1
+  },
+  {
+    "source": "Soleiman@PER",
+    "target": "Gran Ritterlich@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jndien@LOC",
+    "target": "Carta de Francisco Javier S. J.@PER",
+    "value": 1
+  },
+  {
+    "source": "Jndien@LOC",
+    "target": "Laurentz Jnsel@PER",
+    "value": 1
+  },
+  {
+    "source": "Jndien@LOC",
+    "target": "Conrad L\u00f6w@PER",
+    "value": 1
+  },
+  {
+    "source": "Jndien@LOC",
+    "target": "China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jndien@LOC",
+    "target": "Jgnatium von Layola@PER",
+    "value": 1
+  },
+  {
+    "source": "Jndien@LOC",
+    "target": "Noua Zemla@PER",
+    "value": 1
+  },
+  {
+    "source": "Jndien@LOC",
+    "target": "Obij@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jndien@LOC",
+    "target": "Francisci Xauier@PER",
+    "value": 1
+  },
+  {
+    "source": "Jndien@LOC",
+    "target": "Gantz@PER",
+    "value": 1
+  },
+  {
+    "source": "Jndien@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jndien@LOC",
+    "target": "Jnsel Bally@PER",
+    "value": 1
+  },
+  {
+    "source": "Jndien@LOC",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jndien@LOC",
+    "target": "Jesu Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Jndien@LOC",
+    "target": "N\u00e4gelein@PER",
+    "value": 1
+  },
+  {
+    "source": "Carta de Francisco Javier S. J.@PER",
+    "target": "Jgnatium von Layola@PER",
+    "value": 1
+  },
+  {
+    "source": "Carta de Francisco Javier S. J.@PER",
+    "target": "Francisci Xauier@PER",
+    "value": 1
+  },
+  {
+    "source": "Carta de Francisco Javier S. J.@PER",
+    "target": "Jesu Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Horeb Sinay@PER",
+    "target": "Terrae Sanctae@LOC",
+    "value": 1
+  },
+  {
+    "source": "Horeb Sinay@PER",
+    "target": "Felix Fabri@PER",
+    "value": 1
+  },
+  {
+    "source": "Laurentz Jnsel@PER",
+    "target": "Conrad L\u00f6w@PER",
+    "value": 1
+  },
+  {
+    "source": "Laurentz Jnsel@PER",
+    "target": "China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Laurentz Jnsel@PER",
+    "target": "Noua Zemla@PER",
+    "value": 1
+  },
+  {
+    "source": "Laurentz Jnsel@PER",
+    "target": "Obij@LOC",
+    "value": 1
+  },
+  {
+    "source": "Laurentz Jnsel@PER",
+    "target": "Gantz@PER",
+    "value": 1
+  },
+  {
+    "source": "Laurentz Jnsel@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Laurentz Jnsel@PER",
+    "target": "Jnsel Bally@PER",
+    "value": 1
+  },
+  {
+    "source": "Laurentz Jnsel@PER",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Laurentz Jnsel@PER",
+    "target": "N\u00e4gelein@PER",
+    "value": 1
+  },
+  {
+    "source": "Moritzen@PER",
+    "target": "Ioannis Benzonis von Meylandt@PER",
+    "value": 1
+  },
+  {
+    "source": "Moritzen@PER",
+    "target": "Spanien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Moritzen@PER",
+    "target": "Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "Moritzen@PER",
+    "target": "Hessen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Rath@PER",
+    "target": "Keyser Ferdinandi@PER",
+    "value": 1
+  },
+  {
+    "source": "Rath@PER",
+    "target": "Mahomeths@PER",
+    "value": 1
+  },
+  {
+    "source": "Rath@PER",
+    "target": "T\u00fcrckischen Hoff@LOC",
+    "value": 1
+  },
+  {
+    "source": "Rath@PER",
+    "target": "Carle Graff@PER",
+    "value": 1
+  },
+  {
+    "source": "Rath@PER",
+    "target": "Schm\u00e4chlichem Endt@PER",
+    "value": 1
+  },
+  {
+    "source": "Rath@PER",
+    "target": "K\u00f6nigshofen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Rath@PER",
+    "target": "Tauber@LOC",
+    "value": 1
+  },
+  {
+    "source": "Rath@PER",
+    "target": "Noth@PER",
+    "value": 1
+  },
+  {
+    "source": "Rath@PER",
+    "target": "Ottomans@LOC",
+    "value": 1
+  },
+  {
+    "source": "Rath@PER",
+    "target": "V. Ferdinandt@PER",
+    "value": 1
+  },
+  {
+    "source": "Rath@PER",
+    "target": "Policey Gerichtlichem Proce\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "Rath@PER",
+    "target": "Gran Ritterlich@LOC",
+    "value": 1
+  },
+  {
+    "source": "Rath@PER",
+    "target": "Maximilian@PER",
+    "value": 1
+  },
+  {
+    "source": "K\u00fcnigklicher Maye@PER",
+    "target": "Obernburg@LOC",
+    "value": 1
+  },
+  {
+    "source": "K\u00fcnigklicher Maye@PER",
+    "target": "Benedicten Curipeschitz@PER",
+    "value": 1
+  },
+  {
+    "source": "Teutsche Sprach@LOC",
+    "target": "Rom@LOC",
+    "value": 1
+  },
+  {
+    "source": "Teutsche Sprach@LOC",
+    "target": "Portugal@LOC",
+    "value": 1
+  },
+  {
+    "source": "Teutsche Sprach@LOC",
+    "target": "Rai\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "Teutsche Sprach@LOC",
+    "target": "Japon@PER",
+    "value": 1
+  },
+  {
+    "source": "Keyser Ferdinandi@PER",
+    "target": "Carle Graff@PER",
+    "value": 1
+  },
+  {
+    "source": "Keyser Ferdinandi@PER",
+    "target": "Gran Ritterlich@LOC",
+    "value": 1
+  },
+  {
+    "source": "M. Franciscvm Omichivm@PER",
+    "target": "Ostereich@LOC",
+    "value": 1
+  },
+  {
+    "source": "M. Franciscvm Omichivm@PER",
+    "target": "Darinn@PER",
+    "value": 1
+  },
+  {
+    "source": "M. Franciscvm Omichivm@PER",
+    "target": "Wien@LOC",
+    "value": 1
+  },
+  {
+    "source": "M. Franciscvm Omichivm@PER",
+    "target": "S. G.@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Dieterich@PER",
+    "target": "Portugal@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hans Dieterich@PER",
+    "target": "China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hans Dieterich@PER",
+    "target": "Hans Jsrael@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Dieterich@PER",
+    "target": "Holchteutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hans Dieterich@PER",
+    "target": "Jetzo@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Dieterich@PER",
+    "target": "Joan Hugo@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Dieterich@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "May@PER",
+    "target": "Kayser Soleyman@PER",
+    "value": 1
+  },
+  {
+    "source": "May@PER",
+    "target": "Constantinopel@LOC",
+    "value": 2
+  },
+  {
+    "source": "May@PER",
+    "target": "Herberstain Neyperg@LOC",
+    "value": 1
+  },
+  {
+    "source": "May@PER",
+    "target": "K\u00e4rntn R\u00f6mischer@LOC",
+    "value": 1
+  },
+  {
+    "source": "May@PER",
+    "target": "Benedikt Kuripe\u0161i\u0107@PER",
+    "value": 2
+  },
+  {
+    "source": "Hans Strigel@PER",
+    "target": "Stephan von Gumpenberg Friderich von Wolffskel vnnd Hans von Rameraw@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Strigel@PER",
+    "target": "Damascon@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hans Strigel@PER",
+    "target": "W\u00fcrtzburg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hans Strigel@PER",
+    "target": "Johann Eyselsaner@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Strigel@PER",
+    "target": "Sanct Paulus@PER",
+    "value": 1
+  },
+  {
+    "source": "Conrad L\u00f6w@PER",
+    "target": "China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Conrad L\u00f6w@PER",
+    "target": "Noua Zemla@PER",
+    "value": 1
+  },
+  {
+    "source": "Conrad L\u00f6w@PER",
+    "target": "Obij@LOC",
+    "value": 1
+  },
+  {
+    "source": "Conrad L\u00f6w@PER",
+    "target": "Gantz@PER",
+    "value": 1
+  },
+  {
+    "source": "Conrad L\u00f6w@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Conrad L\u00f6w@PER",
+    "target": "Jnsel Bally@PER",
+    "value": 1
+  },
+  {
+    "source": "Conrad L\u00f6w@PER",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Conrad L\u00f6w@PER",
+    "target": "N\u00e4gelein@PER",
+    "value": 1
+  },
+  {
+    "source": "Peter Sauorgnan@PER",
+    "target": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Peter Sauorgnan@PER",
+    "target": "Hispanischer Sprach von Cortesio@PER",
+    "value": 1
+  },
+  {
+    "source": "Peter Sauorgnan@PER",
+    "target": "Tittel@PER",
+    "value": 1
+  },
+  {
+    "source": "Peter Sauorgnan@PER",
+    "target": "Darz\u016f@PER",
+    "value": 1
+  },
+  {
+    "source": "Peter Sauorgnan@PER",
+    "target": "Carlos V.@PER",
+    "value": 1
+  },
+  {
+    "source": "Peter Sauorgnan@PER",
+    "target": "Xysto Betuleio@PER",
+    "value": 1
+  },
+  {
+    "source": "Peter Sauorgnan@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Peter Sauorgnan@PER",
+    "target": "Temixtitan@LOC",
+    "value": 1
+  },
+  {
+    "source": "Peter Sauorgnan@PER",
+    "target": "Ferdinandi Cortesii@PER",
+    "value": 1
+  },
+  {
+    "source": "Peter Sauorgnan@PER",
+    "target": "Andrea Diethero@PER",
+    "value": 1
+  },
+  {
+    "source": "Peter Sauorgnan@PER",
+    "target": "Carolvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Peter Sauorgnan@PER",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Teutscher Meil@PER",
+    "target": "Thomas Candisch@PER",
+    "value": 1
+  },
+  {
+    "source": "Teutscher Meil@PER",
+    "target": "Macuieguarai@PER",
+    "value": 1
+  },
+  {
+    "source": "Teutscher Meil@PER",
+    "target": "Walthern Ralegh@PER",
+    "value": 1
+  },
+  {
+    "source": "Teutscher Meil@PER",
+    "target": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "value": 1
+  },
+  {
+    "source": "Teutscher Meil@PER",
+    "target": "Lorentz Keymis@PER",
+    "value": 1
+  },
+  {
+    "source": "Teutscher Meil@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Teutscher Meil@PER",
+    "target": "Engellandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Teutscher Meil@PER",
+    "target": "Amapaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Teutscher Meil@PER",
+    "target": "Frantzen Prettie@PER",
+    "value": 1
+  },
+  {
+    "source": "Teutscher Meil@PER",
+    "target": "Quito@LOC",
+    "value": 1
+  },
+  {
+    "source": "Teutscher Meil@PER",
+    "target": "Guiana@LOC",
+    "value": 1
+  },
+  {
+    "source": "Teutscher Meil@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Teutscher Meil@PER",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Teutscher Meil@PER",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Ioannis Benzonis von Meylandt@PER",
+    "target": "Spanien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Ioannis Benzonis von Meylandt@PER",
+    "target": "Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "Ioannis Benzonis von Meylandt@PER",
+    "target": "Hessen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Franckfort am Mayn Anno@LOC",
+    "target": "C. C. A. Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Franckfort am Mayn Anno@LOC",
+    "target": "H. Oseam Halen@PER",
+    "value": 1
+  },
+  {
+    "source": "Franckfort am Mayn Anno@LOC",
+    "target": "Teutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Franckfort am Mayn Anno@LOC",
+    "target": "Jacob le Moyne@PER",
+    "value": 1
+  },
+  {
+    "source": "Franckfort am Mayn Anno@LOC",
+    "target": "Floridam@LOC",
+    "value": 1
+  },
+  {
+    "source": "Franckfort am Mayn Anno@LOC",
+    "target": "H. Ribald@PER",
+    "value": 1
+  },
+  {
+    "source": "Franckfort am Mayn Anno@LOC",
+    "target": "Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "Franckfort am Mayn Anno@LOC",
+    "target": "Americ\u00e6@LOC",
+    "value": 1
+  },
+  {
+    "source": "Iesv@PER",
+    "target": "Portugalesischer@PER",
+    "value": 1
+  },
+  {
+    "source": "Iesv@PER",
+    "target": "Ioannem Georgium@PER",
+    "value": 1
+  },
+  {
+    "source": "Iesv@PER",
+    "target": "Orient@LOC",
+    "value": 1
+  },
+  {
+    "source": "Iesv@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Iesv@PER",
+    "target": "Constantzischen Rath@PER",
+    "value": 1
+  },
+  {
+    "source": "Iesv@PER",
+    "target": "Kurtze Verzeichnu\u00df Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Iesv@PER",
+    "target": "Christi@LOC",
+    "value": 1
+  },
+  {
+    "source": "Iesv@PER",
+    "target": "Ioannem Petrum Maffeium@PER",
+    "value": 1
+  },
+  {
+    "source": "C. C. A. Vnd@PER",
+    "target": "H. Oseam Halen@PER",
+    "value": 1
+  },
+  {
+    "source": "C. C. A. Vnd@PER",
+    "target": "Teutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "C. C. A. Vnd@PER",
+    "target": "Jacob le Moyne@PER",
+    "value": 1
+  },
+  {
+    "source": "C. C. A. Vnd@PER",
+    "target": "Floridam@LOC",
+    "value": 1
+  },
+  {
+    "source": "C. C. A. Vnd@PER",
+    "target": "H. Ribald@PER",
+    "value": 1
+  },
+  {
+    "source": "C. C. A. Vnd@PER",
+    "target": "Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "C. C. A. Vnd@PER",
+    "target": "Americ\u00e6@LOC",
+    "value": 1
+  },
+  {
+    "source": "Schmidel@PER",
+    "target": "Schmidel von Straubing von Anno@PER",
+    "value": 1
+  },
+  {
+    "source": "Schmidel@PER",
+    "target": "Levinvm Hvlsivm@PER",
+    "value": 1
+  },
+  {
+    "source": "Schmidel@PER",
+    "target": "Americam@LOC",
+    "value": 1
+  },
+  {
+    "source": "Baiazeth vnd@LOC",
+    "target": "Jtem@PER",
+    "value": 1
+  },
+  {
+    "source": "Baiazeth vnd@LOC",
+    "target": "Heinrich M\u00fcller@PER",
+    "value": 1
+  },
+  {
+    "source": "Stephan von Gumpenberg Friderich von Wolffskel vnnd Hans von Rameraw@PER",
+    "target": "Damascon@LOC",
+    "value": 1
+  },
+  {
+    "source": "Stephan von Gumpenberg Friderich von Wolffskel vnnd Hans von Rameraw@PER",
+    "target": "W\u00fcrtzburg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Stephan von Gumpenberg Friderich von Wolffskel vnnd Hans von Rameraw@PER",
+    "target": "Johann Eyselsaner@PER",
+    "value": 1
+  },
+  {
+    "source": "Stephan von Gumpenberg Friderich von Wolffskel vnnd Hans von Rameraw@PER",
+    "target": "Sanct Paulus@PER",
+    "value": 1
+  },
+  {
+    "source": "Joannem Herold@PER",
+    "target": "H. Bartholome Georgewyts@PER",
+    "value": 1
+  },
+  {
+    "source": "Calis Malis@LOC",
+    "target": "Franciscus Dracus Redivivvs@PER",
+    "value": 1
+  },
+  {
+    "source": "Calis Malis@LOC",
+    "target": "Kurtze@PER",
+    "value": 1
+  },
+  {
+    "source": "Calis Malis@LOC",
+    "target": "Jnsul Cuba@PER",
+    "value": 1
+  },
+  {
+    "source": "Calis Malis@LOC",
+    "target": "Florida@LOC",
+    "value": 1
+  },
+  {
+    "source": "Dieterich von Bry@PER",
+    "target": "Vlrici Schmidts@PER",
+    "value": 1
+  },
+  {
+    "source": "Jacob@PER",
+    "target": "Jetzundt@PER",
+    "value": 1
+  },
+  {
+    "source": "Jacob@PER",
+    "target": "De la Nove Jn Frantzoesischer@PER",
+    "value": 1
+  },
+  {
+    "source": "Thomas Candisch@PER",
+    "target": "Macuieguarai@PER",
+    "value": 1
+  },
+  {
+    "source": "Thomas Candisch@PER",
+    "target": "Walthern Ralegh@PER",
+    "value": 1
+  },
+  {
+    "source": "Thomas Candisch@PER",
+    "target": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "value": 1
+  },
+  {
+    "source": "Thomas Candisch@PER",
+    "target": "Lorentz Keymis@PER",
+    "value": 1
+  },
+  {
+    "source": "Thomas Candisch@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Thomas Candisch@PER",
+    "target": "Engellandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Thomas Candisch@PER",
+    "target": "Amapaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Thomas Candisch@PER",
+    "target": "Frantzen Prettie@PER",
+    "value": 1
+  },
+  {
+    "source": "Thomas Candisch@PER",
+    "target": "Quito@LOC",
+    "value": 1
+  },
+  {
+    "source": "Thomas Candisch@PER",
+    "target": "Guiana@LOC",
+    "value": 1
+  },
+  {
+    "source": "Thomas Candisch@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Thomas Candisch@PER",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Thomas Candisch@PER",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "target": "Hispanischer Sprach von Cortesio@PER",
+    "value": 1
+  },
+  {
+    "source": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "target": "Tittel@PER",
+    "value": 1
+  },
+  {
+    "source": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "target": "Darz\u016f@PER",
+    "value": 1
+  },
+  {
+    "source": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "target": "Carlos V.@PER",
+    "value": 1
+  },
+  {
+    "source": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "target": "Xysto Betuleio@PER",
+    "value": 1
+  },
+  {
+    "source": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "target": "Temixtitan@LOC",
+    "value": 1
+  },
+  {
+    "source": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "target": "Ferdinandi Cortesii@PER",
+    "value": 1
+  },
+  {
+    "source": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "target": "Andrea Diethero@PER",
+    "value": 1
+  },
+  {
+    "source": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "target": "Carolvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Herrn Herrn Ferdinanden R\u00f6mischen@LOC",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Franciscus Dracus Redivivvs@PER",
+    "target": "Kurtze@PER",
+    "value": 1
+  },
+  {
+    "source": "Franciscus Dracus Redivivvs@PER",
+    "target": "Jnsul Cuba@PER",
+    "value": 1
+  },
+  {
+    "source": "Franciscus Dracus Redivivvs@PER",
+    "target": "Florida@LOC",
+    "value": 1
+  },
+  {
+    "source": "Gerhart de Ver@PER",
+    "target": "Lappiam@PER",
+    "value": 1
+  },
+  {
+    "source": "Gerhart de Ver@PER",
+    "target": "Cathay vnd China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Gerhart de Ver@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Gerhart de Ver@PER",
+    "target": "Niderl\u00e4ndischer@LOC",
+    "value": 1
+  },
+  {
+    "source": "Brunst@PER",
+    "target": "Rom@LOC",
+    "value": 2
+  },
+  {
+    "source": "Brunst@PER",
+    "target": "Jo\u00e3o@PER",
+    "value": 2
+  },
+  {
+    "source": "Brunst@PER",
+    "target": "Chronicen@PER",
+    "value": 1
+  },
+  {
+    "source": "Brunst@PER",
+    "target": "Morenlandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Brunst@PER",
+    "target": "Johanns@PER",
+    "value": 1
+  },
+  {
+    "source": "Brunst@PER",
+    "target": "Francisco \u00c1lvares@PER",
+    "value": 1
+  },
+  {
+    "source": "Brunst@PER",
+    "target": "V\u00f6lcker@PER",
+    "value": 2
+  },
+  {
+    "source": "H. Philipsen Landtgraff@PER",
+    "target": "Homberg@LOC",
+    "value": 1
+  },
+  {
+    "source": "H. Philipsen Landtgraff@PER",
+    "target": "Menschfresser Leuthen@PER",
+    "value": 1
+  },
+  {
+    "source": "H. Philipsen Landtgraff@PER",
+    "target": "Nidda@LOC",
+    "value": 1
+  },
+  {
+    "source": "H. Philipsen Landtgraff@PER",
+    "target": "Christi@LOC",
+    "value": 1
+  },
+  {
+    "source": "H. Philipsen Landtgraff@PER",
+    "target": "D. Joh@PER",
+    "value": 1
+  },
+  {
+    "source": "H. Philipsen Landtgraff@PER",
+    "target": "Hessen@LOC",
+    "value": 1
+  },
+  {
+    "source": "H. Philipsen Landtgraff@PER",
+    "target": "Dedicirt@PER",
+    "value": 1
+  },
+  {
+    "source": "Obernburg@LOC",
+    "target": "Benedicten Curipeschitz@PER",
+    "value": 1
+  },
+  {
+    "source": "Indien@LOC",
+    "target": "Mauritius@PER",
+    "value": 1
+  },
+  {
+    "source": "Indien@LOC",
+    "target": "Hochteutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Indien@LOC",
+    "target": "Amsterdam@LOC",
+    "value": 1
+  },
+  {
+    "source": "Indien@LOC",
+    "target": "Hollandia@PER",
+    "value": 1
+  },
+  {
+    "source": "Indien@LOC",
+    "target": "Conrad Lew@PER",
+    "value": 1
+  },
+  {
+    "source": "Indien@LOC",
+    "target": "Jndia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Anna@PER",
+    "target": "Wilhelmen Hertzogen@PER",
+    "value": 1
+  },
+  {
+    "source": "Anna@PER",
+    "target": "G\u00fclich Cleue@PER",
+    "value": 1
+  },
+  {
+    "source": "Anna@PER",
+    "target": "Maria Leonora@PER",
+    "value": 1
+  },
+  {
+    "source": "Anna@PER",
+    "target": "F\u00fcrstenthumb Newburg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Kurtzer@PER",
+    "target": "Leipzig@LOC",
+    "value": 2
+  },
+  {
+    "source": "Kurtzer@PER",
+    "target": "Venedig@LOC",
+    "value": 2
+  },
+  {
+    "source": "Kurtzer@PER",
+    "target": "Sinai Alcair Alexandria@LOC",
+    "value": 2
+  },
+  {
+    "source": "Kurtzer@PER",
+    "target": "Hierusalem@LOC",
+    "value": 2
+  },
+  {
+    "source": "Sinay Alexandria@LOC",
+    "target": "Burger@PER",
+    "value": 1
+  },
+  {
+    "source": "Sinay Alexandria@LOC",
+    "target": "N\u00fcrnberg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Sinay Alexandria@LOC",
+    "target": "Venedig Jerusalem@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hispanischer Sprach von Cortesio@PER",
+    "target": "Tittel@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanischer Sprach von Cortesio@PER",
+    "target": "Darz\u016f@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanischer Sprach von Cortesio@PER",
+    "target": "Carlos V.@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanischer Sprach von Cortesio@PER",
+    "target": "Xysto Betuleio@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanischer Sprach von Cortesio@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hispanischer Sprach von Cortesio@PER",
+    "target": "Temixtitan@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hispanischer Sprach von Cortesio@PER",
+    "target": "Ferdinandi Cortesii@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanischer Sprach von Cortesio@PER",
+    "target": "Andrea Diethero@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanischer Sprach von Cortesio@PER",
+    "target": "Carolvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Hispanischer Sprach von Cortesio@PER",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Bergen Auwen@LOC",
+    "target": "vnd Heyland Christus@PER",
+    "value": 1
+  },
+  {
+    "source": "Bergen Auwen@LOC",
+    "target": "Ceremonien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Bergen Auwen@LOC",
+    "target": "Glaubenssachen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Burger@PER",
+    "target": "N\u00fcrnberg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Burger@PER",
+    "target": "Venedig Jerusalem@LOC",
+    "value": 1
+  },
+  {
+    "source": "Lappiam@PER",
+    "target": "Cathay vnd China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Lappiam@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Lappiam@PER",
+    "target": "Niderl\u00e4ndischer@LOC",
+    "value": 1
+  },
+  {
+    "source": "vnd Heyland Christus@PER",
+    "target": "Ceremonien@LOC",
+    "value": 1
+  },
+  {
+    "source": "vnd Heyland Christus@PER",
+    "target": "Glaubenssachen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Portugalesischer@PER",
+    "target": "Ioannem Georgium@PER",
+    "value": 1
+  },
+  {
+    "source": "Portugalesischer@PER",
+    "target": "Orient@LOC",
+    "value": 1
+  },
+  {
+    "source": "Portugalesischer@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Portugalesischer@PER",
+    "target": "Constantzischen Rath@PER",
+    "value": 1
+  },
+  {
+    "source": "Portugalesischer@PER",
+    "target": "Kurtze Verzeichnu\u00df Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Portugalesischer@PER",
+    "target": "Christi@LOC",
+    "value": 1
+  },
+  {
+    "source": "Portugalesischer@PER",
+    "target": "Ioannem Petrum Maffeium@PER",
+    "value": 1
+  },
+  {
+    "source": "Johann Kellner@PER",
+    "target": "China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johann Kellner@PER",
+    "target": "cosas@PER",
+    "value": 1
+  },
+  {
+    "source": "Johann Kellner@PER",
+    "target": "gran Reyno de la China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johann Kellner@PER",
+    "target": "Kurtze@PER",
+    "value": 1
+  },
+  {
+    "source": "Johann Kellner@PER",
+    "target": "Goldt@PER",
+    "value": 1
+  },
+  {
+    "source": "Johann Kellner@PER",
+    "target": "Bey@PER",
+    "value": 1
+  },
+  {
+    "source": "Johann Kellner@PER",
+    "target": "Juan Gonz\u00e1lez de Mendoza@PER",
+    "value": 1
+  },
+  {
+    "source": "Johann Kellner@PER",
+    "target": "HochTeutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Rom@LOC",
+    "target": "Portugal@LOC",
+    "value": 1
+  },
+  {
+    "source": "Rom@LOC",
+    "target": "Olavm Magnvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Rom@LOC",
+    "target": "Jo\u00e3o@PER",
+    "value": 2
+  },
+  {
+    "source": "Rom@LOC",
+    "target": "Chronicen@PER",
+    "value": 1
+  },
+  {
+    "source": "Rom@LOC",
+    "target": "Gothien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Rom@LOC",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Rom@LOC",
+    "target": "Johann Jacoben@PER",
+    "value": 1
+  },
+  {
+    "source": "Rom@LOC",
+    "target": "Morenlandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Rom@LOC",
+    "target": "Rai\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "Rom@LOC",
+    "target": "Johanns@PER",
+    "value": 1
+  },
+  {
+    "source": "Rom@LOC",
+    "target": "Francisco \u00c1lvares@PER",
+    "value": 1
+  },
+  {
+    "source": "Rom@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Rom@LOC",
+    "target": "Schweden@LOC",
+    "value": 1
+  },
+  {
+    "source": "Rom@LOC",
+    "target": "V\u00f6lcker@PER",
+    "value": 2
+  },
+  {
+    "source": "Rom@LOC",
+    "target": "Japon@PER",
+    "value": 1
+  },
+  {
+    "source": "Ceremonien@LOC",
+    "target": "Glaubenssachen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Schmidel von Straubing von Anno@PER",
+    "target": "Levinvm Hvlsivm@PER",
+    "value": 1
+  },
+  {
+    "source": "Schmidel von Straubing von Anno@PER",
+    "target": "Americam@LOC",
+    "value": 1
+  },
+  {
+    "source": "Julij@PER",
+    "target": "Christoph Scheurl@PER",
+    "value": 2
+  },
+  {
+    "source": "Julij@PER",
+    "target": "Barbarossa@PER",
+    "value": 2
+  },
+  {
+    "source": "Julij@PER",
+    "target": "R\u00f6mischen K\u00fcnig@LOC",
+    "value": 1
+  },
+  {
+    "source": "Julij@PER",
+    "target": "R\u00f6mischen K\u00fcng den XXIII@LOC",
+    "value": 1
+  },
+  {
+    "source": "Julij@PER",
+    "target": "K\u00fcnigclich Maiestat jres@PER",
+    "value": 1
+  },
+  {
+    "source": "Julij@PER",
+    "target": "Karl V.@PER",
+    "value": 2
+  },
+  {
+    "source": "Mahomeths@PER",
+    "target": "T\u00fcrckischen Hoff@LOC",
+    "value": 1
+  },
+  {
+    "source": "Mahomeths@PER",
+    "target": "Schm\u00e4chlichem Endt@PER",
+    "value": 1
+  },
+  {
+    "source": "Mahomeths@PER",
+    "target": "K\u00f6nigshofen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Mahomeths@PER",
+    "target": "Tauber@LOC",
+    "value": 1
+  },
+  {
+    "source": "Mahomeths@PER",
+    "target": "Noth@PER",
+    "value": 1
+  },
+  {
+    "source": "Mahomeths@PER",
+    "target": "Ottomans@LOC",
+    "value": 1
+  },
+  {
+    "source": "Mahomeths@PER",
+    "target": "V. Ferdinandt@PER",
+    "value": 1
+  },
+  {
+    "source": "Mahomeths@PER",
+    "target": "Policey Gerichtlichem Proce\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "Mahomeths@PER",
+    "target": "Maximilian@PER",
+    "value": 1
+  },
+  {
+    "source": "Benzo von Meylandt@PER",
+    "target": "Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "jar Christi@PER",
+    "target": "Amelbeurn@LOC",
+    "value": 1
+  },
+  {
+    "source": "jar Christi@PER",
+    "target": "Pandectes T\u00fcrckischer@PER",
+    "value": 1
+  },
+  {
+    "source": "jar Christi@PER",
+    "target": "Tugendt Vntugendt@PER",
+    "value": 1
+  },
+  {
+    "source": "jar Christi@PER",
+    "target": "Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "jar Christi@PER",
+    "target": "Jeronymus Beck von Leopoldstorff@PER",
+    "value": 1
+  },
+  {
+    "source": "jar Christi@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "jar Christi@PER",
+    "target": "Hansen Lewenklaw@PER",
+    "value": 1
+  },
+  {
+    "source": "jar Christi@PER",
+    "target": "Suleiman Chan vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "jar Christi@PER",
+    "target": "Constantinopol@PER",
+    "value": 1
+  },
+  {
+    "source": "jar Christi@PER",
+    "target": "Chronic@PER",
+    "value": 1
+  },
+  {
+    "source": "jar Christi@PER",
+    "target": "Osman Chan@PER",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Hoff@LOC",
+    "target": "Schm\u00e4chlichem Endt@PER",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Hoff@LOC",
+    "target": "K\u00f6nigshofen@LOC",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Hoff@LOC",
+    "target": "Tauber@LOC",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Hoff@LOC",
+    "target": "Noth@PER",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Hoff@LOC",
+    "target": "Ottomans@LOC",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Hoff@LOC",
+    "target": "V. Ferdinandt@PER",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Hoff@LOC",
+    "target": "Policey Gerichtlichem Proce\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "T\u00fcrckischen Hoff@LOC",
+    "target": "Maximilian@PER",
+    "value": 1
+  },
+  {
+    "source": "Damascon@LOC",
+    "target": "W\u00fcrtzburg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Damascon@LOC",
+    "target": "Johann Eyselsaner@PER",
+    "value": 1
+  },
+  {
+    "source": "Damascon@LOC",
+    "target": "Sanct Paulus@PER",
+    "value": 1
+  },
+  {
+    "source": "Amelbeurn@LOC",
+    "target": "Pandectes T\u00fcrckischer@PER",
+    "value": 1
+  },
+  {
+    "source": "Amelbeurn@LOC",
+    "target": "Osmanischen Stammens@PER",
+    "value": 1
+  },
+  {
+    "source": "Amelbeurn@LOC",
+    "target": "Tugendt Vntugendt@PER",
+    "value": 2
+  },
+  {
+    "source": "Amelbeurn@LOC",
+    "target": "Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Amelbeurn@LOC",
+    "target": "Jeronymus Beck von Leopoldstorff@PER",
+    "value": 2
+  },
+  {
+    "source": "Amelbeurn@LOC",
+    "target": "Jar@LOC",
+    "value": 2
+  },
+  {
+    "source": "Amelbeurn@LOC",
+    "target": "Hansen Lewenklaw@PER",
+    "value": 2
+  },
+  {
+    "source": "Amelbeurn@LOC",
+    "target": "Suleiman Chan vnd@PER",
+    "value": 2
+  },
+  {
+    "source": "Amelbeurn@LOC",
+    "target": "Constantinopol@PER",
+    "value": 2
+  },
+  {
+    "source": "Amelbeurn@LOC",
+    "target": "Chronic@PER",
+    "value": 2
+  },
+  {
+    "source": "Amelbeurn@LOC",
+    "target": "Osman Chan@PER",
+    "value": 2
+  },
+  {
+    "source": "Amelbeurn@LOC",
+    "target": "Jar Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Portugal@LOC",
+    "target": "China@LOC",
+    "value": 1
+  },
+  {
+    "source": "Portugal@LOC",
+    "target": "Hans Jsrael@PER",
+    "value": 1
+  },
+  {
+    "source": "Portugal@LOC",
+    "target": "Holchteutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Portugal@LOC",
+    "target": "Jetzo@PER",
+    "value": 1
+  },
+  {
+    "source": "Portugal@LOC",
+    "target": "Joan Hugo@PER",
+    "value": 1
+  },
+  {
+    "source": "Portugal@LOC",
+    "target": "Rai\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "Portugal@LOC",
+    "target": "Mundus novus@PER",
+    "value": 1
+  },
+  {
+    "source": "Portugal@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Portugal@LOC",
+    "target": "Japon@PER",
+    "value": 1
+  },
+  {
+    "source": "Augspurg@LOC",
+    "target": "Kayser@PER",
+    "value": 1
+  },
+  {
+    "source": "Augspurg@LOC",
+    "target": "Paul Pesel@PER",
+    "value": 1
+  },
+  {
+    "source": "Augspurg@LOC",
+    "target": "Rai\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "Augspurg@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Augspurg@LOC",
+    "target": "Kayser Karls@PER",
+    "value": 1
+  },
+  {
+    "source": "Carle Graff@PER",
+    "target": "Gran Ritterlich@LOC",
+    "value": 1
+  },
+  {
+    "source": "Cathay vnd China@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Cathay vnd China@LOC",
+    "target": "Niderl\u00e4ndischer@LOC",
+    "value": 1
+  },
+  {
+    "source": "Homberg@LOC",
+    "target": "Menschfresser Leuthen@PER",
+    "value": 1
+  },
+  {
+    "source": "Homberg@LOC",
+    "target": "Nidda@LOC",
+    "value": 1
+  },
+  {
+    "source": "Homberg@LOC",
+    "target": "Darinn Brasilia@LOC",
+    "value": 2
+  },
+  {
+    "source": "Homberg@LOC",
+    "target": "L\u00fcttich@LOC",
+    "value": 2
+  },
+  {
+    "source": "Homberg@LOC",
+    "target": "Christi@LOC",
+    "value": 1
+  },
+  {
+    "source": "Homberg@LOC",
+    "target": "D. Joh@PER",
+    "value": 1
+  },
+  {
+    "source": "Homberg@LOC",
+    "target": "Hessen@LOC",
+    "value": 3
+  },
+  {
+    "source": "Homberg@LOC",
+    "target": "Dedicirt@PER",
+    "value": 1
+  },
+  {
+    "source": "Mauritius@PER",
+    "target": "Hochteutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Mauritius@PER",
+    "target": "Amsterdam@LOC",
+    "value": 1
+  },
+  {
+    "source": "Mauritius@PER",
+    "target": "Hollandia@PER",
+    "value": 1
+  },
+  {
+    "source": "Mauritius@PER",
+    "target": "Conrad Lew@PER",
+    "value": 1
+  },
+  {
+    "source": "Mauritius@PER",
+    "target": "Jndia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Ostereich@LOC",
+    "target": "Darinn@PER",
+    "value": 1
+  },
+  {
+    "source": "Ostereich@LOC",
+    "target": "Wien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Ostereich@LOC",
+    "target": "S. G.@PER",
+    "value": 1
+  },
+  {
+    "source": "Pandectes T\u00fcrckischer@PER",
+    "target": "Tugendt Vntugendt@PER",
+    "value": 1
+  },
+  {
+    "source": "Pandectes T\u00fcrckischer@PER",
+    "target": "Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Pandectes T\u00fcrckischer@PER",
+    "target": "Jeronymus Beck von Leopoldstorff@PER",
+    "value": 1
+  },
+  {
+    "source": "Pandectes T\u00fcrckischer@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Pandectes T\u00fcrckischer@PER",
+    "target": "Hansen Lewenklaw@PER",
+    "value": 1
+  },
+  {
+    "source": "Pandectes T\u00fcrckischer@PER",
+    "target": "Suleiman Chan vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Pandectes T\u00fcrckischer@PER",
+    "target": "Constantinopol@PER",
+    "value": 1
+  },
+  {
+    "source": "Pandectes T\u00fcrckischer@PER",
+    "target": "Chronic@PER",
+    "value": 1
+  },
+  {
+    "source": "Pandectes T\u00fcrckischer@PER",
+    "target": "Osman Chan@PER",
+    "value": 1
+  },
+  {
+    "source": "Kayser@PER",
+    "target": "Paul Pesel@PER",
+    "value": 1
+  },
+  {
+    "source": "Kayser@PER",
+    "target": "Rai\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "Kayser@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Kayser@PER",
+    "target": "Kayser Karls@PER",
+    "value": 1
+  },
+  {
+    "source": "China@LOC",
+    "target": "cosas@PER",
+    "value": 2
+  },
+  {
+    "source": "China@LOC",
+    "target": "Hans Jsrael@PER",
+    "value": 1
+  },
+  {
+    "source": "China@LOC",
+    "target": "Holchteutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "China@LOC",
+    "target": "Jetzo@PER",
+    "value": 1
+  },
+  {
+    "source": "China@LOC",
+    "target": "Joan Hugo@PER",
+    "value": 1
+  },
+  {
+    "source": "China@LOC",
+    "target": "gran Reyno de la China@LOC",
+    "value": 2
+  },
+  {
+    "source": "China@LOC",
+    "target": "Kurtze@PER",
+    "value": 1
+  },
+  {
+    "source": "China@LOC",
+    "target": "Matthaevm Dresservm D.@PER",
+    "value": 1
+  },
+  {
+    "source": "China@LOC",
+    "target": "Noua Zemla@PER",
+    "value": 1
+  },
+  {
+    "source": "China@LOC",
+    "target": "Goldt@PER",
+    "value": 1
+  },
+  {
+    "source": "China@LOC",
+    "target": "Obij@LOC",
+    "value": 1
+  },
+  {
+    "source": "China@LOC",
+    "target": "Gantz@PER",
+    "value": 1
+  },
+  {
+    "source": "China@LOC",
+    "target": "Jar@LOC",
+    "value": 2
+  },
+  {
+    "source": "China@LOC",
+    "target": "Jnsel Bally@PER",
+    "value": 1
+  },
+  {
+    "source": "China@LOC",
+    "target": "Bey@PER",
+    "value": 1
+  },
+  {
+    "source": "China@LOC",
+    "target": "Juan Gonz\u00e1lez de Mendoza@PER",
+    "value": 2
+  },
+  {
+    "source": "China@LOC",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "China@LOC",
+    "target": "N\u00e4gelein@PER",
+    "value": 1
+  },
+  {
+    "source": "China@LOC",
+    "target": "HochTeutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Olavm Magnvm@PER",
+    "target": "Gothien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Olavm Magnvm@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Olavm Magnvm@PER",
+    "target": "Johann Jacoben@PER",
+    "value": 1
+  },
+  {
+    "source": "Olavm Magnvm@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Olavm Magnvm@PER",
+    "target": "Schweden@LOC",
+    "value": 1
+  },
+  {
+    "source": "cosas@PER",
+    "target": "gran Reyno de la China@LOC",
+    "value": 2
+  },
+  {
+    "source": "cosas@PER",
+    "target": "Kurtze@PER",
+    "value": 1
+  },
+  {
+    "source": "cosas@PER",
+    "target": "Matthaevm Dresservm D.@PER",
+    "value": 1
+  },
+  {
+    "source": "cosas@PER",
+    "target": "Goldt@PER",
+    "value": 1
+  },
+  {
+    "source": "cosas@PER",
+    "target": "Bey@PER",
+    "value": 1
+  },
+  {
+    "source": "cosas@PER",
+    "target": "Juan Gonz\u00e1lez de Mendoza@PER",
+    "value": 2
+  },
+  {
+    "source": "cosas@PER",
+    "target": "HochTeutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Macuieguarai@PER",
+    "target": "Walthern Ralegh@PER",
+    "value": 1
+  },
+  {
+    "source": "Macuieguarai@PER",
+    "target": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "value": 1
+  },
+  {
+    "source": "Macuieguarai@PER",
+    "target": "Lorentz Keymis@PER",
+    "value": 1
+  },
+  {
+    "source": "Macuieguarai@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Macuieguarai@PER",
+    "target": "Engellandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Macuieguarai@PER",
+    "target": "Amapaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Macuieguarai@PER",
+    "target": "Frantzen Prettie@PER",
+    "value": 1
+  },
+  {
+    "source": "Macuieguarai@PER",
+    "target": "Quito@LOC",
+    "value": 1
+  },
+  {
+    "source": "Macuieguarai@PER",
+    "target": "Guiana@LOC",
+    "value": 1
+  },
+  {
+    "source": "Macuieguarai@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Macuieguarai@PER",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Macuieguarai@PER",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jo\u00e3o@PER",
+    "target": "Chronicen@PER",
+    "value": 1
+  },
+  {
+    "source": "Jo\u00e3o@PER",
+    "target": "Morenlandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jo\u00e3o@PER",
+    "target": "Johanns@PER",
+    "value": 1
+  },
+  {
+    "source": "Jo\u00e3o@PER",
+    "target": "Francisco \u00c1lvares@PER",
+    "value": 1
+  },
+  {
+    "source": "Jo\u00e3o@PER",
+    "target": "V\u00f6lcker@PER",
+    "value": 2
+  },
+  {
+    "source": "Ioannem Georgium@PER",
+    "target": "Orient@LOC",
+    "value": 1
+  },
+  {
+    "source": "Ioannem Georgium@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Ioannem Georgium@PER",
+    "target": "Constantzischen Rath@PER",
+    "value": 1
+  },
+  {
+    "source": "Ioannem Georgium@PER",
+    "target": "Kurtze Verzeichnu\u00df Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Ioannem Georgium@PER",
+    "target": "Christi@LOC",
+    "value": 1
+  },
+  {
+    "source": "Ioannem Georgium@PER",
+    "target": "Ioannem Petrum Maffeium@PER",
+    "value": 1
+  },
+  {
+    "source": "Kayser Soleyman@PER",
+    "target": "Constantinopel@LOC",
+    "value": 1
+  },
+  {
+    "source": "Kayser Soleyman@PER",
+    "target": "Benedikt Kuripe\u0161i\u0107@PER",
+    "value": 1
+  },
+  {
+    "source": "Schm\u00e4chlichem Endt@PER",
+    "target": "K\u00f6nigshofen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Schm\u00e4chlichem Endt@PER",
+    "target": "Tauber@LOC",
+    "value": 1
+  },
+  {
+    "source": "Schm\u00e4chlichem Endt@PER",
+    "target": "Noth@PER",
+    "value": 1
+  },
+  {
+    "source": "Schm\u00e4chlichem Endt@PER",
+    "target": "Ottomans@LOC",
+    "value": 1
+  },
+  {
+    "source": "Schm\u00e4chlichem Endt@PER",
+    "target": "V. Ferdinandt@PER",
+    "value": 1
+  },
+  {
+    "source": "Schm\u00e4chlichem Endt@PER",
+    "target": "Policey Gerichtlichem Proce\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "Schm\u00e4chlichem Endt@PER",
+    "target": "Maximilian@PER",
+    "value": 1
+  },
+  {
+    "source": "Menschfresser Leuthen@PER",
+    "target": "Nidda@LOC",
+    "value": 1
+  },
+  {
+    "source": "Menschfresser Leuthen@PER",
+    "target": "Christi@LOC",
+    "value": 1
+  },
+  {
+    "source": "Menschfresser Leuthen@PER",
+    "target": "D. Joh@PER",
+    "value": 1
+  },
+  {
+    "source": "Menschfresser Leuthen@PER",
+    "target": "Hessen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Menschfresser Leuthen@PER",
+    "target": "Dedicirt@PER",
+    "value": 1
+  },
+  {
+    "source": "Meissen@LOC",
+    "target": "D\u00fcringen Marggraffen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Meissen@LOC",
+    "target": "Hansen von Mergenthal@PER",
+    "value": 1
+  },
+  {
+    "source": "Meissen@LOC",
+    "target": "Wilhelmen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Meissen@LOC",
+    "target": "Dabey@PER",
+    "value": 1
+  },
+  {
+    "source": "Meissen@LOC",
+    "target": "Jetzund@PER",
+    "value": 1
+  },
+  {
+    "source": "Walthern Ralegh@PER",
+    "target": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "value": 1
+  },
+  {
+    "source": "Walthern Ralegh@PER",
+    "target": "Lorentz Keymis@PER",
+    "value": 1
+  },
+  {
+    "source": "Walthern Ralegh@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Walthern Ralegh@PER",
+    "target": "Engellandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Walthern Ralegh@PER",
+    "target": "Amapaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Walthern Ralegh@PER",
+    "target": "Frantzen Prettie@PER",
+    "value": 1
+  },
+  {
+    "source": "Walthern Ralegh@PER",
+    "target": "Quito@LOC",
+    "value": 1
+  },
+  {
+    "source": "Walthern Ralegh@PER",
+    "target": "Guiana@LOC",
+    "value": 1
+  },
+  {
+    "source": "Walthern Ralegh@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Walthern Ralegh@PER",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Walthern Ralegh@PER",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Oost Indien@LOC",
+    "target": "Kurtze@PER",
+    "value": 1
+  },
+  {
+    "source": "Oost Indien@LOC",
+    "target": "Orientalischen Indien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Oost Indien@LOC",
+    "target": "Martio Alda@LOC",
+    "value": 1
+  },
+  {
+    "source": "Oost Indien@LOC",
+    "target": "Hochteutsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Osmanischen Stammens@PER",
+    "target": "Tugendt Vntugendt@PER",
+    "value": 1
+  },
+  {
+    "source": "Osmanischen Stammens@PER",
+    "target": "Jeronymus Beck von Leopoldstorff@PER",
+    "value": 1
+  },
+  {
+    "source": "Osmanischen Stammens@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Osmanischen Stammens@PER",
+    "target": "Hansen Lewenklaw@PER",
+    "value": 1
+  },
+  {
+    "source": "Osmanischen Stammens@PER",
+    "target": "Suleiman Chan vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Osmanischen Stammens@PER",
+    "target": "Constantinopol@PER",
+    "value": 1
+  },
+  {
+    "source": "Osmanischen Stammens@PER",
+    "target": "Chronic@PER",
+    "value": 1
+  },
+  {
+    "source": "Osmanischen Stammens@PER",
+    "target": "Osman Chan@PER",
+    "value": 1
+  },
+  {
+    "source": "Osmanischen Stammens@PER",
+    "target": "Jar Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Levinvm Hvlsivm@PER",
+    "target": "Americam@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jtem@PER",
+    "target": "Heinrich M\u00fcller@PER",
+    "value": 2
+  },
+  {
+    "source": "Hans Jsrael@PER",
+    "target": "Holchteutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hans Jsrael@PER",
+    "target": "Jetzo@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Jsrael@PER",
+    "target": "Joan Hugo@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Jsrael@PER",
+    "target": "Hans Dietherich@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Jsrael@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hans Jsrael@PER",
+    "target": "Eduart Lopez@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Jsrael@PER",
+    "target": "Congo@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Jsrael@PER",
+    "target": "Avgvstinvm Cassiodorvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Wallfart@LOC",
+    "target": "Schlesien@LOC",
+    "value": 4
+  },
+  {
+    "source": "Wallfart@LOC",
+    "target": "Melchior von Seydlitz@PER",
+    "value": 4
+  },
+  {
+    "source": "Terrae Sanctae@LOC",
+    "target": "Felix Fabri@PER",
+    "value": 2
+  },
+  {
+    "source": "Nidda@LOC",
+    "target": "Christi@LOC",
+    "value": 1
+  },
+  {
+    "source": "Nidda@LOC",
+    "target": "D. Joh@PER",
+    "value": 1
+  },
+  {
+    "source": "Nidda@LOC",
+    "target": "Hessen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Nidda@LOC",
+    "target": "Dedicirt@PER",
+    "value": 1
+  },
+  {
+    "source": "Chronicen@PER",
+    "target": "Johanns@PER",
+    "value": 1
+  },
+  {
+    "source": "Chronicen@PER",
+    "target": "V\u00f6lcker@PER",
+    "value": 1
+  },
+  {
+    "source": "N\u00fcrnberg@LOC",
+    "target": "Venedig Jerusalem@LOC",
+    "value": 1
+  },
+  {
+    "source": "Vlm@LOC",
+    "target": "Historia Niclaus Federmanns@PER",
+    "value": 1
+  },
+  {
+    "source": "Vlm@LOC",
+    "target": "Jndias@LOC",
+    "value": 1
+  },
+  {
+    "source": "H. Oseam Halen@PER",
+    "target": "Teutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "H. Oseam Halen@PER",
+    "target": "Jacob le Moyne@PER",
+    "value": 1
+  },
+  {
+    "source": "H. Oseam Halen@PER",
+    "target": "Floridam@LOC",
+    "value": 1
+  },
+  {
+    "source": "H. Oseam Halen@PER",
+    "target": "H. Ribald@PER",
+    "value": 1
+  },
+  {
+    "source": "H. Oseam Halen@PER",
+    "target": "Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "H. Oseam Halen@PER",
+    "target": "Americ\u00e6@LOC",
+    "value": 1
+  },
+  {
+    "source": "Mesopotamiam@LOC",
+    "target": "Raiss@PER",
+    "value": 2
+  },
+  {
+    "source": "Gothien@LOC",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Gothien@LOC",
+    "target": "Johann Jacoben@PER",
+    "value": 1
+  },
+  {
+    "source": "Gothien@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Gothien@LOC",
+    "target": "Schweden@LOC",
+    "value": 1
+  },
+  {
+    "source": "Persia@PER",
+    "target": "Arabia Persia Jndia vnd Ethiopia@PER",
+    "value": 1
+  },
+  {
+    "source": "Persia@PER",
+    "target": "Suria@LOC",
+    "value": 1
+  },
+  {
+    "source": "Persia@PER",
+    "target": "Egypto Syria@PER",
+    "value": 1
+  },
+  {
+    "source": "Persia@PER",
+    "target": "Ludowico Vartomans@PER",
+    "value": 1
+  },
+  {
+    "source": "Persia@PER",
+    "target": "Bolonia@PER",
+    "value": 1
+  },
+  {
+    "source": "Philippi Melanthonis@PER",
+    "target": "Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Philippi Melanthonis@PER",
+    "target": "Bartholomeum Georgiuitz Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "target": "Lorentz Keymis@PER",
+    "value": 1
+  },
+  {
+    "source": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "target": "Engellandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "target": "Amapaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "target": "Frantzen Prettie@PER",
+    "value": 1
+  },
+  {
+    "source": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "target": "Quito@LOC",
+    "value": 1
+  },
+  {
+    "source": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "target": "Guiana@LOC",
+    "value": 1
+  },
+  {
+    "source": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Avgvstinvm Cassiodorvm Reinivm@PER",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Orient@LOC",
+    "target": "Theodor vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Orient@LOC",
+    "target": "Hochteutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Orient@LOC",
+    "target": "Hollandt@PER",
+    "value": 1
+  },
+  {
+    "source": "Orient@LOC",
+    "target": "Sumatra@LOC",
+    "value": 1
+  },
+  {
+    "source": "Orient@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Orient@LOC",
+    "target": "Constantzischen Rath@PER",
+    "value": 1
+  },
+  {
+    "source": "Orient@LOC",
+    "target": "Kurtze Verzeichnu\u00df Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Orient@LOC",
+    "target": "Christi@LOC",
+    "value": 1
+  },
+  {
+    "source": "Orient@LOC",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Orient@LOC",
+    "target": "V\u00f6lcker@PER",
+    "value": 1
+  },
+  {
+    "source": "Orient@LOC",
+    "target": "Israel de Bry Gebr\u00fcder@LOC",
+    "value": 1
+  },
+  {
+    "source": "Orient@LOC",
+    "target": "Ioannem Petrum Maffeium@PER",
+    "value": 1
+  },
+  {
+    "source": "Arabia Persia Jndia vnd Ethiopia@PER",
+    "target": "Suria@LOC",
+    "value": 1
+  },
+  {
+    "source": "Arabia Persia Jndia vnd Ethiopia@PER",
+    "target": "Egypto Syria@PER",
+    "value": 1
+  },
+  {
+    "source": "Arabia Persia Jndia vnd Ethiopia@PER",
+    "target": "Ludowico Vartomans@PER",
+    "value": 1
+  },
+  {
+    "source": "Arabia Persia Jndia vnd Ethiopia@PER",
+    "target": "Bolonia@PER",
+    "value": 1
+  },
+  {
+    "source": "Leipzig@LOC",
+    "target": "Venedig@LOC",
+    "value": 2
+  },
+  {
+    "source": "Leipzig@LOC",
+    "target": "Sinai Alcair Alexandria@LOC",
+    "value": 2
+  },
+  {
+    "source": "Leipzig@LOC",
+    "target": "Hierusalem@LOC",
+    "value": 2
+  },
+  {
+    "source": "Tittel@PER",
+    "target": "Darz\u016f@PER",
+    "value": 1
+  },
+  {
+    "source": "Tittel@PER",
+    "target": "Carlos V.@PER",
+    "value": 1
+  },
+  {
+    "source": "Tittel@PER",
+    "target": "Xysto Betuleio@PER",
+    "value": 1
+  },
+  {
+    "source": "Tittel@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Tittel@PER",
+    "target": "Temixtitan@LOC",
+    "value": 1
+  },
+  {
+    "source": "Tittel@PER",
+    "target": "Ferdinandi Cortesii@PER",
+    "value": 1
+  },
+  {
+    "source": "Tittel@PER",
+    "target": "Andrea Diethero@PER",
+    "value": 1
+  },
+  {
+    "source": "Tittel@PER",
+    "target": "Carolvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Tittel@PER",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "K\u00f6nigshofen@LOC",
+    "target": "Tauber@LOC",
+    "value": 1
+  },
+  {
+    "source": "K\u00f6nigshofen@LOC",
+    "target": "Noth@PER",
+    "value": 1
+  },
+  {
+    "source": "K\u00f6nigshofen@LOC",
+    "target": "Ottomans@LOC",
+    "value": 1
+  },
+  {
+    "source": "K\u00f6nigshofen@LOC",
+    "target": "V. Ferdinandt@PER",
+    "value": 1
+  },
+  {
+    "source": "K\u00f6nigshofen@LOC",
+    "target": "Policey Gerichtlichem Proce\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "K\u00f6nigshofen@LOC",
+    "target": "Maximilian@PER",
+    "value": 1
+  },
+  {
+    "source": "Holchteutsch@LOC",
+    "target": "Jetzo@PER",
+    "value": 1
+  },
+  {
+    "source": "Holchteutsch@LOC",
+    "target": "Joan Hugo@PER",
+    "value": 1
+  },
+  {
+    "source": "Holchteutsch@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Constantinopel@LOC",
+    "target": "Benedikt Kuripe\u0161i\u0107@PER",
+    "value": 2
+  },
+  {
+    "source": "Lorentz Keymis@PER",
+    "target": "Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Lorentz Keymis@PER",
+    "target": "Engellandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Lorentz Keymis@PER",
+    "target": "Amapaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Lorentz Keymis@PER",
+    "target": "Frantzen Prettie@PER",
+    "value": 1
+  },
+  {
+    "source": "Lorentz Keymis@PER",
+    "target": "Quito@LOC",
+    "value": 1
+  },
+  {
+    "source": "Lorentz Keymis@PER",
+    "target": "Guiana@LOC",
+    "value": 1
+  },
+  {
+    "source": "Lorentz Keymis@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Lorentz Keymis@PER",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Lorentz Keymis@PER",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Theodor vnd@PER",
+    "target": "Hochteutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Theodor vnd@PER",
+    "target": "Hollandt@PER",
+    "value": 1
+  },
+  {
+    "source": "Theodor vnd@PER",
+    "target": "Sumatra@LOC",
+    "value": 1
+  },
+  {
+    "source": "Theodor vnd@PER",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Theodor vnd@PER",
+    "target": "V\u00f6lcker@PER",
+    "value": 1
+  },
+  {
+    "source": "Theodor vnd@PER",
+    "target": "Israel de Bry Gebr\u00fcder@LOC",
+    "value": 1
+  },
+  {
+    "source": "Tauber@LOC",
+    "target": "Noth@PER",
+    "value": 1
+  },
+  {
+    "source": "Tauber@LOC",
+    "target": "Ottomans@LOC",
+    "value": 1
+  },
+  {
+    "source": "Tauber@LOC",
+    "target": "V. Ferdinandt@PER",
+    "value": 1
+  },
+  {
+    "source": "Tauber@LOC",
+    "target": "Policey Gerichtlichem Proce\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "Tauber@LOC",
+    "target": "Maximilian@PER",
+    "value": 1
+  },
+  {
+    "source": "Teutsch@LOC",
+    "target": "Jacob le Moyne@PER",
+    "value": 1
+  },
+  {
+    "source": "Teutsch@LOC",
+    "target": "Floridam@LOC",
+    "value": 1
+  },
+  {
+    "source": "Teutsch@LOC",
+    "target": "H. Ribald@PER",
+    "value": 1
+  },
+  {
+    "source": "Teutsch@LOC",
+    "target": "Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "Teutsch@LOC",
+    "target": "Americ\u00e6@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jetzo@PER",
+    "target": "Joan Hugo@PER",
+    "value": 1
+  },
+  {
+    "source": "Jetzo@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hochteutsch@LOC",
+    "target": "Amsterdam@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hochteutsch@LOC",
+    "target": "Hollandia@PER",
+    "value": 1
+  },
+  {
+    "source": "Hochteutsch@LOC",
+    "target": "Hollandt@PER",
+    "value": 1
+  },
+  {
+    "source": "Hochteutsch@LOC",
+    "target": "Sumatra@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hochteutsch@LOC",
+    "target": "Conrad Lew@PER",
+    "value": 1
+  },
+  {
+    "source": "Hochteutsch@LOC",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hochteutsch@LOC",
+    "target": "V\u00f6lcker@PER",
+    "value": 1
+  },
+  {
+    "source": "Hochteutsch@LOC",
+    "target": "Jndia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hochteutsch@LOC",
+    "target": "Israel de Bry Gebr\u00fcder@LOC",
+    "value": 1
+  },
+  {
+    "source": "Joan Hugo@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Darinn@PER",
+    "target": "Wien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Darinn@PER",
+    "target": "S. G.@PER",
+    "value": 1
+  },
+  {
+    "source": "Suria@LOC",
+    "target": "Egypto Syria@PER",
+    "value": 1
+  },
+  {
+    "source": "Suria@LOC",
+    "target": "Ludowico Vartomans@PER",
+    "value": 1
+  },
+  {
+    "source": "Suria@LOC",
+    "target": "Bolonia@PER",
+    "value": 1
+  },
+  {
+    "source": "Vnd@PER",
+    "target": "Engellandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Vnd@PER",
+    "target": "Homburg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Vnd@PER",
+    "target": "Johann Jacoben@PER",
+    "value": 1
+  },
+  {
+    "source": "Vnd@PER",
+    "target": "Amapaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Vnd@PER",
+    "target": "Frantzen Prettie@PER",
+    "value": 1
+  },
+  {
+    "source": "Vnd@PER",
+    "target": "Quito@LOC",
+    "value": 1
+  },
+  {
+    "source": "Vnd@PER",
+    "target": "Guiana@LOC",
+    "value": 1
+  },
+  {
+    "source": "Vnd@PER",
+    "target": "Jar@LOC",
+    "value": 2
+  },
+  {
+    "source": "Vnd@PER",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Vnd@PER",
+    "target": "Schweden@LOC",
+    "value": 1
+  },
+  {
+    "source": "Vnd@PER",
+    "target": "Christi@LOC",
+    "value": 1
+  },
+  {
+    "source": "Vnd@PER",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Vnd@PER",
+    "target": "Hessen@LOC",
+    "value": 1
+  },
+  {
+    "source": "gran Reyno de la China@LOC",
+    "target": "Kurtze@PER",
+    "value": 1
+  },
+  {
+    "source": "gran Reyno de la China@LOC",
+    "target": "Matthaevm Dresservm D.@PER",
+    "value": 1
+  },
+  {
+    "source": "gran Reyno de la China@LOC",
+    "target": "Goldt@PER",
+    "value": 1
+  },
+  {
+    "source": "gran Reyno de la China@LOC",
+    "target": "Bey@PER",
+    "value": 1
+  },
+  {
+    "source": "gran Reyno de la China@LOC",
+    "target": "Juan Gonz\u00e1lez de Mendoza@PER",
+    "value": 2
+  },
+  {
+    "source": "gran Reyno de la China@LOC",
+    "target": "HochTeutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Noth@PER",
+    "target": "Ottomans@LOC",
+    "value": 1
+  },
+  {
+    "source": "Noth@PER",
+    "target": "V. Ferdinandt@PER",
+    "value": 1
+  },
+  {
+    "source": "Noth@PER",
+    "target": "Policey Gerichtlichem Proce\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "Noth@PER",
+    "target": "Maximilian@PER",
+    "value": 1
+  },
+  {
+    "source": "Engellandt@LOC",
+    "target": "Amapaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Engellandt@LOC",
+    "target": "Frantzen Prettie@PER",
+    "value": 1
+  },
+  {
+    "source": "Engellandt@LOC",
+    "target": "Quito@LOC",
+    "value": 1
+  },
+  {
+    "source": "Engellandt@LOC",
+    "target": "Guiana@LOC",
+    "value": 1
+  },
+  {
+    "source": "Engellandt@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Engellandt@LOC",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Engellandt@LOC",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Kurtze@PER",
+    "target": "Jnsul Cuba@PER",
+    "value": 1
+  },
+  {
+    "source": "Kurtze@PER",
+    "target": "Goldt@PER",
+    "value": 1
+  },
+  {
+    "source": "Kurtze@PER",
+    "target": "Florida@LOC",
+    "value": 1
+  },
+  {
+    "source": "Kurtze@PER",
+    "target": "Bey@PER",
+    "value": 1
+  },
+  {
+    "source": "Kurtze@PER",
+    "target": "Martio Alda@LOC",
+    "value": 1
+  },
+  {
+    "source": "Kurtze@PER",
+    "target": "Juan Gonz\u00e1lez de Mendoza@PER",
+    "value": 1
+  },
+  {
+    "source": "Kurtze@PER",
+    "target": "Hochteutsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Kurtze@PER",
+    "target": "HochTeutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Amsterdam@LOC",
+    "target": "Hollandia@PER",
+    "value": 1
+  },
+  {
+    "source": "Amsterdam@LOC",
+    "target": "Conrad Lew@PER",
+    "value": 1
+  },
+  {
+    "source": "Amsterdam@LOC",
+    "target": "Jndia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hollandia@PER",
+    "target": "Conrad Lew@PER",
+    "value": 1
+  },
+  {
+    "source": "Hollandia@PER",
+    "target": "Jndia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Benedetto Ramberti@PER",
+    "target": "Ottomani@PER",
+    "value": 1
+  },
+  {
+    "source": "Christoph Scheurl@PER",
+    "target": "Barbarossa@PER",
+    "value": 2
+  },
+  {
+    "source": "Christoph Scheurl@PER",
+    "target": "R\u00f6mischen K\u00fcnig@LOC",
+    "value": 1
+  },
+  {
+    "source": "Christoph Scheurl@PER",
+    "target": "R\u00f6mischen K\u00fcng den XXIII@LOC",
+    "value": 1
+  },
+  {
+    "source": "Christoph Scheurl@PER",
+    "target": "K\u00fcnigclich Maiestat jres@PER",
+    "value": 1
+  },
+  {
+    "source": "Christoph Scheurl@PER",
+    "target": "Karl V.@PER",
+    "value": 2
+  },
+  {
+    "source": "W\u00fcrtzburg@LOC",
+    "target": "Johann Eyselsaner@PER",
+    "value": 1
+  },
+  {
+    "source": "W\u00fcrtzburg@LOC",
+    "target": "Sanct Paulus@PER",
+    "value": 1
+  },
+  {
+    "source": "Jacob le Moyne@PER",
+    "target": "Floridam@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jacob le Moyne@PER",
+    "target": "H. Ribald@PER",
+    "value": 1
+  },
+  {
+    "source": "Jacob le Moyne@PER",
+    "target": "Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "Jacob le Moyne@PER",
+    "target": "Americ\u00e6@LOC",
+    "value": 1
+  },
+  {
+    "source": "Nordwest@LOC",
+    "target": "Engelland@LOC",
+    "value": 1
+  },
+  {
+    "source": "Nordwest@LOC",
+    "target": "Martini Forbi\u00dfher@PER",
+    "value": 1
+  },
+  {
+    "source": "Nordwest@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Christ@PER",
+    "target": "Engelland@LOC",
+    "value": 1
+  },
+  {
+    "source": "Christ@PER",
+    "target": "H. Walter Raleigh Ritter@PER",
+    "value": 1
+  },
+  {
+    "source": "Christ@PER",
+    "target": "Reichard Greinuile@PER",
+    "value": 1
+  },
+  {
+    "source": "Christ@PER",
+    "target": "Elisabeth K\u00f6nigin@PER",
+    "value": 1
+  },
+  {
+    "source": "Christ@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Venedig@LOC",
+    "target": "Sinai Alcair Alexandria@LOC",
+    "value": 2
+  },
+  {
+    "source": "Venedig@LOC",
+    "target": "Hierusalem@LOC",
+    "value": 2
+  },
+  {
+    "source": "Engelland@LOC",
+    "target": "H. Walter Raleigh Ritter@PER",
+    "value": 1
+  },
+  {
+    "source": "Engelland@LOC",
+    "target": "Reichard Greinuile@PER",
+    "value": 1
+  },
+  {
+    "source": "Engelland@LOC",
+    "target": "Elisabeth K\u00f6nigin@PER",
+    "value": 1
+  },
+  {
+    "source": "Engelland@LOC",
+    "target": "Martini Forbi\u00dfher@PER",
+    "value": 1
+  },
+  {
+    "source": "Engelland@LOC",
+    "target": "Jar@LOC",
+    "value": 2
+  },
+  {
+    "source": "H. Walter Raleigh Ritter@PER",
+    "target": "Reichard Greinuile@PER",
+    "value": 1
+  },
+  {
+    "source": "H. Walter Raleigh Ritter@PER",
+    "target": "Elisabeth K\u00f6nigin@PER",
+    "value": 1
+  },
+  {
+    "source": "H. Walter Raleigh Ritter@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Tugendt Vntugendt@PER",
+    "target": "Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Tugendt Vntugendt@PER",
+    "target": "Jeronymus Beck von Leopoldstorff@PER",
+    "value": 2
+  },
+  {
+    "source": "Tugendt Vntugendt@PER",
+    "target": "Jar@LOC",
+    "value": 2
+  },
+  {
+    "source": "Tugendt Vntugendt@PER",
+    "target": "Hansen Lewenklaw@PER",
+    "value": 2
+  },
+  {
+    "source": "Tugendt Vntugendt@PER",
+    "target": "Suleiman Chan vnd@PER",
+    "value": 2
+  },
+  {
+    "source": "Tugendt Vntugendt@PER",
+    "target": "Constantinopol@PER",
+    "value": 2
+  },
+  {
+    "source": "Tugendt Vntugendt@PER",
+    "target": "Chronic@PER",
+    "value": 2
+  },
+  {
+    "source": "Tugendt Vntugendt@PER",
+    "target": "Osman Chan@PER",
+    "value": 2
+  },
+  {
+    "source": "Tugendt Vntugendt@PER",
+    "target": "Jar Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Reichard Greinuile@PER",
+    "target": "Elisabeth K\u00f6nigin@PER",
+    "value": 1
+  },
+  {
+    "source": "Reichard Greinuile@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jgnatium von Layola@PER",
+    "target": "Francisci Xauier@PER",
+    "value": 1
+  },
+  {
+    "source": "Jgnatium von Layola@PER",
+    "target": "Jesu Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "D\u00fcringen Marggraffen@LOC",
+    "target": "Hansen von Mergenthal@PER",
+    "value": 1
+  },
+  {
+    "source": "D\u00fcringen Marggraffen@LOC",
+    "target": "Wilhelmen@LOC",
+    "value": 1
+  },
+  {
+    "source": "D\u00fcringen Marggraffen@LOC",
+    "target": "Dabey@PER",
+    "value": 1
+  },
+  {
+    "source": "D\u00fcringen Marggraffen@LOC",
+    "target": "Jetzund@PER",
+    "value": 1
+  },
+  {
+    "source": "Christi@PER",
+    "target": "Jeronymus Beck von Leopoldstorff@PER",
+    "value": 1
+  },
+  {
+    "source": "Christi@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Christi@PER",
+    "target": "Hansen Lewenklaw@PER",
+    "value": 1
+  },
+  {
+    "source": "Christi@PER",
+    "target": "Bartholomeum Georgiuitz Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Christi@PER",
+    "target": "Suleiman Chan vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Christi@PER",
+    "target": "Constantinopol@PER",
+    "value": 1
+  },
+  {
+    "source": "Christi@PER",
+    "target": "Chronic@PER",
+    "value": 1
+  },
+  {
+    "source": "Christi@PER",
+    "target": "Osman Chan@PER",
+    "value": 1
+  },
+  {
+    "source": "Hansen von Mergenthal@PER",
+    "target": "Wilhelmen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hansen von Mergenthal@PER",
+    "target": "Dabey@PER",
+    "value": 1
+  },
+  {
+    "source": "Hansen von Mergenthal@PER",
+    "target": "Jetzund@PER",
+    "value": 1
+  },
+  {
+    "source": "Egypto Syria@PER",
+    "target": "Ludowico Vartomans@PER",
+    "value": 1
+  },
+  {
+    "source": "Egypto Syria@PER",
+    "target": "Bolonia@PER",
+    "value": 1
+  },
+  {
+    "source": "Homburg@LOC",
+    "target": "Christi@LOC",
+    "value": 1
+  },
+  {
+    "source": "Homburg@LOC",
+    "target": "Hessen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Frid@PER",
+    "target": "Von de Raisz@PER",
+    "value": 1
+  },
+  {
+    "source": "Matthaevm Dresservm D.@PER",
+    "target": "Juan Gonz\u00e1lez de Mendoza@PER",
+    "value": 1
+  },
+  {
+    "source": "Ludowico Vartomans@PER",
+    "target": "Bolonia@PER",
+    "value": 1
+  },
+  {
+    "source": "Johann Jacoben@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johann Jacoben@PER",
+    "target": "Schweden@LOC",
+    "value": 1
+  },
+  {
+    "source": "Ain Schen New B\u016fch@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Ain Schen New B\u016fch@LOC",
+    "target": "Germanien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Ain Schen New B\u016fch@LOC",
+    "target": "Hans Heusl@PER",
+    "value": 1
+  },
+  {
+    "source": "Schlesien@LOC",
+    "target": "Melchior von Seydlitz@PER",
+    "value": 4
+  },
+  {
+    "source": "Paul Pesel@PER",
+    "target": "Rai\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "Paul Pesel@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Paul Pesel@PER",
+    "target": "Kayser Karls@PER",
+    "value": 1
+  },
+  {
+    "source": "Darz\u016f@PER",
+    "target": "Carlos V.@PER",
+    "value": 1
+  },
+  {
+    "source": "Darz\u016f@PER",
+    "target": "Xysto Betuleio@PER",
+    "value": 1
+  },
+  {
+    "source": "Darz\u016f@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Darz\u016f@PER",
+    "target": "Temixtitan@LOC",
+    "value": 1
+  },
+  {
+    "source": "Darz\u016f@PER",
+    "target": "Ferdinandi Cortesii@PER",
+    "value": 1
+  },
+  {
+    "source": "Darz\u016f@PER",
+    "target": "Andrea Diethero@PER",
+    "value": 1
+  },
+  {
+    "source": "Darz\u016f@PER",
+    "target": "Carolvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Darz\u016f@PER",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Darinn Brasilia@LOC",
+    "target": "L\u00fcttich@LOC",
+    "value": 2
+  },
+  {
+    "source": "Darinn Brasilia@LOC",
+    "target": "Hessen@LOC",
+    "value": 2
+  },
+  {
+    "source": "Carlos V.@PER",
+    "target": "Xysto Betuleio@PER",
+    "value": 1
+  },
+  {
+    "source": "Carlos V.@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Carlos V.@PER",
+    "target": "Temixtitan@LOC",
+    "value": 1
+  },
+  {
+    "source": "Carlos V.@PER",
+    "target": "Ferdinandi Cortesii@PER",
+    "value": 1
+  },
+  {
+    "source": "Carlos V.@PER",
+    "target": "Andrea Diethero@PER",
+    "value": 1
+  },
+  {
+    "source": "Carlos V.@PER",
+    "target": "Carolvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Carlos V.@PER",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Sinai Alcair Alexandria@LOC",
+    "target": "Hierusalem@LOC",
+    "value": 2
+  },
+  {
+    "source": "Wilhelmen Hertzogen@PER",
+    "target": "G\u00fclich Cleue@PER",
+    "value": 1
+  },
+  {
+    "source": "Wilhelmen Hertzogen@PER",
+    "target": "Maria Leonora@PER",
+    "value": 1
+  },
+  {
+    "source": "Wilhelmen Hertzogen@PER",
+    "target": "F\u00fcrstenthumb Newburg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hollandt@PER",
+    "target": "Sumatra@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hollandt@PER",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hollandt@PER",
+    "target": "V\u00f6lcker@PER",
+    "value": 1
+  },
+  {
+    "source": "Hollandt@PER",
+    "target": "Israel de Bry Gebr\u00fcder@LOC",
+    "value": 1
+  },
+  {
+    "source": "L\u00fcttich@LOC",
+    "target": "Hessen@LOC",
+    "value": 2
+  },
+  {
+    "source": "Noua Zemla@PER",
+    "target": "Obij@LOC",
+    "value": 1
+  },
+  {
+    "source": "Noua Zemla@PER",
+    "target": "Gantz@PER",
+    "value": 1
+  },
+  {
+    "source": "Noua Zemla@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Noua Zemla@PER",
+    "target": "Jnsel Bally@PER",
+    "value": 1
+  },
+  {
+    "source": "Noua Zemla@PER",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Noua Zemla@PER",
+    "target": "N\u00e4gelein@PER",
+    "value": 1
+  },
+  {
+    "source": "Jnsul Cuba@PER",
+    "target": "Florida@LOC",
+    "value": 1
+  },
+  {
+    "source": "Amapaia@LOC",
+    "target": "Frantzen Prettie@PER",
+    "value": 1
+  },
+  {
+    "source": "Amapaia@LOC",
+    "target": "Quito@LOC",
+    "value": 1
+  },
+  {
+    "source": "Amapaia@LOC",
+    "target": "Guiana@LOC",
+    "value": 1
+  },
+  {
+    "source": "Amapaia@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Amapaia@LOC",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Amapaia@LOC",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "G\u00fclich Cleue@PER",
+    "target": "Maria Leonora@PER",
+    "value": 1
+  },
+  {
+    "source": "G\u00fclich Cleue@PER",
+    "target": "F\u00fcrstenthumb Newburg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Morenlandt@LOC",
+    "target": "Francisco \u00c1lvares@PER",
+    "value": 1
+  },
+  {
+    "source": "Morenlandt@LOC",
+    "target": "V\u00f6lcker@PER",
+    "value": 1
+  },
+  {
+    "source": "Jetzundt@PER",
+    "target": "De la Nove Jn Frantzoesischer@PER",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Prettie@PER",
+    "target": "Quito@LOC",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Prettie@PER",
+    "target": "Guiana@LOC",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Prettie@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Prettie@PER",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Frantzen Prettie@PER",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Sumatra@LOC",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Sumatra@LOC",
+    "target": "V\u00f6lcker@PER",
+    "value": 1
+  },
+  {
+    "source": "Sumatra@LOC",
+    "target": "Israel de Bry Gebr\u00fcder@LOC",
+    "value": 1
+  },
+  {
+    "source": "Goldt@PER",
+    "target": "Bey@PER",
+    "value": 1
+  },
+  {
+    "source": "Goldt@PER",
+    "target": "Juan Gonz\u00e1lez de Mendoza@PER",
+    "value": 1
+  },
+  {
+    "source": "Goldt@PER",
+    "target": "HochTeutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Hans Dietherich@PER",
+    "target": "Eduart Lopez@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Dietherich@PER",
+    "target": "Congo@PER",
+    "value": 1
+  },
+  {
+    "source": "Hans Dietherich@PER",
+    "target": "Avgvstinvm Cassiodorvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Conrad Lew@PER",
+    "target": "Jndia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Rai\u00df@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Rai\u00df@PER",
+    "target": "Kayser Karls@PER",
+    "value": 1
+  },
+  {
+    "source": "Rai\u00df@PER",
+    "target": "Japon@PER",
+    "value": 1
+  },
+  {
+    "source": "Spanien@LOC",
+    "target": "Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "Spanien@LOC",
+    "target": "Hessen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Quito@LOC",
+    "target": "Guiana@LOC",
+    "value": 1
+  },
+  {
+    "source": "Quito@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Quito@LOC",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Quito@LOC",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jeronymus Beck von Leopoldstorff@PER",
+    "target": "Jar@LOC",
+    "value": 2
+  },
+  {
+    "source": "Jeronymus Beck von Leopoldstorff@PER",
+    "target": "Hansen Lewenklaw@PER",
+    "value": 2
+  },
+  {
+    "source": "Jeronymus Beck von Leopoldstorff@PER",
+    "target": "Suleiman Chan vnd@PER",
+    "value": 2
+  },
+  {
+    "source": "Jeronymus Beck von Leopoldstorff@PER",
+    "target": "Constantinopol@PER",
+    "value": 2
+  },
+  {
+    "source": "Jeronymus Beck von Leopoldstorff@PER",
+    "target": "Chronic@PER",
+    "value": 2
+  },
+  {
+    "source": "Jeronymus Beck von Leopoldstorff@PER",
+    "target": "Osman Chan@PER",
+    "value": 2
+  },
+  {
+    "source": "Jeronymus Beck von Leopoldstorff@PER",
+    "target": "Jar Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Johanns@PER",
+    "target": "V\u00f6lcker@PER",
+    "value": 1
+  },
+  {
+    "source": "Wilhelmen@LOC",
+    "target": "Dabey@PER",
+    "value": 1
+  },
+  {
+    "source": "Wilhelmen@LOC",
+    "target": "Jetzund@PER",
+    "value": 1
+  },
+  {
+    "source": "Obij@LOC",
+    "target": "Gantz@PER",
+    "value": 1
+  },
+  {
+    "source": "Obij@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Obij@LOC",
+    "target": "Jnsel Bally@PER",
+    "value": 1
+  },
+  {
+    "source": "Obij@LOC",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Obij@LOC",
+    "target": "N\u00e4gelein@PER",
+    "value": 1
+  },
+  {
+    "source": "Floridam@LOC",
+    "target": "H. Ribald@PER",
+    "value": 1
+  },
+  {
+    "source": "Floridam@LOC",
+    "target": "Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "Floridam@LOC",
+    "target": "Americ\u00e6@LOC",
+    "value": 1
+  },
+  {
+    "source": "Francisco \u00c1lvares@PER",
+    "target": "V\u00f6lcker@PER",
+    "value": 1
+  },
+  {
+    "source": "Guiana@LOC",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Guiana@LOC",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Guiana@LOC",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "H. Ribald@PER",
+    "target": "Dieterich@PER",
+    "value": 1
+  },
+  {
+    "source": "H. Ribald@PER",
+    "target": "Americ\u00e6@LOC",
+    "value": 1
+  },
+  {
+    "source": "Ottomans@LOC",
+    "target": "V. Ferdinandt@PER",
+    "value": 1
+  },
+  {
+    "source": "Ottomans@LOC",
+    "target": "Policey Gerichtlichem Proce\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "Ottomans@LOC",
+    "target": "Maximilian@PER",
+    "value": 1
+  },
+  {
+    "source": "Xysto Betuleio@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Xysto Betuleio@PER",
+    "target": "Temixtitan@LOC",
+    "value": 1
+  },
+  {
+    "source": "Xysto Betuleio@PER",
+    "target": "Ferdinandi Cortesii@PER",
+    "value": 1
+  },
+  {
+    "source": "Xysto Betuleio@PER",
+    "target": "Andrea Diethero@PER",
+    "value": 1
+  },
+  {
+    "source": "Xysto Betuleio@PER",
+    "target": "Carolvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Xysto Betuleio@PER",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Francisci Xauier@PER",
+    "target": "Jesu Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Elisabeth K\u00f6nigin@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Martini Forbi\u00dfher@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Gantz@PER",
+    "target": "Jar@LOC",
+    "value": 1
+  },
+  {
+    "source": "Gantz@PER",
+    "target": "Jnsel Bally@PER",
+    "value": 1
+  },
+  {
+    "source": "Gantz@PER",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Gantz@PER",
+    "target": "N\u00e4gelein@PER",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Jnsel Bally@PER",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Hansen Lewenklaw@PER",
+    "value": 2
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Peru@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Kayser Karls@PER",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Constantzischen Rath@PER",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Germanien@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Kurtze Verzeichnu\u00df Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Temixtitan@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Ferdinandi Cortesii@PER",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Suleiman Chan vnd@PER",
+    "value": 2
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Andrea Diethero@PER",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Constantinopol@PER",
+    "value": 2
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Carolvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Schweden@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Christi@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Chronic@PER",
+    "value": 2
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Hans Heusl@PER",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Osman Chan@PER",
+    "value": 2
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Jar Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "N\u00e4gelein@PER",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Niderl\u00e4ndischer@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jar@LOC",
+    "target": "Ioannem Petrum Maffeium@PER",
+    "value": 1
+  },
+  {
+    "source": "Jnsel Bally@PER",
+    "target": "Hollandt@LOC",
+    "value": 1
+  },
+  {
+    "source": "Jnsel Bally@PER",
+    "target": "N\u00e4gelein@PER",
+    "value": 1
+  },
+  {
+    "source": "Hansen Lewenklaw@PER",
+    "target": "Suleiman Chan vnd@PER",
+    "value": 2
+  },
+  {
+    "source": "Hansen Lewenklaw@PER",
+    "target": "Constantinopol@PER",
+    "value": 2
+  },
+  {
+    "source": "Hansen Lewenklaw@PER",
+    "target": "Chronic@PER",
+    "value": 2
+  },
+  {
+    "source": "Hansen Lewenklaw@PER",
+    "target": "Osman Chan@PER",
+    "value": 2
+  },
+  {
+    "source": "Hansen Lewenklaw@PER",
+    "target": "Jar Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Maria Leonora@PER",
+    "target": "F\u00fcrstenthumb Newburg@LOC",
+    "value": 1
+  },
+  {
+    "source": "Barbarossa@PER",
+    "target": "R\u00f6mischen K\u00fcnig@LOC",
+    "value": 1
+  },
+  {
+    "source": "Barbarossa@PER",
+    "target": "R\u00f6mischen K\u00fcng den XXIII@LOC",
+    "value": 1
+  },
+  {
+    "source": "Barbarossa@PER",
+    "target": "K\u00fcnigclich Maiestat jres@PER",
+    "value": 1
+  },
+  {
+    "source": "Barbarossa@PER",
+    "target": "Karl V.@PER",
+    "value": 2
+  },
+  {
+    "source": "Historia Niclaus Federmanns@PER",
+    "target": "Jndias@LOC",
+    "value": 1
+  },
+  {
+    "source": "Peru@LOC",
+    "target": "Arromaia@LOC",
+    "value": 1
+  },
+  {
+    "source": "Wien@LOC",
+    "target": "S. G.@PER",
+    "value": 1
+  },
+  {
+    "source": "Constantzischen Rath@PER",
+    "target": "Kurtze Verzeichnu\u00df Vnd@PER",
+    "value": 1
+  },
+  {
+    "source": "Constantzischen Rath@PER",
+    "target": "Christi@LOC",
+    "value": 1
+  },
+  {
+    "source": "Constantzischen Rath@PER",
+    "target": "Ioannem Petrum Maffeium@PER",
+    "value": 1
+  },
+  {
+    "source": "Herberstain Neyperg@LOC",
+    "target": "K\u00e4rntn R\u00f6mischer@LOC",
+    "value": 1
+  },
+  {
+    "source": "Bey@PER",
+    "target": "Juan Gonz\u00e1lez de Mendoza@PER",
+    "value": 1
+  },
+  {
+    "source": "Bey@PER",
+    "target": "HochTeutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Martio Alda@LOC",
+    "target": "Hochteutsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "V. Ferdinandt@PER",
+    "target": "Policey Gerichtlichem Proce\u00df@PER",
+    "value": 1
+  },
+  {
+    "source": "V. Ferdinandt@PER",
+    "target": "Maximilian@PER",
+    "value": 1
+  },
+  {
+    "source": "Germanien@LOC",
+    "target": "Hans Heusl@PER",
+    "value": 1
+  },
+  {
+    "source": "Kurtze Verzeichnu\u00df Vnd@PER",
+    "target": "Christi@LOC",
+    "value": 1
+  },
+  {
+    "source": "Kurtze Verzeichnu\u00df Vnd@PER",
+    "target": "Ioannem Petrum Maffeium@PER",
+    "value": 1
+  },
+  {
+    "source": "Eduart Lopez@PER",
+    "target": "Congo@PER",
+    "value": 1
+  },
+  {
+    "source": "Eduart Lopez@PER",
+    "target": "Avgvstinvm Cassiodorvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Melchior Lussy Ritter Landamman@PER",
+    "target": "Jetzund@PER",
+    "value": 1
+  },
+  {
+    "source": "Melchior Lussy Ritter Landamman@PER",
+    "target": "Christo@PER",
+    "value": 1
+  },
+  {
+    "source": "Temixtitan@LOC",
+    "target": "Ferdinandi Cortesii@PER",
+    "value": 1
+  },
+  {
+    "source": "Temixtitan@LOC",
+    "target": "Andrea Diethero@PER",
+    "value": 1
+  },
+  {
+    "source": "Temixtitan@LOC",
+    "target": "Carolvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Temixtitan@LOC",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Congo@PER",
+    "target": "Avgvstinvm Cassiodorvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Ferdinandi Cortesii@PER",
+    "target": "Andrea Diethero@PER",
+    "value": 1
+  },
+  {
+    "source": "Ferdinandi Cortesii@PER",
+    "target": "Carolvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Ferdinandi Cortesii@PER",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Suleiman Chan vnd@PER",
+    "target": "Constantinopol@PER",
+    "value": 2
+  },
+  {
+    "source": "Suleiman Chan vnd@PER",
+    "target": "Chronic@PER",
+    "value": 2
+  },
+  {
+    "source": "Suleiman Chan vnd@PER",
+    "target": "Osman Chan@PER",
+    "value": 2
+  },
+  {
+    "source": "Suleiman Chan vnd@PER",
+    "target": "Jar Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Andrea Diethero@PER",
+    "target": "Carolvm@PER",
+    "value": 1
+  },
+  {
+    "source": "Andrea Diethero@PER",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Constantinopol@PER",
+    "target": "Chronic@PER",
+    "value": 2
+  },
+  {
+    "source": "Constantinopol@PER",
+    "target": "Osman Chan@PER",
+    "value": 2
+  },
+  {
+    "source": "Constantinopol@PER",
+    "target": "Jar Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Carolvm@PER",
+    "target": "Hochte\u00fctsche@LOC",
+    "value": 1
+  },
+  {
+    "source": "Christi@LOC",
+    "target": "D. Joh@PER",
+    "value": 1
+  },
+  {
+    "source": "Christi@LOC",
+    "target": "Hessen@LOC",
+    "value": 2
+  },
+  {
+    "source": "Christi@LOC",
+    "target": "Ioannem Petrum Maffeium@PER",
+    "value": 1
+  },
+  {
+    "source": "Christi@LOC",
+    "target": "Dedicirt@PER",
+    "value": 1
+  },
+  {
+    "source": "Dabey@PER",
+    "target": "Jetzund@PER",
+    "value": 1
+  },
+  {
+    "source": "Chronic@PER",
+    "target": "Osman Chan@PER",
+    "value": 2
+  },
+  {
+    "source": "Chronic@PER",
+    "target": "Jar Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "Policey Gerichtlichem Proce\u00df@PER",
+    "target": "Maximilian@PER",
+    "value": 1
+  },
+  {
+    "source": "Dieterich@PER",
+    "target": "Americ\u00e6@LOC",
+    "value": 1
+  },
+  {
+    "source": "Dieterich@PER",
+    "target": "Hessen@LOC",
+    "value": 1
+  },
+  {
+    "source": "Juan Gonz\u00e1lez de Mendoza@PER",
+    "target": "HochTeutsch@LOC",
+    "value": 1
+  },
+  {
+    "source": "Johann Eyselsaner@PER",
+    "target": "Sanct Paulus@PER",
+    "value": 1
+  },
+  {
+    "source": "Hollandt@LOC",
+    "target": "V\u00f6lcker@PER",
+    "value": 1
+  },
+  {
+    "source": "Hollandt@LOC",
+    "target": "N\u00e4gelein@PER",
+    "value": 1
+  },
+  {
+    "source": "Hollandt@LOC",
+    "target": "Israel de Bry Gebr\u00fcder@LOC",
+    "value": 1
+  },
+  {
+    "source": "R\u00f6mischen K\u00fcnig@LOC",
+    "target": "K\u00fcnigclich Maiestat jres@PER",
+    "value": 1
+  },
+  {
+    "source": "R\u00f6mischen K\u00fcnig@LOC",
+    "target": "Karl V.@PER",
+    "value": 1
+  },
+  {
+    "source": "Jetzund@PER",
+    "target": "Christo@PER",
+    "value": 1
+  },
+  {
+    "source": "Osman Chan@PER",
+    "target": "Jar Christi@PER",
+    "value": 1
+  },
+  {
+    "source": "V\u00f6lcker@PER",
+    "target": "Israel de Bry Gebr\u00fcder@LOC",
+    "value": 1
+  },
+  {
+    "source": "D. Joh@PER",
+    "target": "Hessen@LOC",
+    "value": 1
+  },
+  {
+    "source": "D. Joh@PER",
+    "target": "Dedicirt@PER",
+    "value": 1
+  },
+  {
+    "source": "Hessen@LOC",
+    "target": "Dedicirt@PER",
+    "value": 1
+  },
+  {
+    "source": "R\u00f6mischen K\u00fcng den XXIII@LOC",
+    "target": "Karl V.@PER",
+    "value": 1
+  },
+  {
+    "source": "K\u00fcnigclich Maiestat jres@PER",
+    "target": "Karl V.@PER",
+    "value": 1
+  }
+]

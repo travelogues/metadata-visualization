@@ -1,50 +1,68 @@
 import csv
+import json
 import numpy as np
 import scipy.sparse as sparse
 import matplotlib.pyplot as plt
 
 INFILE = '../data/TravelogueD16_filtered_entities.csv'
-OUTFILE = '../data/TravelogueD16_entities_cooccurrence.csv'
+OUT_EDGE_CSV = '../data/TravelogueD16_entities_cooccurrence.csv'
+OUT_NODE_JSON = '../data/TravelogueD16_entities_nodes.json'
+OUT_EDGE_JSON = '../data/TravelogueD16_entities_edges.json'
 
-locations = []
-tuples = []
+nodes = [] # Distinct entities { 'label': ..., 'type' ... }
+edges = []
 
-arr = []
+co_occurrences = [] # The list of entities per work
 
-with open(INFILE) as infile, open(OUTFILE ,'w') as outfile:
+with open(INFILE) as infile, open(OUT_EDGE_CSV ,'w') as outfile:
+  
   reader = csv.reader(infile)
 
   next(reader)
   for row in reader:
-    locations += row[1].split(';')
-    tuples.append(row[1])
+    # Ugly hack because... Python
+    locations = [ f'{e}@LOC' for e in row[1].split(';') ] 
+    people = [ f'{e}@PER' for e in row[2].split(';') ] 
 
-  locations = list(set(locations))
-  locations = [ l for l in locations if len(l) > 2 ]
+    entities = [ e for e in locations + people if len(e) > 4 ]
 
+    nodes += entities
+
+    co_occurrences.append(entities)
+
+  # Deduplicate
+  nodes = list(set(nodes))
+
+  # Write edge list CSV (use Gephi headers)
   outfile.write('Source,Target\n')
 
-  for a in locations:
-    for b in locations:
+  for idxA in range(0, len(nodes)):
+    for idxB in range(idxA + 1, len(nodes)):
       count = 0
 
-      for t in tuples:
-        if a != b:
-          if a in t and b in t:
-              count += 1
+      for t in co_occurrences:
+        if nodes[idxA] in t and nodes[idxB] in t:
+          count += 1
 
       if (count > 0):
         # print(f'{a} x {b} = {count}')
-        # arr.append([locations.index(a), locations.index(b), count])
-        outfile.write(f'{a},{b}\n')
+        edges.append([ nodes[idxA], nodes[idxB], count ])
+        outfile.write(f'{nodes[idxA]},{nodes[idxB]}\n')
 
-"""
-matrix = np.array(arr)
-shape = tuple(matrix.max(axis=0)[:2]+1)
-coo = sparse.coo_matrix((matrix[:, 2], (matrix[:, 0], matrix[:, 1])), shape=shape,vdtype=matrix.dtype)
+with open(OUT_NODE_JSON, 'w') as outnodes, open(OUT_EDGE_JSON, 'w') as outedges:
 
-#print(repr(coo))
-fig, ax = plt.spy(coo, label=locations)
-plt.xticks(locations)
-plt.show()
-"""
+  def to_json_node(str):
+    tokens = str.split('@')
+    return { 'id': str, 'label': tokens[0], 'type': tokens[1] }
+
+  def to_json_edge(t):
+    from_node = t[0]
+    to_node = t[1]
+    count = t[2]
+    return { 'source': from_node, 'target': to_node, 'value': count }
+
+  json_nodes = [ to_json_node(n) for n in nodes ]
+  json_edges = [ to_json_edge(e) for e in edges ]
+
+  outnodes.write(json.dumps(json_nodes, indent=2))
+  outedges.write(json.dumps(json_edges, indent=2))
