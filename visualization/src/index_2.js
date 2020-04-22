@@ -1,12 +1,12 @@
 import axios from 'axios';
 import * as d3 from 'd3';
-import { uniqueNERPersons } from './utils/People';
-import { uniqueMarkerRegions, uniqueNERLocations } from './utils/Places';
+import { uniquePeople, uniqueNERPersons } from './utils/People';
+import { uniquePublicationPlaces, uniqueMarkerRegions, uniqueNERLocations } from './utils/Places';
 import Timeline from './Timeline';
-import { renderRegionsVertical } from './d3/MarkerRegions';
-import { renderWorksByDateVertical } from './d3/WorksByDate';
-import { renderNERPeople } from './d3/People';
-import { renderNERLocations } from './d3/PublicationPlaces';
+import { renderMarkerRegions } from './d3/MarkerRegions';
+import { renderWorksByDate } from './d3/WorksByDate';
+import { renderPeopleScale, renderNERPeople } from './d3/People';
+import { renderPublicationPlaces, renderNERLocations } from './d3/PublicationPlaces';
 
 import { WIDTH, HEIGHT } from './Const';
 
@@ -21,6 +21,8 @@ class App {
 
   loadData = () => {
     return axios.get('TravelogueD16.json').then(response => {
+      this.people = uniquePeople(response.data);
+      this.places = uniquePublicationPlaces(response.data);
       this.markerRegions = uniqueMarkerRegions(response.data);
       this.timeline = new Timeline(response.data);
       this.nerPeople = uniqueNERPersons(response.data);
@@ -44,13 +46,15 @@ class App {
         .attr('width', WIDTH)
         .attr('height', HEIGHT);
 
-    this.dateScale = renderWorksByDateVertical(this.timeline, svg, this.onMouseOver, this.onMouseOut);
-    this.regionScale = renderRegionsVertical(this.markerRegions, svg);
-    this.nerPeopleScale = renderNERPeople(this.nerPeople, svg);
-    this.nerLocationsScale = renderNERLocations(this.nerLocations, svg);
+    this.dateScale = renderWorksByDate(this.timeline, svg, this.onMouseOver, this.onMouseOut);
+    this.peopleScale = renderPeopleScale(this.people, svg);
+    this.placeScale = renderPublicationPlaces(this.places, svg);
+    this.regionScale = renderMarkerRegions(this.markerRegions, svg);
+    // this.nerPeopleScale = renderNERPeople(this.nerPeople, svg);
+    // this.nerLocationsScale = renderNERLocations(this.nerLocations, svg);
 
     this.svg = svg;
-    // this.updatePaths(selectedPaths);
+    this.updatePaths(selectedPaths);
   }
   
   // Horrible - clean up later

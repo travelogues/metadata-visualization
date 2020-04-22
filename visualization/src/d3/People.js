@@ -1,6 +1,6 @@
 import * as d3 from 'd3';
 
-import { WIDTH } from '../Const';
+import { WIDTH, VERTICAL_HEIGHT } from '../Const';
 
 export const renderPeopleScale = (people, svg) => {
   const scale = d3.scalePoint()
@@ -23,16 +23,11 @@ export const renderPeopleScale = (people, svg) => {
 export const renderNERPeople = (people, svg) => {
   const scale = d3.scalePoint()
     .domain(people)
-    .range([0, WIDTH]);
+    .range([0, VERTICAL_HEIGHT]);
 
-  const axis = d3.axisBottom(scale).tickFormat(n => n);
+  const axis = d3.axisLeft(scale).tickFormat(n => n);
   svg.append('g')
-    .attr('transform', 'translate(0, 600)')
+    .attr('transform', 'translate(270, 10)')
     .call(axis)
-    .selectAll('text')
-      .attr('y', 0)
-      .attr('x', 9)
-      .attr('transform', 'rotate(60)')
-      .style('text-anchor', 'start')
-      .style('font-size', '8px');
+    .selectAll('text');
 }
