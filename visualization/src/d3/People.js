@@ -27,7 +27,9 @@ export const renderNERPeople = (people, svg) => {
 
   const axis = d3.axisLeft(scale).tickFormat(n => n);
   svg.append('g')
-    .attr('transform', 'translate(270, 10)')
+    .attr('transform', 'translate(1060, 0)')
     .call(axis)
     .selectAll('text');
+
+  return scale;
 }

@@ -27,6 +27,8 @@ export const renderNERLocations = (locations, svg) => {
 
   const axis = d3.axisLeft(scale).tickFormat(n => n);
   svg.append('g')
-    .attr('transform', 'translate(460, 10)')
+    .attr('transform', 'translate(460, 0)')
     .call(axis);
+
+  return scale;
 }

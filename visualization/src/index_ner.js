@@ -1,17 +1,17 @@
 import axios from 'axios';
 import * as d3 from 'd3';
-import { uniquePeople, uniqueNERPersons } from './utils/People';
-import { uniquePublicationPlaces, uniqueMarkerRegions, uniqueNERLocations } from './utils/Places';
+import { uniqueNERPersons } from './utils/People';
+import { uniqueMarkerRegions, uniqueNERLocations } from './utils/Places';
 import Timeline from './Timeline';
-import { renderMarkerRegions } from './d3/MarkerRegions';
-import { renderWorksByDate } from './d3/WorksByDate';
-import { renderPeopleScale, renderNERPeople } from './d3/People';
-import { renderPublicationPlaces, renderNERLocations } from './d3/PublicationPlaces';
+import { renderRegionsVertical } from './d3/MarkerRegions';
+import { renderWorksByDateVertical } from './d3/WorksByDate';
+import { renderNERPeople } from './d3/People';
+import { renderNERLocations } from './d3/PublicationPlaces';
 
 import { WIDTH, HEIGHT } from './Const';
 
 import './index.scss';
-import { drawPath } from './d3/Path';
+import { drawPathVertical } from './d3/Path';
 
 class App {
 
@@ -21,9 +21,8 @@ class App {
 
   loadData = () => {
     return axios.get('TravelogueD16.json').then(response => {
-      this.people = uniquePeople(response.data);
-      this.places = uniquePublicationPlaces(response.data);
       this.markerRegions = uniqueMarkerRegions(response.data);
+      this.markerRegions.reverse();
       this.timeline = new Timeline(response.data);
       this.nerPeople = uniqueNERPersons(response.data);
       this.nerLocations = uniqueNERLocations(response.data);
@@ -46,12 +45,10 @@ class App {
         .attr('width', WIDTH)
         .attr('height', HEIGHT);
 
-    this.dateScale = renderWorksByDate(this.timeline, svg, this.onMouseOver, this.onMouseOut);
-    this.peopleScale = renderPeopleScale(this.people, svg);
-    this.placeScale = renderPublicationPlaces(this.places, svg);
-    this.regionScale = renderMarkerRegions(this.markerRegions, svg);
-    // this.nerPeopleScale = renderNERPeople(this.nerPeople, svg);
-    // this.nerLocationsScale = renderNERLocations(this.nerLocations, svg);
+    this.dateScale = renderWorksByDateVertical(this.timeline, svg, this.onMouseOver, this.onMouseOut);
+    this.regionScale = renderRegionsVertical(this.markerRegions, svg);
+    this.nerPeopleScale = renderNERPeople(this.nerPeople, svg);
+    this.nerLocationsScale = renderNERLocations(this.nerLocations, svg);
 
     this.svg = svg;
     this.updatePaths(selectedPaths);
@@ -67,17 +64,14 @@ class App {
     const records = selectedPaths ? selectedPaths : this.records;
 
     records.forEach((r, idx) => {
-      const xCoords = [
+      const yCoords = [
+        r.entities.people.map(p => this.nerPeopleScale(p)),
+        r.entities.locations.map(l => this.nerLocationsScale(l)),
         r.marker_regions.map(r => this.regionScale(r)),
-        this.dateScale(r.date),
-        this.placeScale(r.place_of_publication),
-        r.people.map(p => this.peopleScale(p))
+        this.dateScale(r.date)
       ]
 
-      if (selectedPaths)
-        drawPath(xCoords, this.svg, r.barcodes, idx);
-      else 
-        drawPath(xCoords, this.svg, r.barcodes);
+      drawPathVertical(yCoords, this.svg, r.barcodes);
     });
   }
 

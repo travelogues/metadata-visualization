@@ -22,7 +22,7 @@ export const renderRegionsVertical = (regions, svg) => {
 
   const axis = d3.axisLeft(scale).tickFormat(n => n)
   svg.append('g')
-    .attr('transform', 'translate(610, 10)')
+    .attr('transform', 'translate(610, 0)')
     .call(axis);
 
   return scale;

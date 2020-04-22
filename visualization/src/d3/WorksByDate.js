@@ -35,7 +35,7 @@ export const renderWorksByDateVertical = (timeline, svg, mouseOver, mouseOut) =>
 
   const axis = d3.axisLeft(scale).tickFormat(n => n)
   svg.append('g')
-    .attr('transform', 'translate(740, 10)')
+    .attr('transform', 'translate(740, 0)')
     .call(axis);
 
   svg.selectAll('.dot')

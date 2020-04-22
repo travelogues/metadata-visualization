@@ -1,7 +1,8 @@
 import * as d3 from 'd3';
 
-// const Y_COORDS = [ 46, 100, 250, 370 ];
 const Y_COORDS = [ 21, 100, 190, 310 ];
+
+const VERTICAL_X_COORDS = [ 1060, 460, 610, 740 ];
 
 export const drawPath = (xCoords, svg, barcodes) => {
 
@@ -46,6 +47,57 @@ export const drawPath = (xCoords, svg, barcodes) => {
       .attr('x2', x)
       .attr('y2', peopleY)
       .attr('data-barcode', barcodes.join(' '))
+  });
+
+}
+
+export const drawPathVertical = (yCoords, svg, barcodes) => {
+
+  // First level: 1 work to n regions
+  const workX = VERTICAL_X_COORDS[3];
+  const workY = yCoords[3];
+
+  const regionsX = VERTICAL_X_COORDS[2];
+  const regionsYList = yCoords[2];
+
+  regionsYList.forEach(y => {
+    svg.append('line')
+      .attr('class', 'path work-region')
+      .attr('x1', workX)
+      .attr('y1', workY)
+      .attr('x2', regionsX)
+      .attr('y2', y)
+      .attr('data-barcodes', barcodes.join(' '))
+  });
+
+  // Second level: n regions to n NER places
+  const nerPlacesX = VERTICAL_X_COORDS[1];
+  const nerPlacesYList = yCoords[1];
+
+  regionsYList.forEach(regionY => {
+    nerPlacesYList.forEach(nerPlaceY => {
+      svg.append('line')
+      .attr('class', 'path region-nerplace')
+      .attr('x1', regionsX)
+      .attr('y1', regionY)
+      .attr('x2', nerPlacesX)
+      .attr('y2', nerPlaceY)
+      .attr('data-barcodes', barcodes.join(' '))
+    });  
+  });
+
+  // Hack 1 date to n people
+  const nerPeopleX = VERTICAL_X_COORDS[0]
+  const nerPeopleYList = yCoords[0];
+
+  nerPeopleYList.forEach(nerPersonY => {
+    svg.append('line')
+    .attr('class', 'path nerplace-nerperson')
+    .attr('x1', workX)
+    .attr('y1', workY)
+    .attr('x2', nerPeopleX)
+    .attr('y2', nerPersonY)
+    .attr('data-barcodes', barcodes.join(' '))
   });
 
 }
