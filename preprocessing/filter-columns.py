@@ -4,8 +4,8 @@ something readable.
 """
 import pandas as pd
 
-INPUT_FILE = '../data/TravelogueD16_2020-03-13.csv'
-OUTPUT_FILE = '../data/TravelogueD16_filtered.csv'
+INPUT_FILE = '../data/TravelogueD17_2020-05-04.csv'
+OUTPUT_FILE = '../data/TravelogueD17_filtered.csv'
 
 data = pd.read_csv(INPUT_FILE, delim_whitespace=False, sep=',', quotechar='"', index_col=0)
 # print(data.iloc[17]) # Output a sample record
