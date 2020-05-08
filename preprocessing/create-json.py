@@ -2,9 +2,9 @@ import csv
 import json
 import re
 
-INPUT_FILE = '../data/TravelogueD16_filtered.csv'
-NER_RESULTS = '../data/TravelogueD16_filtered_entities.csv'
-OUTPUT_FILE = '../visualization/public/TravelogueD16.json'
+INPUT_FILE = '../data/TravelogueD17_filtered.csv'
+NER_RESULTS = '../data/TravelogueD17_filtered_entities.csv'
+OUTPUT_FILE = '../visualization/public/TravelogueD17.json'
 
 def load_entities():
   with open(NER_RESULTS) as infile:
@@ -35,7 +35,10 @@ def parse_gnd_field(field, default = '[Unknown]'):
 
 def parse_date(field):
   numbers_only = re.sub('[^0-9]', '', field)
-  return int(numbers_only)
+  if numbers_only:
+    return int(numbers_only)
+  else:
+    return None
 
 def parse_markers(field):
   tokens = list(map(lambda str: str.strip(), field.split(';')))
@@ -73,20 +76,23 @@ with open(INPUT_FILE, 'r') as infile, open(OUTPUT_FILE, 'w') as outfile:
     people = list(set(publishers + printers))
     if (len(people) > 1):
       people = [ p for p in people if p != '[Unknown]' ]
+
+    date = parse_date(row[6])
     
-    as_json.append({
-      'identifier': row[0],
-      'barcodes': parse_nullable(row[1], [], True),
-      'urls': parse_nullable(row[2], [], True),
-      'place_of_publication': parse_gnd_field(row[3])[0],
-      'publishers': publishers,
-      'printers': printers,
-      'people': people,
-      'date': parse_date(row[6]),
-      'marker_regions': parse_markers(row[7]),
-      'work_title': row[8],
-      'title_full': row[9],
-      'entities': entity_dict[row[0]]
-    })
+    if (date):
+      as_json.append({
+        'identifier': row[0],
+        'barcodes': parse_nullable(row[1], [], True),
+        'urls': parse_nullable(row[2], [], True),
+        'place_of_publication': parse_gnd_field(row[3])[0],
+        'publishers': publishers,
+        'printers': printers,
+        'people': people,
+        'date': parse_date(row[6]),
+        'marker_regions': parse_markers(row[7]),
+        'work_title': row[8],
+        'title_full': row[9],
+        'entities': entity_dict[row[0]] if row[0] in entity_dict else []
+      })
 
   outfile.write(json.dumps(as_json, indent=2))
