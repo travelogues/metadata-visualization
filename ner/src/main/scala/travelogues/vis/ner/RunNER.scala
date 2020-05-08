@@ -72,8 +72,8 @@ object RunNER {
 
   def main(args: Array[String]): Unit = {
 
-    val CSV = "../data/TravelogueD16_filtered.csv"
-    val OUT = "../data/TravelogueD16_filtered_entities.csv"
+    val CSV = "../data/TravelogueD17_filtered.csv"
+    val OUT = "../data/TravelogueD17_filtered_entities.csv"
 
     val outfile = openOutfile(OUT)
     outfile.write("Systemnummer,Locations,Persons\n")
