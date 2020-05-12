@@ -2,9 +2,9 @@ import csv
 import json
 import re
 
-INPUT_FILE = '../data/TravelogueD17_filtered.csv'
-NER_RESULTS = '../data/TravelogueD17_filtered_entities.csv'
-OUTPUT_FILE = '../visualization/public/TravelogueD17.json'
+INPUT_FILE = '../data/TravelogueD16_filtered.csv'
+NER_RESULTS = '../data/TravelogueD16_filtered_entities.csv'
+OUTPUT_FILE = '../visualization/public/TravelogueD16.json'
 
 def load_entities():
   with open(NER_RESULTS) as infile:
@@ -34,11 +34,17 @@ def parse_gnd_field(field, default = '[Unknown]'):
     return [ default ]
 
 def parse_date(field):
-  numbers_only = re.sub('[^0-9]', '', field)
+  """
+  fields = field.split('[')
+  numbers_only = re.sub('[^0-9]', '', fields[len(fields) - 1])
   if numbers_only:
+    if (len(numbers_only) > 4):
+      print(field)
     return int(numbers_only)
   else:
     return None
+  """
+  return int(field)
 
 def parse_markers(field):
   tokens = list(map(lambda str: str.strip(), field.split(';')))
